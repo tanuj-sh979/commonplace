@@ -15,10 +15,30 @@ export const categories: Category[] = [
 
 export const sources = readDataFile<Source[]>("sources.json", []);
 export const articles = readDataFile<Article[]>("articles.json", []);
-export const top100Articles = readDataFile<Article[]>("top100.json", []).length
-  ? readDataFile<Article[]>("top100.json", [])
+const top100Data = readDataFile<Article[]>("top100.json", []);
+export const top100Articles = top100Data.length
+  ? top100Data
   : getTopArticles(articles);
 export const canon = readDataFile<CanonGroup[]>("canon.json", []);
+
+export const categoryDescriptions: Record<Category, string> = {
+  "Original Thinking":
+    "Essays on building, ambition, taste, technology, and independent thought.",
+  "Attention & Tech":
+    "Essays on focus, media, platforms, AI, and the texture of modern attention.",
+  "Meaning & Living":
+    "Essays on time, relationships, attention, money, and how to live.",
+  Creativity:
+    "Essays on art, writing, practice, taste, and the conditions for original work.",
+  Agency:
+    "Essays on discipline, leverage, decisions, habits, and acting with intent.",
+  Learning:
+    "Essays on knowledge, science, education, memory, and better ways to understand.",
+  Relationships:
+    "Essays on friendship, intimacy, family, social life, and the work of being with others.",
+  Ideas:
+    "Essays and arguments that resist easy categorization but reward a patient read."
+};
 
 export function getTopArticles(items: Article[] = articles) {
   return [...items]
@@ -39,6 +59,33 @@ export function getSourceBySlug(slug: string) {
 
 export function getArticlesBySource(slug: string) {
   return getTopArticles(articles.filter((article) => article.sourceSlug === slug));
+}
+
+export function slugifyCategory(category: Category) {
+  return category
+    .toLowerCase()
+    .replace(/&/g, " ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+export function getCategoryBySlug(slug: string) {
+  return categories.find((category) => {
+    const categorySlug = slugifyCategory(category);
+    const legacySlug = category
+      .toLowerCase()
+      .replace(/&/g, "and")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    return categorySlug === slug || legacySlug === slug;
+  });
+}
+
+export function getArticlesByCategory(category: Category) {
+  return [...articles]
+    .filter((article) => article.category === category)
+    .sort((a, b) => b.engagementScore - a.engagementScore);
 }
 
 function readDataFile<T>(fileName: string, fallback: T) {

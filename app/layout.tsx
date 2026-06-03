@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, Newsreader } from "next/font/google";
+import { Instrument_Serif, Inter } from "next/font/google";
 import type { ReactNode } from "react";
 import { TopNav } from "@/components/top-nav";
 import "./globals.css";
@@ -10,11 +10,11 @@ const inter = Inter({
   display: "swap"
 });
 
-const newsreader = Newsreader({
+const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
-  variable: "--font-newsreader",
+  variable: "--font-instrument-serif",
   display: "swap",
-  adjustFontFallback: false
+  weight: "400"
 });
 
 export const metadata: Metadata = {
@@ -30,9 +30,9 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <body
-        className={`${inter.variable} ${newsreader.variable} min-h-screen bg-paper font-sans text-ink antialiased`}
+        className={`${inter.variable} ${instrumentSerif.variable} min-h-screen bg-paper font-sans text-ink antialiased`}
       >
-        <div className="mx-auto flex min-h-screen w-full max-w-measure flex-col px-5 py-8 sm:px-8 sm:py-10">
+        <div className="mx-auto flex min-h-screen w-full max-w-page flex-col px-5 py-7 sm:px-8 sm:py-10">
           <TopNav />
           <main className="flex-1">{children}</main>
         </div>

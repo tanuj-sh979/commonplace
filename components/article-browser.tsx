@@ -1,8 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { EngagementTags } from "@/components/engagement-tags";
-import { formatDate } from "@/lib/format";
+import { ArticleCard } from "@/components/article-card";
 import type { Article, Category } from "@/lib/types";
 
 type SortMode = "top" | "latest";
@@ -58,11 +57,11 @@ export function ArticleBrowser({
   }, [articles, category, query, sortMode, topArticles]);
 
   return (
-    <section aria-label="Article library" className="mt-10">
-      <div className="flex flex-col gap-5 border-y border-rule py-5">
+    <section aria-label="Article library" className="mt-8">
+      <div className="rounded-md border border-rule bg-surface/55 p-4 sm:p-5">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <div
-            className="inline-flex w-fit rounded-full border border-rule p-1 text-sm font-medium"
+            className="inline-flex w-fit rounded-full border border-rule bg-paper/70 p-1 text-sm font-medium"
             aria-label="Sort articles"
           >
             <button
@@ -86,7 +85,7 @@ export function ArticleBrowser({
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               placeholder="Search title, author, source"
-              className="h-10 w-full rounded-md border border-rule bg-transparent px-3 text-sm text-ink outline-none transition placeholder:text-muted/70 focus:border-clay"
+              className="h-10 w-full rounded-md border border-rule bg-paper/60 px-3 text-sm text-ink outline-none transition placeholder:text-muted/70 focus:border-clay"
               type="search"
             />
           </label>
@@ -110,9 +109,9 @@ export function ArticleBrowser({
         </div>
       </div>
 
-      <div className="mt-2">
+      <div className="mt-5 space-y-4">
         {visibleArticles.map((article) => (
-          <ArticleCard key={article.id} article={article} />
+          <ArticleCard key={article.id} article={article} compact />
         ))}
       </div>
 
@@ -124,41 +123,6 @@ export function ArticleBrowser({
         </p>
       ) : null}
     </section>
-  );
-}
-
-function ArticleCard({ article }: { article: Article }) {
-  return (
-    <article className="border-b border-rule py-7 sm:py-8">
-      <div className="mb-3 flex flex-wrap items-center gap-3">
-        <span className="rounded-full border border-rule px-2.5 py-1 text-xs font-semibold text-muted">
-          {article.category}
-        </span>
-        <EngagementTags article={article} />
-      </div>
-
-      <h2 className="font-serif text-3xl leading-tight sm:text-4xl">
-        <a
-          href={article.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="transition-colors hover:text-clay"
-        >
-          {article.title}
-        </a>
-      </h2>
-
-      <p className="mt-3 text-sm font-medium leading-6 text-muted">
-        {[article.author, article.sourceName, formatDate(article.publishedAt)]
-          .filter(Boolean)
-          .join(" · ")}
-        {article.readingMinutes ? ` · ${article.readingMinutes} min read` : ""}
-      </p>
-
-      <p className="mt-4 text-base leading-7 text-ink/80 sm:text-lg sm:leading-8">
-        {article.excerpt}
-      </p>
-    </article>
   );
 }
 

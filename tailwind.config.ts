@@ -9,18 +9,28 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        paper: "#FAF9F6",
-        ink: "#1A1A1A",
-        clay: "#B0492E",
-        rule: "#E6E0D8",
-        muted: "#6E675F"
+        paper: "#F8F3EA",
+        surface: "#FFFDF8",
+        "surface-muted": "#EFE6D8",
+        ink: "#1F1C18",
+        clay: "#A85F3D",
+        "clay-soft": "#E8C7B1",
+        sage: "#7B8266",
+        rule: "#E3D6C4",
+        muted: "#746B61"
       },
       fontFamily: {
         sans: ["var(--font-inter)", "Inter", "ui-sans-serif", "system-ui"],
-        serif: ["var(--font-newsreader)", "Newsreader", "ui-serif", "Georgia"]
+        serif: [
+          "var(--font-instrument-serif)",
+          "Instrument Serif",
+          "ui-serif",
+          "Georgia"
+        ]
       },
       maxWidth: {
-        measure: "760px"
+        measure: "780px",
+        page: "1040px"
       }
     }
   },

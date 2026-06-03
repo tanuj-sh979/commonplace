@@ -40,7 +40,7 @@ export function EngagementTags({ article }: { article: Article }) {
           href={tag.href}
           target="_blank"
           rel="noopener noreferrer"
-          className="rounded-full border border-rule px-2 py-1 text-xs font-semibold text-muted transition hover:border-clay hover:text-clay"
+          className="rounded-full border border-rule bg-paper/50 px-2 py-1 text-[11px] font-semibold text-muted transition hover:border-clay/50 hover:text-clay"
         >
           {tag.label}
         </a>

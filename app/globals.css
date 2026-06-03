@@ -7,18 +7,26 @@
 }
 
 html {
-  background: #FAF9F6;
+  background: #F8F3EA;
 }
 
 body {
-  background: #FAF9F6;
-  color: #1A1A1A;
+  background:
+    radial-gradient(circle at top left, rgba(232, 199, 177, 0.22), transparent 34rem),
+    #F8F3EA;
+  color: #1F1C18;
 }
 
 ::selection {
-  background: rgba(176, 73, 46, 0.16);
+  background: rgba(168, 95, 61, 0.18);
 }
 
 a {
   text-underline-offset: 0.18em;
+}
+
+@layer base {
+  body {
+    font-feature-settings: "kern";
+  }
 }

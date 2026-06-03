@@ -58,5 +58,235 @@
         "sourceName": "Wait But Why"
       }
     ]
+  },
+  {
+    "author": "Derek Sivers",
+    "items": [
+      {
+        "title": "No “yes.” Either “HELL YEAH!” or “no.”",
+        "url": "https://sive.rs/hellyeah",
+        "sourceName": "Derek Sivers"
+      },
+      {
+        "title": "The most successful email I ever wrote",
+        "url": "https://sive.rs/cdbe",
+        "sourceName": "Derek Sivers"
+      },
+      {
+        "title": "Relax for the same result",
+        "url": "https://sive.rs/relax",
+        "sourceName": "Derek Sivers"
+      },
+      {
+        "title": "Eliminating the time between thinking something and doing it",
+        "url": "https://sive.rs/thinking-doing",
+        "sourceName": "Derek Sivers"
+      }
+    ]
+  },
+  {
+    "author": "Kevin Kelly",
+    "items": [
+      {
+        "title": "1,000 True Fans",
+        "url": "https://kk.org/thetechnium/1000-true-fans/",
+        "sourceName": "The Technium"
+      },
+      {
+        "title": "You Are Not Late",
+        "url": "https://kk.org/thetechnium/you-are-not-late/",
+        "sourceName": "The Technium"
+      },
+      {
+        "title": "Scenius, or Communal Genius",
+        "url": "https://kk.org/thetechnium/scenius-or-comm/",
+        "sourceName": "The Technium"
+      }
+    ]
+  },
+  {
+    "author": "Patrick Collison",
+    "items": [
+      {
+        "title": "Advice",
+        "url": "https://patrickcollison.com/advice",
+        "sourceName": "Patrick Collison"
+      },
+      {
+        "title": "Fast",
+        "url": "https://patrickcollison.com/fast",
+        "sourceName": "Patrick Collison"
+      },
+      {
+        "title": "Progress",
+        "url": "https://patrickcollison.com/progress",
+        "sourceName": "Patrick Collison"
+      }
+    ]
+  },
+  {
+    "author": "Marc Andreessen",
+    "items": [
+      {
+        "title": "Why Software Is Eating the World",
+        "url": "https://a16z.com/why-software-is-eating-the-world/",
+        "sourceName": "Andreessen Horowitz"
+      },
+      {
+        "title": "It’s Time to Build",
+        "url": "https://a16z.com/its-time-to-build/",
+        "sourceName": "Andreessen Horowitz"
+      },
+      {
+        "title": "The Only Thing That Matters",
+        "url": "https://pmarchive.com/guide_to_startups_part4.html",
+        "sourceName": "pmarca"
+      }
+    ]
+  },
+  {
+    "author": "Chris Dixon",
+    "items": [
+      {
+        "title": "What the smartest people do on the weekend is what everyone else will do during the week in ten years",
+        "url": "https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years/",
+        "sourceName": "cdixon.org"
+      },
+      {
+        "title": "The Idea Maze",
+        "url": "https://cdixon.org/2013/08/04/the-idea-maze/",
+        "sourceName": "cdixon.org"
+      }
+    ]
+  },
+  {
+    "author": "Morgan Housel",
+    "items": [
+      {
+        "title": "The Psychology of Money",
+        "url": "https://collabfund.com/blog/the-psychology-of-money/",
+        "sourceName": "Collaborative Fund"
+      },
+      {
+        "title": "The Seduction of Pessimism",
+        "url": "https://collabfund.com/blog/the-seduction-of-pessimism/",
+        "sourceName": "Collaborative Fund"
+      },
+      {
+        "title": "Expiring vs. Long-Term Knowledge",
+        "url": "https://collabfund.com/blog/expiring-vs-long-term-knowledge/",
+        "sourceName": "Collaborative Fund"
+      }
+    ]
+  },
+  {
+    "author": "Farnam Street",
+    "items": [
+      {
+        "title": "Second-Order Thinking",
+        "url": "https://fs.blog/second-order-thinking/",
+        "sourceName": "Farnam Street"
+      },
+      {
+        "title": "The Map Is Not the Territory",
+        "url": "https://fs.blog/map-and-territory/",
+        "sourceName": "Farnam Street"
+      },
+      {
+        "title": "Mental Models: The Best Way to Make Intelligent Decisions",
+        "url": "https://fs.blog/mental-models/",
+        "sourceName": "Farnam Street"
+      }
+    ]
+  },
+  {
+    "author": "Bret Victor",
+    "items": [
+      {
+        "title": "Up and Down the Ladder of Abstraction",
+        "url": "https://worrydream.com/LadderOfAbstraction/",
+        "sourceName": "WorryDream"
+      },
+      {
+        "title": "Learnable Programming",
+        "url": "https://worrydream.com/LearnableProgramming/",
+        "sourceName": "WorryDream"
+      },
+      {
+        "title": "Media for Thinking the Unthinkable",
+        "url": "https://worrydream.com/MediaForThinkingTheUnthinkable/",
+        "sourceName": "WorryDream"
+      }
+    ]
+  },
+  {
+    "author": "Scott Alexander",
+    "items": [
+      {
+        "title": "Meditations on Moloch",
+        "url": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+        "sourceName": "Slate Star Codex"
+      },
+      {
+        "title": "Nonfiction Writing Advice",
+        "url": "https://slatestarcodex.com/2016/02/20/writing-advice/",
+        "sourceName": "Slate Star Codex"
+      }
+    ]
+  },
+  {
+    "author": "Gwern",
+    "items": [
+      {
+        "title": "The Scaling Hypothesis",
+        "url": "https://gwern.net/scaling-hypothesis",
+        "sourceName": "Gwern"
+      },
+      {
+        "title": "GPT-3 Creative Fiction",
+        "url": "https://gwern.net/gpt-3",
+        "sourceName": "Gwern"
+      }
+    ]
+  },
+  {
+    "author": "James Clear",
+    "items": [
+      {
+        "title": "The 1 Percent Rule",
+        "url": "https://jamesclear.com/the-1-percent-rule",
+        "sourceName": "James Clear"
+      },
+      {
+        "title": "First Principles",
+        "url": "https://jamesclear.com/first-principles",
+        "sourceName": "James Clear"
+      },
+      {
+        "title": "Inversion",
+        "url": "https://jamesclear.com/inversion",
+        "sourceName": "James Clear"
+      }
+    ]
+  },
+  {
+    "author": "Mark Manson",
+    "items": [
+      {
+        "title": "The Subtle Art of Not Giving a Fuck",
+        "url": "https://markmanson.net/not-giving-a-fuck",
+        "sourceName": "Mark Manson"
+      },
+      {
+        "title": "The Most Important Question of Your Life",
+        "url": "https://markmanson.net/question",
+        "sourceName": "Mark Manson"
+      },
+      {
+        "title": "Screw Finding Your Passion",
+        "url": "https://markmanson.net/screw-finding-your-passion",
+        "sourceName": "Mark Manson"
+      }
+    ]
   }
 ]

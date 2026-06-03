@@ -9,21 +9,28 @@ export const metadata: Metadata = {
 export default function SourcesPage() {
   return (
     <>
-      <header>
-        <h1 className="font-serif text-5xl leading-tight sm:text-6xl">Sources</h1>
-        <p className="mt-5 text-lg leading-8 text-ink/75">
-          The blogs and newsletters currently represented in the library.
+      <header className="max-w-3xl">
+        <p className="mb-4 text-sm font-semibold uppercase tracking-[0.18em] text-clay">
+          Directory
+        </p>
+        <h1 className="font-serif text-6xl leading-none sm:text-7xl">Sources</h1>
+        <p className="mt-6 text-xl leading-9 text-ink/75">
+          A curated directory of the publications and domains that keep producing
+          essays worth saving.
         </p>
       </header>
 
-      <section className="mt-10 border-t border-rule">
-        {sources.length > 0 ? sources.map((source) => (
-          <article
-            key={source.slug}
-            className="grid gap-4 border-b border-rule py-6 sm:grid-cols-[1fr_auto]"
-          >
-            <div>
-              <h2 className="font-serif text-3xl leading-tight">
+      <section className="mt-12 grid gap-4 sm:grid-cols-2">
+        {sources.length > 0 ? (
+          sources.map((source) => (
+            <article
+              key={source.slug}
+              className="rounded-md border border-rule bg-surface/60 p-5 transition duration-200 hover:-translate-y-0.5 hover:border-clay/40 hover:bg-surface"
+            >
+              <p className="text-xs font-semibold uppercase tracking-[0.14em] text-sage">
+                {source.category}
+              </p>
+              <h2 className="mt-3 font-serif text-3xl leading-none">
                 <Link
                   href={`/source/${source.slug}`}
                   className="transition-colors hover:text-clay"
@@ -31,23 +38,25 @@ export default function SourcesPage() {
                   {source.name}
                 </Link>
               </h2>
-              <p className="mt-2 text-sm font-medium leading-6 text-muted">
-                {[source.host, source.category, source.platform]
-                  .filter(Boolean)
-                  .join(" · ")}
-                {typeof source.count === "number" ? ` · ${source.count} articles` : ""}
+              <p className="mt-3 text-sm font-medium leading-6 text-muted">
+                {source.host}
               </p>
-            </div>
-            <a
-              href={source.subscribeUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="self-start text-sm font-semibold text-clay underline decoration-clay/30 transition hover:decoration-clay"
-            >
-              Subscribe
-            </a>
-          </article>
-        )) : (
+              <div className="mt-5 flex items-center justify-between gap-4 border-t border-rule pt-4">
+                <p className="text-sm font-semibold text-muted">
+                  {source.count ?? 0} articles
+                </p>
+                <a
+                  href={source.subscribeUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm font-semibold text-clay underline decoration-clay/25 transition hover:decoration-clay"
+                >
+                  Visit →
+                </a>
+              </div>
+            </article>
+          ))
+        ) : (
           <p className="border-b border-rule py-10 text-sm text-muted">
             No sources are indexed yet. Run npm run ingest to refresh the library.
           </p>

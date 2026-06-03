@@ -40,13 +40,13 @@ export default function SourcePage({ params }: SourcePageProps) {
   return (
     <>
       <header className="border-b border-rule pb-8">
-        <p className="mb-3 text-sm font-semibold uppercase tracking-[0.16em] text-clay">
+        <p className="mb-4 text-sm font-semibold uppercase tracking-[0.18em] text-clay">
           {source.category}
         </p>
-        <h1 className="font-serif text-5xl leading-tight sm:text-6xl">
+        <h1 className="font-serif text-6xl leading-none sm:text-7xl">
           {source.name}
         </h1>
-        <p className="mt-4 text-lg leading-8 text-ink/75">
+        <p className="mt-6 text-lg leading-8 text-ink/75">
           {[source.host, source.platform, `${source.count ?? articles.length} articles`]
             .filter(Boolean)
             .join(" · ")}
@@ -62,7 +62,7 @@ export default function SourcePage({ params }: SourcePageProps) {
       </header>
 
       {articles.length > 0 ? (
-        <ArticleList articles={articles} />
+        <ArticleList articles={articles} compact />
       ) : (
         <p className="py-10 text-sm text-muted">
           No articles are indexed for this source yet.
