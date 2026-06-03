@@ -1,0 +1,62 @@
+[
+  {
+    "author": "Paul Graham",
+    "items": [
+      {
+        "title": "How to Do Great Work",
+        "url": "https://paulgraham.com/greatwork.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "How to Think for Yourself",
+        "url": "https://paulgraham.com/think.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "Keep Your Identity Small",
+        "url": "https://paulgraham.com/identity.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "Life is Short",
+        "url": "https://paulgraham.com/vb.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "Do Things That Don't Scale",
+        "url": "https://paulgraham.com/ds.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "What You Can't Say",
+        "url": "https://paulgraham.com/say.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "Maker's Schedule, Manager's Schedule",
+        "url": "https://paulgraham.com/makersschedule.html",
+        "sourceName": "Paul Graham"
+      },
+      {
+        "title": "How to Make Wealth",
+        "url": "https://paulgraham.com/wealth.html",
+        "sourceName": "Paul Graham"
+      }
+    ]
+  },
+  {
+    "author": "Wait But Why",
+    "items": [
+      {
+        "title": "The Tail End",
+        "url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
+        "sourceName": "Wait But Why"
+      },
+      {
+        "title": "The Fermi Paradox",
+        "url": "https://waitbutwhy.com/2014/05/fermi-paradox.html",
+        "sourceName": "Wait But Why"
+      }
+    ]
+  }
+]

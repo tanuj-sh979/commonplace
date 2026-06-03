@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  background: #FAF9F6;
+}
+
+body {
+  background: #FAF9F6;
+  color: #1A1A1A;
+}
+
+::selection {
+  background: rgba(176, 73, 46, 0.16);
+}
+
+a {
+  text-underline-offset: 0.18em;
+}
