@@ -9,7 +9,11 @@ export function ArticleList({
   compact?: boolean;
 }) {
   return (
-    <div className="mt-7 space-y-4">
+    <div
+      className={
+        compact ? "mt-7 divide-y-0" : "mt-7 grid items-stretch gap-5 sm:grid-cols-2"
+      }
+    >
       {articles.map((article) => (
         <ArticleCard key={article.id} article={article} compact={compact} />
       ))}

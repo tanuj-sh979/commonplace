@@ -7,26 +7,39 @@
 }
 
 html {
-  background: #F8F3EA;
+  background: #FFFFFF;
 }
 
 body {
-  background:
-    radial-gradient(circle at top left, rgba(232, 199, 177, 0.22), transparent 34rem),
-    #F8F3EA;
-  color: #1F1C18;
+  background: #FFFFFF;
+  color: #171717;
 }
 
 ::selection {
-  background: rgba(168, 95, 61, 0.18);
+  background: rgba(139, 94, 60, 0.18);
 }
 
 a {
   text-underline-offset: 0.18em;
 }
 
+:focus-visible {
+  outline: 2px solid #8B5E3C;
+  outline-offset: 3px;
+}
+
 @layer base {
   body {
     font-feature-settings: "kern";
+  }
+
+  img {
+    color: transparent;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
   }
 }

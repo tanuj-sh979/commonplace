@@ -57,7 +57,7 @@
   {
     "slug": "cdixon-org",
     "name": "Chris Dixon",
-    "author": "goronbjorn",
+    "author": "Chris Dixon",
     "platform": "rss",
     "baseUrl": "https://cdixon.org",
     "subscribeUrl": "https://cdixon.org",
@@ -68,7 +68,7 @@
   {
     "slug": "lesswrong-com",
     "name": "LessWrong",
-    "author": "paulpauper",
+    "author": "LessWrong",
     "platform": "rss",
     "baseUrl": "https://lesswrong.com",
     "subscribeUrl": "https://lesswrong.com",
@@ -79,7 +79,7 @@
   {
     "slug": "noemamag-com",
     "name": "NOEMA",
-    "author": "ahalbert4",
+    "author": "NOEMA",
     "platform": "rss",
     "baseUrl": "https://noemamag.com",
     "subscribeUrl": "https://noemamag.com",
@@ -90,7 +90,7 @@
   {
     "slug": "marginalrevolution-com",
     "name": "Marginal Revolution",
-    "author": "A_D_E_P_T",
+    "author": "Marginal Revolution",
     "platform": "rss",
     "baseUrl": "https://marginalrevolution.com",
     "subscribeUrl": "https://marginalrevolution.com",
@@ -101,7 +101,7 @@
   {
     "slug": "paulgraham-com",
     "name": "Paul Graham",
-    "author": "crbelaus",
+    "author": "Paul Graham",
     "platform": "rss",
     "baseUrl": "https://paulgraham.com",
     "subscribeUrl": "https://paulgraham.com",
@@ -112,7 +112,7 @@
   {
     "slug": "quantamagazine-org",
     "name": "Quanta Magazine",
-    "author": "MetallicCloud",
+    "author": "Quanta Magazine",
     "platform": "rss",
     "baseUrl": "https://quantamagazine.org",
     "subscribeUrl": "https://quantamagazine.org",
@@ -123,7 +123,7 @@
   {
     "slug": "theatlantic-com",
     "name": "The Atlantic",
-    "author": "_tk_",
+    "author": "The Atlantic",
     "platform": "rss",
     "baseUrl": "https://theatlantic.com",
     "subscribeUrl": "https://theatlantic.com",
@@ -134,7 +134,7 @@
   {
     "slug": "aeon-co",
     "name": "Aeon",
-    "author": "tbrownaw",
+    "author": "Aeon",
     "platform": "rss",
     "baseUrl": "https://aeon.co",
     "subscribeUrl": "https://aeon.co",
@@ -145,7 +145,7 @@
   {
     "slug": "newyorker-com",
     "name": "The New Yorker",
-    "author": "bluu00",
+    "author": "The New Yorker",
     "platform": "rss",
     "baseUrl": "https://newyorker.com",
     "subscribeUrl": "https://newyorker.com",
@@ -156,7 +156,7 @@
   {
     "slug": "astralcodexten-com",
     "name": "Astral Codex Ten",
-    "author": "rendall",
+    "author": "Astral Codex Ten",
     "platform": "rss",
     "baseUrl": "https://astralcodexten.com",
     "subscribeUrl": "https://astralcodexten.com",
@@ -167,7 +167,7 @@
   {
     "slug": "edge-org",
     "name": "Edge",
-    "author": "pyduan",
+    "author": "Edge",
     "platform": "rss",
     "baseUrl": "https://edge.org",
     "subscribeUrl": "https://edge.org",
@@ -178,7 +178,7 @@
   {
     "slug": "theparisreview-org",
     "name": "The Paris Review",
-    "author": "wormold",
+    "author": "The Paris Review",
     "platform": "rss",
     "baseUrl": "https://theparisreview.org",
     "subscribeUrl": "https://theparisreview.org",
@@ -189,7 +189,7 @@
   {
     "slug": "gwern-net",
     "name": "Gwern",
-    "author": "eru",
+    "author": "Gwern",
     "platform": "rss",
     "baseUrl": "https://gwern.net",
     "subscribeUrl": "https://gwern.net",
@@ -200,7 +200,7 @@
   {
     "slug": "nautil-us",
     "name": "Nautilus",
-    "author": "rajeshmr",
+    "author": "Nautilus",
     "platform": "rss",
     "baseUrl": "https://nautil.us",
     "subscribeUrl": "https://nautil.us",
@@ -211,7 +211,7 @@
   {
     "slug": "slatestarcodex-com",
     "name": "Slate Star Codex",
-    "author": "perditus",
+    "author": "Slate Star Codex",
     "platform": "rss",
     "baseUrl": "https://slatestarcodex.com",
     "subscribeUrl": "https://slatestarcodex.com",
@@ -220,9 +220,20 @@
     "count": 44
   },
   {
+    "slug": "kk-org",
+    "name": "Kevin Kelly / The Technium",
+    "author": "Kevin Kelly / The Technium",
+    "platform": "rss",
+    "baseUrl": "https://kk.org",
+    "subscribeUrl": "https://kk.org",
+    "category": "Original Thinking",
+    "host": "kk.org",
+    "count": 43
+  },
+  {
     "slug": "sive-rs",
     "name": "Derek Sivers",
-    "author": "sivers",
+    "author": "Derek Sivers",
     "platform": "rss",
     "baseUrl": "https://sive.rs",
     "subscribeUrl": "https://sive.rs",
@@ -233,7 +244,7 @@
   {
     "slug": "fs-blog",
     "name": "Farnam Street",
-    "author": "arunc",
+    "author": "Farnam Street",
     "platform": "rss",
     "baseUrl": "https://fs.blog",
     "subscribeUrl": "https://fs.blog",
@@ -244,7 +255,7 @@
   {
     "slug": "longreads-com",
     "name": "Longreads",
-    "author": "mooreds",
+    "author": "Longreads",
     "platform": "rss",
     "baseUrl": "https://longreads.com",
     "subscribeUrl": "https://longreads.com",
@@ -255,7 +266,7 @@
   {
     "slug": "a16z-com",
     "name": "Andreessen Horowitz",
-    "author": "jger15",
+    "author": "Andreessen Horowitz",
     "platform": "rss",
     "baseUrl": "https://a16z.com",
     "subscribeUrl": "https://a16z.com",
@@ -266,7 +277,7 @@
   {
     "slug": "ribbonfarm-com",
     "name": "Ribbonfarm",
-    "author": "mcdoh",
+    "author": "Ribbonfarm",
     "platform": "rss",
     "baseUrl": "https://ribbonfarm.com",
     "subscribeUrl": "https://ribbonfarm.com",
@@ -275,9 +286,20 @@
     "count": 33
   },
   {
+    "slug": "waitbutwhy-com",
+    "name": "Wait But Why",
+    "author": "Wait But Why",
+    "platform": "rss",
+    "baseUrl": "https://waitbutwhy.com",
+    "subscribeUrl": "https://waitbutwhy.com",
+    "category": "Original Thinking",
+    "host": "waitbutwhy.com",
+    "count": 33
+  },
+  {
     "slug": "worrydream-com",
     "name": "Bret Victor",
-    "author": "li4ick",
+    "author": "Bret Victor",
     "platform": "rss",
     "baseUrl": "https://worrydream.com",
     "subscribeUrl": "https://worrydream.com",
@@ -286,20 +308,9 @@
     "count": 30
   },
   {
-    "slug": "waitbutwhy-com",
-    "name": "Wait But Why",
-    "author": "Tomte",
-    "platform": "rss",
-    "baseUrl": "https://waitbutwhy.com",
-    "subscribeUrl": "https://waitbutwhy.com",
-    "category": "Original Thinking",
-    "host": "waitbutwhy.com",
-    "count": 29
-  },
-  {
     "slug": "themarginalian-org",
     "name": "The Marginalian",
-    "author": "rzk",
+    "author": "The Marginalian",
     "platform": "rss",
     "baseUrl": "https://themarginalian.org",
     "subscribeUrl": "https://themarginalian.org",
@@ -310,7 +321,7 @@
   {
     "slug": "collabfund-com",
     "name": "Collaborative Fund",
-    "author": "pmzy",
+    "author": "Collaborative Fund",
     "platform": "rss",
     "baseUrl": "https://collabfund.com",
     "subscribeUrl": "https://collabfund.com",
@@ -321,7 +332,7 @@
   {
     "slug": "jamesclear-com",
     "name": "James Clear",
-    "author": "ingve",
+    "author": "James Clear",
     "platform": "rss",
     "baseUrl": "https://jamesclear.com",
     "subscribeUrl": "https://jamesclear.com",
@@ -332,7 +343,7 @@
   {
     "slug": "nesslabs-com",
     "name": "Ness Labs",
-    "author": "anthilemoon",
+    "author": "Ness Labs",
     "platform": "rss",
     "baseUrl": "https://nesslabs.com",
     "subscribeUrl": "https://nesslabs.com",
@@ -343,7 +354,7 @@
   {
     "slug": "patrickcollison-com",
     "name": "Patrick Collison",
-    "author": "doppp",
+    "author": "Patrick Collison",
     "platform": "rss",
     "baseUrl": "https://patrickcollison.com",
     "subscribeUrl": "https://patrickcollison.com",
@@ -352,20 +363,9 @@
     "count": 12
   },
   {
-    "slug": "kk-org",
-    "name": "Kevin Kelly / The Technium",
-    "author": "zdw",
-    "platform": "rss",
-    "baseUrl": "https://kk.org",
-    "subscribeUrl": "https://kk.org",
-    "category": "Original Thinking",
-    "host": "kk.org",
-    "count": 8
-  },
-  {
     "slug": "pmarchive-com",
     "name": "Marc Andreessen Archive",
-    "author": "mobitar",
+    "author": "Marc Andreessen Archive",
     "platform": "rss",
     "baseUrl": "https://pmarchive.com",
     "subscribeUrl": "https://pmarchive.com",
@@ -376,7 +376,7 @@
   {
     "slug": "moretothat-com",
     "name": "More To That",
-    "author": "wallflower",
+    "author": "More To That",
     "platform": "rss",
     "baseUrl": "https://moretothat.com",
     "subscribeUrl": "https://moretothat.com",
@@ -394,27 +394,5 @@
     "category": "Meaning & Living",
     "host": "home.moretothat.com",
     "count": 5
-  },
-  {
-    "slug": "wait-but-why-production-mystagingwebsite-com",
-    "name": "Wait But Why",
-    "author": "_zhqs",
-    "platform": "rss",
-    "baseUrl": "https://wait-but-why-production.mystagingwebsite.com",
-    "subscribeUrl": "https://wait-but-why-production.mystagingwebsite.com",
-    "category": "Ideas",
-    "host": "wait-but-why-production.mystagingwebsite.com",
-    "count": 4
-  },
-  {
-    "slug": "quantifiedself-com",
-    "name": "Quantified Self",
-    "author": "alexandros",
-    "platform": "rss",
-    "baseUrl": "https://quantifiedself.com",
-    "subscribeUrl": "https://quantifiedself.com",
-    "category": "Ideas",
-    "host": "quantifiedself.com",
-    "count": 1
   }
 ]

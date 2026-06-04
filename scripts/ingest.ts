@@ -42,6 +42,7 @@ type HeadMetadata = {
   author?: string;
   sourceName?: string;
   coverImage?: string;
+  thumbnailUrl?: string;
   canonical?: string;
 };
 
@@ -53,6 +54,7 @@ type CandidateInput = {
   url: string;
   publishedAt?: string;
   coverImage?: string;
+  thumbnailUrl?: string;
   preferredHost?: string;
   platform: "hn" | "reddit" | "substack";
   hn?: NonNullable<PlatformSignals["hn"]>;
@@ -223,6 +225,7 @@ async function fetchSubstack(articles: Map<string, WorkingArticle>, stats: Stats
             url: postUrl,
             publishedAt: post.post_date,
             coverImage: post.cover_image,
+            thumbnailUrl: post.cover_image,
             preferredHost: getHost(source.baseUrl, { preservePrefix: true }),
             platform: "substack",
             substack: {
@@ -342,6 +345,7 @@ function addCandidate(
       comments: 0,
       engagementScore: 0,
       coverImage: input.coverImage,
+      thumbnailUrl: input.thumbnailUrl || input.coverImage,
       platforms: {},
       _host: host,
       _preferredHost: input.preferredHost
@@ -360,12 +364,16 @@ function addCandidate(
     "short"
   );
   current.coverImage = current.coverImage || input.coverImage;
+  current.thumbnailUrl =
+    current.thumbnailUrl || input.thumbnailUrl || input.coverImage;
   current._preferredHost = current._preferredHost || input.preferredHost;
 
   if (input.platform === "substack") {
     current.author = cleanText(input.author) || current.author;
     current.sourceName = cleanText(input.sourceName) || current.sourceName;
     current.coverImage = input.coverImage || current.coverImage;
+    current.thumbnailUrl =
+      input.thumbnailUrl || input.coverImage || current.thumbnailUrl;
     current.url = outboundUrl;
     current._preferredHost = input.preferredHost || current._preferredHost;
   }
@@ -384,7 +392,7 @@ async function enrichWithMetadata(
   stats: Stats
 ) {
   const enriched = await mapLimit(articles, 5, async (article) => {
-  const key = canonicalUrl(article.url);
+    const key = canonicalUrl(article.url);
     const cached = cache[key];
 
     if (cached) {
@@ -446,6 +454,7 @@ async function fetchHeadMetadata(url: string): Promise<HeadMetadata> {
     $("link[rel='canonical']").attr("href"),
     response.url || url
   );
+  const imageUrl = metadataImage($, response.url || url);
 
   return {
     title:
@@ -456,10 +465,8 @@ async function fetchHeadMetadata(url: string): Promise<HeadMetadata> {
       meta($, "property", "og:description") ||
       meta($, "name", "description") ||
       meta($, "name", "twitter:description"),
-    coverImage: absolutize(
-      meta($, "property", "og:image") || meta($, "name", "twitter:image"),
-      response.url || url
-    ),
+    coverImage: imageUrl,
+    thumbnailUrl: imageUrl,
     sourceName: meta($, "property", "og:site_name"),
     author:
       meta($, "property", "article:author") ||
@@ -471,9 +478,13 @@ async function fetchHeadMetadata(url: string): Promise<HeadMetadata> {
 
 function applyMetadata(article: WorkingArticle, meta: HeadMetadata) {
   const next = { ...article };
-  const outboundUrl = meta.canonical
+  const canonicalUrlCandidate = meta.canonical
     ? toOutboundUrl(meta.canonical, article._preferredHost)
-    : article.url;
+    : undefined;
+  const outboundUrl =
+    canonicalUrlCandidate && shouldUseCanonical(canonicalUrlCandidate, article.url)
+      ? canonicalUrlCandidate
+      : article.url;
   const canonical = canonicalUrl(outboundUrl);
   const host = getHost(canonical) || article._host;
 
@@ -494,9 +505,33 @@ function applyMetadata(article: WorkingArticle, meta: HeadMetadata) {
     "short"
   );
   next.coverImage = article.coverImage || meta.coverImage;
+  next.thumbnailUrl = article.thumbnailUrl || meta.thumbnailUrl || meta.coverImage;
   next.id = idFromCanonicalUrl(next.url);
 
   return next;
+}
+
+function shouldUseCanonical(candidate: string, current: string) {
+  try {
+    const candidateUrl = new URL(candidate);
+    const currentUrl = new URL(current);
+    const sameHost =
+      normalizeHost(candidateUrl.hostname) === normalizeHost(currentUrl.hostname);
+    const candidatePath = candidateUrl.pathname.replace(/\/$/, "");
+    const currentPath = currentUrl.pathname.replace(/\/$/, "");
+
+    if (!sameHost) {
+      return false;
+    }
+
+    if (!candidatePath && currentPath) {
+      return false;
+    }
+
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function finalizeArticles(articles: WorkingArticle[]) {
@@ -521,13 +556,17 @@ function finalizeArticles(articles: WorkingArticle[]) {
           ? platforms.substack.likes + 3 * platforms.substack.comments
           : 0);
 
+      const sourceName =
+        DOMAIN_DISPLAY_NAME[host] || article.sourceName || nameFromHost(host);
+      const thumbnailUrl = article.thumbnailUrl || article.coverImage;
+
       return {
         id: idFromCanonicalUrl(article.url),
         title: article.title,
         excerpt: article.excerpt,
-        author: article.author || article.sourceName,
+        author: article.author || sourceName,
         sourceSlug: slugForHost(host),
-        sourceName: article.sourceName || nameFromHost(host),
+        sourceName,
         url: article.url,
         publishedAt: article.publishedAt,
         category: categoryForHost(host),
@@ -536,6 +575,7 @@ function finalizeArticles(articles: WorkingArticle[]) {
         comments,
         engagementScore,
         ...(article.coverImage ? { coverImage: article.coverImage } : {}),
+        ...(thumbnailUrl ? { thumbnailUrl } : {}),
         platforms
       } satisfies Article;
     })
@@ -582,7 +622,7 @@ function deriveSources(articles: Article[]) {
     sources.set(slug, {
       slug,
       name: DOMAIN_DISPLAY_NAME[host] || article.sourceName || nameFromHost(host),
-      author: article.author || nameFromHost(host),
+      author: DOMAIN_DISPLAY_NAME[host] || nameFromHost(host),
       platform: "rss",
       baseUrl: `https://${host}`,
       subscribeUrl: `https://${host}`,
@@ -604,6 +644,8 @@ function mergeWorkingArticle(target: WorkingArticle, incoming: WorkingArticle) {
   target.author = richerText(target.author, incoming.author, "short");
   target.sourceName = richerText(target.sourceName, incoming.sourceName, "short");
   target.coverImage = target.coverImage || incoming.coverImage;
+  target.thumbnailUrl =
+    target.thumbnailUrl || incoming.thumbnailUrl || incoming.coverImage;
   if (isAfter(incoming.publishedAt, target.publishedAt)) {
     target.publishedAt = incoming.publishedAt;
   }
@@ -819,6 +861,27 @@ function meta(
   return cleanText($(`meta[${attr}='${value}']`).attr("content"));
 }
 
+function metadataImage($: ReturnType<typeof load>, base: string) {
+  const candidates = [
+    meta($, "property", "og:image"),
+    meta($, "property", "og:image:url"),
+    meta($, "property", "og:image:secure_url"),
+    meta($, "name", "twitter:image"),
+    meta($, "name", "twitter:image:src"),
+    meta($, "property", "article:image"),
+    meta($, "name", "parsely-image-url")
+  ];
+
+  for (const candidate of candidates) {
+    const imageUrl = absolutize(candidate, base);
+    if (isUsableImageUrl(imageUrl)) {
+      return imageUrl;
+    }
+  }
+
+  return undefined;
+}
+
 function absolutize(value: string | undefined, base: string) {
   if (!value) {
     return undefined;
@@ -827,6 +890,19 @@ function absolutize(value: string | undefined, base: string) {
     return new URL(value, base).toString();
   } catch {
     return undefined;
+  }
+}
+
+function isUsableImageUrl(value: string | undefined) {
+  if (!value) {
+    return false;
+  }
+
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" || url.protocol === "http:";
+  } catch {
+    return false;
   }
 }
 

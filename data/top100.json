@@ -14,6 +14,7 @@
     "comments": 501,
     "engagementScore": 18235,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
       "hn": {
         "points": 58,
@@ -23,29 +24,6 @@
       "substack": {
         "likes": 16713,
         "comments": 462
-      }
-    }
-  },
-  {
-    "id": "kk-org",
-    "title": "Amish Hackers: How the Amish actually use and build their own tech",
-    "excerpt": "[Translations: Belarusian, Chinese, Estonian, French, German, Italian, Japanese, Polish, Portuguese, Russian, Spanish, Turkish] The internet is a copy machine. At its most foundational level, it copies every action, every character, every thought we make while we ride upon it. In order to … Continue reading →",
-    "author": "zdw",
-    "sourceSlug": "kk-org",
-    "sourceName": "ct2",
-    "url": "https://kk.org",
-    "publishedAt": "2026-01-04T16:32:13Z",
-    "category": "Original Thinking",
-    "readingMinutes": 6,
-    "likes": 7560,
-    "comments": 3946,
-    "engagementScore": 15452,
-    "coverImage": "https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png",
-    "platforms": {
-      "hn": {
-        "points": 7560,
-        "comments": 3946,
-        "itemUrl": "https://news.ycombinator.com/item?id=31199300"
       }
     }
   },
@@ -64,6 +42,7 @@
     "comments": 911,
     "engagementScore": 14794,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
       "hn": {
         "points": 313,
@@ -91,6 +70,7 @@
     "comments": 1119,
     "engagementScore": 14181,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "platforms": {
       "hn": {
         "points": 551,
@@ -118,6 +98,7 @@
     "comments": 146,
     "engagementScore": 11254,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "platforms": {
       "substack": {
         "likes": 10816,
@@ -140,6 +121,7 @@
     "comments": 619,
     "engagementScore": 5879,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "platforms": {
       "hn": {
         "points": 760,
@@ -211,6 +193,7 @@
     "comments": 1291,
     "engagementScore": 4865,
     "coverImage": "https://cdn.theatlantic.com/thumbor/3XBevuI50bX2JBa7sezKu1AaFCc=/0x440:5990x3560/1200x625/media/img/mt/2025/03/GettyImages_2204323444-1/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/3XBevuI50bX2JBa7sezKu1AaFCc=/0x440:5990x3560/1200x625/media/img/mt/2025/03/GettyImages_2204323444-1/original.jpg",
     "platforms": {
       "hn": {
         "points": 2283,
@@ -234,6 +217,7 @@
     "comments": 127,
     "engagementScore": 4798,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
     "platforms": {
       "hn": {
         "points": 133,
@@ -261,6 +245,7 @@
     "comments": 70,
     "engagementScore": 4655,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "platforms": {
       "substack": {
         "likes": 4445,
@@ -283,6 +268,7 @@
     "comments": 467,
     "engagementScore": 4600,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-afP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe75613ed-17ad-4c07-a42a-e1948e750fee_1268x974.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-afP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe75613ed-17ad-4c07-a42a-e1948e750fee_1268x974.png",
     "platforms": {
       "substack": {
         "likes": 3199,
@@ -305,6 +291,7 @@
     "comments": 1068,
     "engagementScore": 4414,
     "coverImage": "https://media.newyorker.com/photos/5d4af40ebc1c63000983cdbe/16:9/w_1280,c_limit/Wiener-HackerNews.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/5d4af40ebc1c63000983cdbe/16:9/w_1280,c_limit/Wiener-HackerNews.jpg",
     "platforms": {
       "hn": {
         "points": 2278,
@@ -328,6 +315,7 @@
     "comments": 1671,
     "engagementScore": 4226,
     "coverImage": "https://cdn.theatlantic.com/thumbor/iTTHd6Soi_UpFu7xrnS4_hvahhE=/0x43:2000x1085/1200x625/media/img/mt/2025/02/DogeData/original.gif",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/iTTHd6Soi_UpFu7xrnS4_hvahhE=/0x43:2000x1085/1200x625/media/img/mt/2025/02/DogeData/original.gif",
     "platforms": {
       "hn": {
         "points": 884,
@@ -351,6 +339,7 @@
     "comments": 1120,
     "engagementScore": 4223,
     "coverImage": "https://media.newyorker.com/photos/5f440f3aaf580809467117ab/16:9/w_1280,c_limit/Baia-AccomplishedMore.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/5f440f3aaf580809467117ab/16:9/w_1280,c_limit/Baia-AccomplishedMore.jpg",
     "platforms": {
       "hn": {
         "points": 1983,
@@ -396,6 +385,7 @@
     "comments": 916,
     "engagementScore": 4034,
     "coverImage": "https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg",
     "platforms": {
       "hn": {
         "points": 2202,
@@ -419,6 +409,7 @@
     "comments": 1725,
     "engagementScore": 3941,
     "coverImage": "https://cdn.theatlantic.com/thumbor/7TrVZTQ93bKSN2YIXjlUQZ77kSA=/0x84:3950x2141/1200x625/media/img/mt/2022/01/vaccinated_done/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/7TrVZTQ93bKSN2YIXjlUQZ77kSA=/0x84:3950x2141/1200x625/media/img/mt/2022/01/vaccinated_done/original.jpg",
     "platforms": {
       "hn": {
         "points": 491,
@@ -464,6 +455,7 @@
     "comments": 1547,
     "engagementScore": 3867,
     "coverImage": "https://cdn.theatlantic.com/thumbor/xxRexX0i4JnLi1ZXAtHWkZ2U_z8=/0x53:2496x1353/1200x625/media/img/mt/2021/08/Youre_Going_to_Get_Covid/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/xxRexX0i4JnLi1ZXAtHWkZ2U_z8=/0x53:2496x1353/1200x625/media/img/mt/2021/08/Youre_Going_to_Get_Covid/original.jpg",
     "platforms": {
       "hn": {
         "points": 773,
@@ -487,6 +479,7 @@
     "comments": 1008,
     "engagementScore": 3836,
     "coverImage": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2020/04/Software_is_Eating_the_World_10_Year_Twitter.jpg",
+    "thumbnailUrl": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2020/04/Software_is_Eating_the_World_10_Year_Twitter.jpg",
     "platforms": {
       "hn": {
         "points": 1820,
@@ -532,6 +525,7 @@
     "comments": 1153,
     "engagementScore": 3677,
     "coverImage": "https://cdn.theatlantic.com/thumbor/Hvo7IQBOR6gOuOGlbI--Zsi9x8w=/0x480:2000x1522/1200x625/media/img/mt/2024/09/SportsGambling/original.png",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/Hvo7IQBOR6gOuOGlbI--Zsi9x8w=/0x480:2000x1522/1200x625/media/img/mt/2024/09/SportsGambling/original.png",
     "platforms": {
       "hn": {
         "points": 1371,
@@ -555,6 +549,7 @@
     "comments": 332,
     "engagementScore": 3671,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!6HGS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6c827bc-d15d-4152-a50a-dd6ee6251207_1328x960.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!6HGS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6c827bc-d15d-4152-a50a-dd6ee6251207_1328x960.png",
     "platforms": {
       "substack": {
         "likes": 2675,
@@ -621,6 +616,7 @@
     "comments": 198,
     "engagementScore": 3410,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-kUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf018d7b-9bfc-4ae2-9c03-cf305fdab58d_1326x1084.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-kUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf018d7b-9bfc-4ae2-9c03-cf305fdab58d_1326x1084.png",
     "platforms": {
       "substack": {
         "likes": 2816,
@@ -643,6 +639,7 @@
     "comments": 1194,
     "engagementScore": 3369,
     "coverImage": "https://cdn.theatlantic.com/thumbor/FXhjanIFWBhu0IKLNZlV0Y9ZSp4=/0x43:2000x1085/1200x625/media/img/2023/03/DIS_Packer_Language_HP/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/FXhjanIFWBhu0IKLNZlV0Y9ZSp4=/0x43:2000x1085/1200x625/media/img/2023/03/DIS_Packer_Language_HP/original.jpg",
     "platforms": {
       "hn": {
         "points": 981,
@@ -666,6 +663,7 @@
     "comments": 286,
     "engagementScore": 3110,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/1905812d-a8b5-423c-bd19-effc5bdc46cc_1216x966.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1905812d-a8b5-423c-bd19-effc5bdc46cc_1216x966.png",
     "platforms": {
       "substack": {
         "likes": 2252,
@@ -688,6 +686,7 @@
     "comments": 180,
     "engagementScore": 3097,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!wAE3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb08bee4-cba3-41f7-aa0c-67f307789d75_830x578.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!wAE3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb08bee4-cba3-41f7-aa0c-67f307789d75_830x578.png",
     "platforms": {
       "substack": {
         "likes": 2557,
@@ -710,6 +709,7 @@
     "comments": 277,
     "engagementScore": 3057,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!jygJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7fb0ff-d0da-4f32-91f3-f20fb768fc58_1200x841.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!jygJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7fb0ff-d0da-4f32-91f3-f20fb768fc58_1200x841.png",
     "platforms": {
       "hn": {
         "points": 773,
@@ -737,6 +737,7 @@
     "comments": 328,
     "engagementScore": 3033,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!6FPZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faefeb0d5-aa18-4bf0-a640-b5194858bbfb_1276x994.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!6FPZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faefeb0d5-aa18-4bf0-a640-b5194858bbfb_1276x994.png",
     "platforms": {
       "substack": {
         "likes": 2049,
@@ -759,6 +760,7 @@
     "comments": 224,
     "engagementScore": 3020,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
     "platforms": {
       "substack": {
         "likes": 2348,
@@ -803,6 +805,7 @@
     "comments": 1086,
     "engagementScore": 2950,
     "coverImage": "https://media.newyorker.com/photos/654bf23c9d37df3d9f9cd353/16:9/w_1280,c_limit/231120_r43375.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/654bf23c9d37df3d9f9cd353/16:9/w_1280,c_limit/231120_r43375.jpg",
     "platforms": {
       "hn": {
         "points": 778,
@@ -826,6 +829,7 @@
     "comments": 1184,
     "engagementScore": 2844,
     "coverImage": "https://cdn.theatlantic.com/thumbor/-KWyY8kUDJ_gwkWJz2eCFA3bMEk=/6x0:4798x2496/1200x625/media/img/mt/2023/07/oregon_drug_lead/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/-KWyY8kUDJ_gwkWJz2eCFA3bMEk=/6x0:4798x2496/1200x625/media/img/mt/2023/07/oregon_drug_lead/original.jpg",
     "platforms": {
       "hn": {
         "points": 476,
@@ -959,6 +963,7 @@
     "comments": 775,
     "engagementScore": 2712,
     "coverImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/PROTON_1200_Social.webp",
+    "thumbnailUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/PROTON_1200_Social.webp",
     "platforms": {
       "hn": {
         "points": 1162,
@@ -982,6 +987,7 @@
     "comments": 174,
     "engagementScore": 2647,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
     "platforms": {
       "substack": {
         "likes": 2125,
@@ -1004,6 +1010,7 @@
     "comments": 606,
     "engagementScore": 2631,
     "coverImage": "https://cdn.theatlantic.com/thumbor/N8NZv7-uzOrOPhOrDD5p317hwzQ=/0x147:1999x1188/1200x625/media/img/2017/05/WEL_Tizon_Lola_Lead_2x3/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/N8NZv7-uzOrOPhOrDD5p317hwzQ=/0x147:1999x1188/1200x625/media/img/2017/05/WEL_Tizon_Lola_Lead_2x3/original.jpg",
     "platforms": {
       "hn": {
         "points": 1419,
@@ -1027,6 +1034,7 @@
     "comments": 912,
     "engagementScore": 2588,
     "coverImage": "https://cdn.theatlantic.com/thumbor/ry3QjaGGg60x6abkC9rgnF1F_Hw=/0x51:2396x1299/1200x625/media/img/mt/2022/05/ACLU_free_speech/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/ry3QjaGGg60x6abkC9rgnF1F_Hw=/0x51:2396x1299/1200x625/media/img/mt/2022/05/ACLU_free_speech/original.jpg",
     "platforms": {
       "hn": {
         "points": 764,
@@ -1072,6 +1080,7 @@
     "comments": 1034,
     "engagementScore": 2574,
     "coverImage": "https://media.newyorker.com/photos/686e9f7144479bdd2481deb7/16:9/w_1280,c_limit/r46719.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/686e9f7144479bdd2481deb7/16:9/w_1280,c_limit/r46719.jpg",
     "platforms": {
       "hn": {
         "points": 506,
@@ -1095,6 +1104,7 @@
     "comments": 78,
     "engagementScore": 2561,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
     "platforms": {
       "hn": {
         "points": 66,
@@ -1144,6 +1154,7 @@
     "comments": 303,
     "engagementScore": 2557,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!xjsH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b846f69-2c02-4056-8730-50f3b54fc40f_1164x1044.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!xjsH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b846f69-2c02-4056-8730-50f3b54fc40f_1164x1044.png",
     "platforms": {
       "hn": {
         "points": 102,
@@ -1171,6 +1182,7 @@
     "comments": 604,
     "engagementScore": 2480,
     "coverImage": "https://media.ribbonfarm.com/2009/10/hughMcLeodCompanyHierarchy.jpg",
+    "thumbnailUrl": "https://media.ribbonfarm.com/2009/10/hughMcLeodCompanyHierarchy.jpg",
     "platforms": {
       "hn": {
         "points": 1272,
@@ -1194,6 +1206,7 @@
     "comments": 584,
     "engagementScore": 2472,
     "coverImage": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Social.jpg",
+    "thumbnailUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Social.jpg",
     "platforms": {
       "hn": {
         "points": 1304,
@@ -1261,6 +1274,7 @@
     "comments": 234,
     "engagementScore": 2457,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!NYSe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec20b8d7-87ca-46da-9369-2315f89f5b64_1326x942.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!NYSe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec20b8d7-87ca-46da-9369-2315f89f5b64_1326x942.png",
     "platforms": {
       "substack": {
         "likes": 1755,
@@ -1283,6 +1297,7 @@
     "comments": 968,
     "engagementScore": 2450,
     "coverImage": "https://cdn.theatlantic.com/thumbor/03yEBh57vwyqxDaM7IMF2Kq2i-I=/0x58:2000x1100/1200x625/media/img/mt/2020/06/webart_coronaviruswrongway_FINAL/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/03yEBh57vwyqxDaM7IMF2Kq2i-I=/0x58:2000x1100/1200x625/media/img/mt/2020/06/webart_coronaviruswrongway_FINAL/original.jpg",
     "platforms": {
       "hn": {
         "points": 514,
@@ -1372,6 +1387,7 @@
     "comments": 231,
     "engagementScore": 2419,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
     "platforms": {
       "hn": {
         "points": 184,
@@ -1399,11 +1415,36 @@
     "comments": 924,
     "engagementScore": 2379,
     "coverImage": "https://media.newyorker.com/photos/6807f29db58d42c69de94b74/16:9/w_1280,c_limit/NewYorker_MetaAntitrust_final.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/6807f29db58d42c69de94b74/16:9/w_1280,c_limit/NewYorker_MetaAntitrust_final.jpg",
     "platforms": {
       "hn": {
         "points": 531,
         "comments": 924,
         "itemUrl": "https://news.ycombinator.com/item?id=43780377"
+      }
+    }
+  },
+  {
+    "id": "kk-org-thetechnium-103-bits-of-advice-i-wish-i-had-known",
+    "title": "103 Bits of Advice I Wish I Had Known",
+    "excerpt": "UPDATE Several years ago on my 68th birthday I wrote up 68 bits of advice for my adult children, and posted them here. The bits were extremely popular, and they were widely shared by others. I was encouraged to write … Continue reading →",
+    "author": "npalli",
+    "sourceSlug": "kk-org",
+    "sourceName": "Kevin Kelly / The Technium",
+    "url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known",
+    "publishedAt": "2022-04-28T23:00:50Z",
+    "category": "Original Thinking",
+    "readingMinutes": 6,
+    "likes": 1109,
+    "comments": 634,
+    "engagementScore": 2377,
+    "coverImage": "https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png",
+    "thumbnailUrl": "https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png",
+    "platforms": {
+      "hn": {
+        "points": 1109,
+        "comments": 634,
+        "itemUrl": "https://news.ycombinator.com/item?id=31199300"
       }
     }
   },
@@ -1422,6 +1463,7 @@
     "comments": 186,
     "engagementScore": 2356,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!VEzU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e291074-3499-4db2-9bf9-95886db0a438_1725x1225.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!VEzU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e291074-3499-4db2-9bf9-95886db0a438_1725x1225.jpeg",
     "platforms": {
       "hn": {
         "points": 434,
@@ -1471,6 +1513,7 @@
     "comments": 92,
     "engagementScore": 2300,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
     "platforms": {
       "hn": {
         "points": 35,
@@ -1498,6 +1541,7 @@
     "comments": 866,
     "engagementScore": 2298,
     "coverImage": "https://cdn.theatlantic.com/thumbor/-z_3MvZfePU2IYK4MyoGuq0WAio=/0x0:1800x938/1200x625/media/img/2021/05/BOB_Julian_Drinking_HPcrop-1/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/-z_3MvZfePU2IYK4MyoGuq0WAio=/0x0:1800x938/1200x625/media/img/2021/05/BOB_Julian_Drinking_HPcrop-1/original.jpg",
     "platforms": {
       "hn": {
         "points": 566,
@@ -1521,6 +1565,7 @@
     "comments": 246,
     "engagementScore": 2277,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3298eeb-473c-4b64-a703-0228b21e8ddf_3440x2757.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3298eeb-473c-4b64-a703-0228b21e8ddf_3440x2757.jpeg",
     "platforms": {
       "hn": {
         "points": 348,
@@ -1566,13 +1611,14 @@
     "publishedAt": "2026-05-20T09:22:52.279Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 2073,
+    "likes": 2074,
     "comments": 55,
-    "engagementScore": 2238,
+    "engagementScore": 2239,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
     "platforms": {
       "substack": {
-        "likes": 2073,
+        "likes": 2074,
         "comments": 55
       }
     }
@@ -1592,6 +1638,7 @@
     "comments": 92,
     "engagementScore": 2217,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!3fdW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F410569d3-a18a-4acf-9bff-6f7c14577ca7_640x600.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!3fdW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F410569d3-a18a-4acf-9bff-6f7c14577ca7_640x600.jpeg",
     "platforms": {
       "substack": {
         "likes": 1941,
@@ -1636,6 +1683,7 @@
     "comments": 170,
     "engagementScore": 2182,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!SKbZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbd6a301-75e0-42fc-843b-95bba84d08f5_1376x872.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!SKbZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbd6a301-75e0-42fc-843b-95bba84d08f5_1376x872.png",
     "platforms": {
       "substack": {
         "likes": 1672,
@@ -1658,6 +1706,7 @@
     "comments": 847,
     "engagementScore": 2162,
     "coverImage": "https://media.newyorker.com/photos/67ec6707516b2b18612baab5/16:9/w_1280,c_limit/Fischer_MichaelRoth.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/67ec6707516b2b18612baab5/16:9/w_1280,c_limit/Fischer_MichaelRoth.jpg",
     "platforms": {
       "hn": {
         "points": 468,
@@ -1681,6 +1730,7 @@
     "comments": 842,
     "engagementScore": 2159,
     "coverImage": "https://cdn.theatlantic.com/thumbor/PFx4MSuJyGuzzzPTlVfciojcRYE=/0x43:2000x1085/1200x625/media/img/mt/2024/10/blackSpatula/original.png",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/PFx4MSuJyGuzzzPTlVfciojcRYE=/0x43:2000x1085/1200x625/media/img/mt/2024/10/blackSpatula/original.png",
     "platforms": {
       "hn": {
         "points": 475,
@@ -1704,6 +1754,7 @@
     "comments": 768,
     "engagementScore": 2130,
     "coverImage": "https://cdn.theatlantic.com/thumbor/P-lT7clhqxCumVJ-zfPymdOqwjk=/0x43:2000x1085/1200x625/media/img/2021/03/DIS_Hamid_ReligionHP/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/P-lT7clhqxCumVJ-zfPymdOqwjk=/0x43:2000x1085/1200x625/media/img/2021/03/DIS_Hamid_ReligionHP/original.jpg",
     "platforms": {
       "hn": {
         "points": 594,
@@ -1727,6 +1778,7 @@
     "comments": 659,
     "engagementScore": 2124,
     "coverImage": "https://gwern.net/doc/technology/2015-11-harvard-innovationlabs-bestreviews-evolutionofthedesk-vi.jpg",
+    "thumbnailUrl": "https://gwern.net/doc/technology/2015-11-harvard-innovationlabs-bestreviews-evolutionofthedesk-vi.jpg",
     "platforms": {
       "hn": {
         "points": 806,
@@ -1772,6 +1824,7 @@
     "comments": 243,
     "engagementScore": 2097,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
     "platforms": {
       "substack": {
         "likes": 1368,
@@ -1816,6 +1869,7 @@
     "comments": 165,
     "engagementScore": 2052,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
     "platforms": {
       "hn": {
         "points": 424,
@@ -1843,6 +1897,7 @@
     "comments": 774,
     "engagementScore": 2042,
     "coverImage": "https://cdn.theatlantic.com/thumbor/KqM0YbwWlS9LaWUzEynP_Z8nRiw=/7x153:5313x2917/1200x625/media/img/mt/2022/04/GS1785553_copy/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/KqM0YbwWlS9LaWUzEynP_Z8nRiw=/7x153:5313x2917/1200x625/media/img/mt/2022/04/GS1785553_copy/original.jpg",
     "platforms": {
       "hn": {
         "points": 494,
@@ -1888,6 +1943,7 @@
     "comments": 173,
     "engagementScore": 2033,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!qRw8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbff65f6e-e0bc-468c-8e03-f2af8258860e_1206x940.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qRw8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbff65f6e-e0bc-468c-8e03-f2af8258860e_1206x940.png",
     "platforms": {
       "substack": {
         "likes": 1514,
@@ -1910,6 +1966,7 @@
     "comments": 581,
     "engagementScore": 2027,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
     "platforms": {
       "substack": {
         "likes": 284,
@@ -1932,6 +1989,7 @@
     "comments": 744,
     "engagementScore": 1991,
     "coverImage": "https://cdn.theatlantic.com/thumbor/CnEl2Fh84MtXkqMNN3k10dmaN0I=/0x102:4792x2598/1200x625/media/img/mt/2022/08/Marc_Andreessen_housing_2/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/CnEl2Fh84MtXkqMNN3k10dmaN0I=/0x102:4792x2598/1200x625/media/img/mt/2022/08/Marc_Andreessen_housing_2/original.jpg",
     "platforms": {
       "hn": {
         "points": 503,
@@ -1955,6 +2013,7 @@
     "comments": 485,
     "engagementScore": 1961,
     "coverImage": "https://cdn.theatlantic.com/thumbor/Hjoi5NLMkwUL9hP4v1uNndsL2eg=/0x501:3994x2581/1200x625/media/img/mt/2018/08/RTX38KFM/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/Hjoi5NLMkwUL9hP4v1uNndsL2eg=/0x501:3994x2581/1200x625/media/img/mt/2018/08/RTX38KFM/original.jpg",
     "platforms": {
       "hn": {
         "points": 991,
@@ -1978,6 +2037,7 @@
     "comments": 354,
     "engagementScore": 1943,
     "coverImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/10/diamond_anvil_1200_Social.jpg",
+    "thumbnailUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/10/diamond_anvil_1200_Social.jpg",
     "platforms": {
       "hn": {
         "points": 1235,
@@ -2001,6 +2061,7 @@
     "comments": 457,
     "engagementScore": 1937,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!w4qD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f48971-998b-4e9b-8f90-ac67d4336c39_1215x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!w4qD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f48971-998b-4e9b-8f90-ac67d4336c39_1215x1654.jpeg",
     "platforms": {
       "hn": {
         "points": 328,
@@ -2028,6 +2089,7 @@
     "comments": 589,
     "engagementScore": 1927,
     "coverImage": "https://cdn.theatlantic.com/thumbor/rjHp9FwJxrw_GVbADInsfy5Redc=/0x108:5072x2750/1200x625/media/img/mt/2025/01/GettyImages_944677862/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/rjHp9FwJxrw_GVbADInsfy5Redc=/0x108:5072x2750/1200x625/media/img/mt/2025/01/GettyImages_944677862/original.jpg",
     "platforms": {
       "hn": {
         "points": 749,
@@ -2051,6 +2113,7 @@
     "comments": 585,
     "engagementScore": 1913,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!31iH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb99a2988-f249-4a10-9fe6-abc3d82f2c56_1592x1078.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!31iH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb99a2988-f249-4a10-9fe6-abc3d82f2c56_1592x1078.png",
     "platforms": {
       "hn": {
         "points": 70,
@@ -2100,6 +2163,7 @@
     "comments": 584,
     "engagementScore": 1874,
     "coverImage": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png",
+    "thumbnailUrl": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png",
     "platforms": {
       "hn": {
         "points": 706,
@@ -2145,6 +2209,7 @@
     "comments": 233,
     "engagementScore": 1867,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!OkWt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01ba4c49-a417-4d02-8502-aef829fd1e42_1765x1167.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!OkWt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01ba4c49-a417-4d02-8502-aef829fd1e42_1765x1167.jpeg",
     "platforms": {
       "hn": {
         "points": 399,
@@ -2172,6 +2237,7 @@
     "comments": 256,
     "engagementScore": 1865,
     "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/IQTMkjQvHoc",
+    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/IQTMkjQvHoc",
     "platforms": {
       "substack": {
         "likes": 1097,
@@ -2194,6 +2260,7 @@
     "comments": 576,
     "engagementScore": 1855,
     "coverImage": "https://cdn.theatlantic.com/thumbor/-f1-pf7FJHD5RjA1P6DzBMDXdAk=/0x204:4792x2700/1200x625/media/img/mt/2024/10/HR_1258550648/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/-f1-pf7FJHD5RjA1P6DzBMDXdAk=/0x204:4792x2700/1200x625/media/img/mt/2024/10/HR_1258550648/original.jpg",
     "platforms": {
       "hn": {
         "points": 703,
@@ -2217,6 +2284,7 @@
     "comments": 767,
     "engagementScore": 1850,
     "coverImage": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd",
+    "thumbnailUrl": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd",
     "platforms": {
       "hn": {
         "points": 316,
@@ -2240,6 +2308,7 @@
     "comments": 717,
     "engagementScore": 1835,
     "coverImage": "https://media.newyorker.com/photos/5aa176429dda9f376c4fb93d/16:9/w_1280,c_limit/180319_r31690.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/5aa176429dda9f376c4fb93d/16:9/w_1280,c_limit/180319_r31690.jpg",
     "platforms": {
       "hn": {
         "points": 401,
@@ -2285,6 +2354,7 @@
     "comments": 636,
     "engagementScore": 1808,
     "coverImage": "https://cdn.theatlantic.com/thumbor/YR-mI8oTCnc1oJEUG1c_JzccHaQ=/0x43:2000x1085/1200x625/media/img/mt/2022/10/PhonePlate_Still-1/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/YR-mI8oTCnc1oJEUG1c_JzccHaQ=/0x43:2000x1085/1200x625/media/img/mt/2022/10/PhonePlate_Still-1/original.jpg",
     "platforms": {
       "hn": {
         "points": 536,

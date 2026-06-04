@@ -53,6 +53,7 @@ export type Article = {
   comments: number;
   engagementScore: number;
   coverImage?: string;
+  thumbnailUrl?: string;
   platforms?: PlatformSignals;
 };
 

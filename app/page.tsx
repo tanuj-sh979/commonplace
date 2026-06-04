@@ -1,6 +1,9 @@
 import Link from "next/link";
 import { ArticleBrowser } from "@/components/article-browser";
-import { ArticleList } from "@/components/article-list";
+import { CompactArticleItem } from "@/components/compact-article-item";
+import { FeaturedArticleCard } from "@/components/featured-article-card";
+import { SectionHeader } from "@/components/section-header";
+import { SiteFooter } from "@/components/site-footer";
 import {
   articles,
   categories,
@@ -26,38 +29,65 @@ const homepageSections: Array<{
 ];
 
 export default function HomePage() {
+  const featuredArticles = top100Articles.slice(0, 6);
+  const archiveArticles = top100Articles.slice(6, 18);
+
   return (
     <>
-      <section className="relative pt-2 sm:pt-8">
-        <p className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-clay">
+      <section className="relative overflow-hidden rounded-[1.5rem] border border-rule bg-surface px-5 py-8 sm:px-8 sm:py-12 lg:px-10">
+        <p className="mb-5 text-xs font-bold uppercase tracking-[0.18em] text-clay">
           Internet Canon
         </p>
-        <h1 className="max-w-4xl font-serif text-6xl leading-[0.96] text-ink sm:text-8xl">
+        <h1 className="text-balance max-w-4xl text-[2.9rem] font-extrabold leading-[1.02] tracking-[-0.055em] text-ink sm:text-7xl lg:text-[5.7rem]">
           The internet’s most thoughtful essays, quietly collected.
         </h1>
-        <p className="mt-7 max-w-3xl text-xl leading-9 text-ink/75 sm:text-2xl sm:leading-10">
-          Commonplace is a small, handpicked index of essays worth returning to
-          across technology, ambition, creativity, money, meaning, and how to
-          think.
+        <p className="mt-7 max-w-3xl text-lg font-medium leading-8 text-secondary sm:text-2xl sm:leading-10">
+          Commonplace is a curated index of essays worth returning to across
+          technology, ambition, creativity, money, meaning, and how to think.
         </p>
-        <p className="mt-5 max-w-3xl text-base leading-7 text-muted">
+        <p className="mt-5 max-w-3xl text-base font-medium leading-7 text-muted">
           Collected from Hacker News, Reddit, Substack, trusted publications, and
           the Commonplace Canon.
         </p>
         <div className="mt-8 flex flex-wrap gap-3 text-sm font-semibold text-muted">
-          <span className="rounded-full border border-rule bg-surface/60 px-3 py-1.5">
+          <span className="rounded-full border border-rule bg-paper px-3 py-1.5">
             {top100Articles.length || articles.length} ranked essays
           </span>
-          <span className="rounded-full border border-rule bg-surface/60 px-3 py-1.5">
+          <span className="rounded-full border border-rule bg-paper px-3 py-1.5">
             outbound links only
           </span>
-          <span className="rounded-full border border-rule bg-surface/60 px-3 py-1.5 text-sage">
+          <span className="rounded-full border border-rule bg-paper px-3 py-1.5 text-sage">
             no feeds, no accounts
           </span>
         </div>
       </section>
 
-      <section className="mt-16 space-y-20 sm:mt-24 sm:space-y-24">
+      <section className="mt-16 sm:mt-24">
+        <SectionHeader
+          eyebrow="Featured reads"
+          title="Start Here"
+          copy="The highest-signal pieces in the library right now, presented as a small front table of essays."
+        />
+
+        {featuredArticles.length > 0 ? (
+          <div className="mt-7 grid items-stretch gap-5 md:grid-cols-2 lg:grid-cols-3">
+            {featuredArticles.map((article, index) => (
+              <FeaturedArticleCard
+                key={article.id}
+                article={article}
+                prominent={index === 0}
+              />
+            ))}
+          </div>
+        ) : (
+          <p className="border-b border-rule py-10 text-sm text-muted">
+            No featured articles are indexed yet. Run npm run ingest to refresh
+            the library.
+          </p>
+        )}
+      </section>
+
+      <section className="mt-20 space-y-16 sm:mt-24 sm:space-y-24">
         {homepageSections.map((section) => {
           const sectionArticles = getArticlesByCategory(section.category).slice(0, 6);
           const href = `/category/${slugifyCategory(section.category)}`;
@@ -67,31 +97,36 @@ export default function HomePage() {
               key={section.category}
               aria-labelledby={slugifyCategory(section.category)}
             >
-              <div className="flex flex-col gap-5 border-b border-rule pb-6 sm:flex-row sm:items-end sm:justify-between">
-                <div>
-                  <p className="mb-3 text-sm font-semibold uppercase tracking-[0.18em] text-clay">
-                    Reading Shelf
-                  </p>
-                  <h2
-                    id={slugifyCategory(section.category)}
-                    className="font-serif text-5xl leading-none sm:text-6xl"
+              <SectionHeader
+                eyebrow="Reading shelf"
+                title={section.category}
+                copy={section.copy || categoryDescriptions[section.category]}
+                action={
+                  <Link
+                    href={href}
+                    className="w-fit text-sm font-semibold text-clay underline decoration-clay/25 transition hover:text-[#6F4428] hover:decoration-clay"
                   >
-                    {section.category}
-                  </h2>
-                  <p className="mt-4 max-w-2xl text-base leading-7 text-muted">
-                    {section.copy || categoryDescriptions[section.category]}
-                  </p>
-                </div>
-                <Link
-                  href={href}
-                  className="w-fit text-sm font-semibold text-clay underline decoration-clay/25 transition hover:decoration-clay"
-                >
-                  Read more articles →
-                </Link>
-              </div>
+                    Read more articles →
+                  </Link>
+                }
+              />
+              <h2 id={slugifyCategory(section.category)} className="sr-only">
+                {section.category}
+              </h2>
 
               {sectionArticles.length > 0 ? (
-                <ArticleList articles={sectionArticles} compact />
+                <div className="mt-7 grid gap-6 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)]">
+                  <div className="grid items-stretch gap-5 sm:grid-cols-2 lg:grid-cols-1">
+                    {sectionArticles.slice(0, 2).map((article) => (
+                      <FeaturedArticleCard key={article.id} article={article} />
+                    ))}
+                  </div>
+                  <div className="rounded-2xl border border-rule bg-paper px-5 sm:px-6">
+                    {sectionArticles.slice(2).map((article) => (
+                      <CompactArticleItem key={article.id} article={article} />
+                    ))}
+                  </div>
+                </div>
               ) : (
                 <p className="border-b border-rule py-8 text-sm text-muted">
                   No articles are indexed for this category yet.
@@ -102,25 +137,35 @@ export default function HomePage() {
         })}
       </section>
 
+      {archiveArticles.length > 0 ? (
+        <section className="mt-20 sm:mt-24">
+          <SectionHeader
+            eyebrow="Archive"
+            title="More Worth Saving"
+            copy="A quick list of highly ranked essays beyond the featured shelf."
+          />
+          <div className="mt-7 rounded-2xl border border-rule bg-paper px-5 sm:px-6">
+            {archiveArticles.map((article) => (
+              <CompactArticleItem key={article.id} article={article} />
+            ))}
+          </div>
+        </section>
+      ) : null}
+
       <section className="mt-20 sm:mt-24">
-        <div className="border-b border-rule pb-6">
-          <p className="mb-3 text-sm font-semibold uppercase tracking-[0.18em] text-clay">
-            Index
-          </p>
-          <h2 className="font-serif text-5xl leading-none sm:text-6xl">
-            Browse the Library
-          </h2>
-          <p className="mt-4 max-w-2xl text-base leading-7 text-muted">
-            Search across the full index or filter by category when you want a
-            more specific trail.
-          </p>
-        </div>
+        <SectionHeader
+          eyebrow="Index"
+          title="Browse the Library"
+          copy="Filter the full index by theme, then choose between the ranked Top 100 or the latest additions."
+        />
         <ArticleBrowser
           articles={articles}
           topArticles={top100Articles}
           categories={categories}
         />
       </section>
+
+      <SiteFooter />
     </>
   );
 }
