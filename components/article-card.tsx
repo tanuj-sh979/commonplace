@@ -1,5 +1,5 @@
 import { EngagementTags } from "@/components/engagement-tags";
-import { formatDate, formatNumber } from "@/lib/format";
+import { formatDate } from "@/lib/format";
 import type { Article } from "@/lib/types";
 
 type ArticleCardProps = {
@@ -41,9 +41,6 @@ export function ArticleCard({ article, compact = false }: ArticleCardProps) {
 
       <p className="mt-3 text-sm font-medium leading-6 text-muted">
         {meta.join(" · ")}
-        {article.platforms
-          ? ""
-          : ` · ♥ ${formatNumber(article.likes)} · 💬 ${formatNumber(article.comments)}`}
       </p>
 
       {article.excerpt ? (

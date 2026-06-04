@@ -10,9 +10,9 @@
     "publishedAt": "2024-01-20T14:50:13Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 16770,
+    "likes": 16771,
     "comments": 501,
-    "engagementScore": 18234,
+    "engagementScore": 18235,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
       "hn": {
@@ -21,8 +21,31 @@
         "itemUrl": "https://news.ycombinator.com/item?id=39068065"
       },
       "substack": {
-        "likes": 16712,
+        "likes": 16713,
         "comments": 462
+      }
+    }
+  },
+  {
+    "id": "kk-org",
+    "title": "Amish Hackers: How the Amish actually use and build their own tech",
+    "excerpt": "[Translations: Belarusian, Chinese, Estonian, French, German, Italian, Japanese, Polish, Portuguese, Russian, Spanish, Turkish] The internet is a copy machine. At its most foundational level, it copies every action, every character, every thought we make while we ride upon it. In order to … Continue reading →",
+    "author": "zdw",
+    "sourceSlug": "kk-org",
+    "sourceName": "ct2",
+    "url": "https://kk.org",
+    "publishedAt": "2026-01-04T16:32:13Z",
+    "category": "Original Thinking",
+    "readingMinutes": 6,
+    "likes": 7560,
+    "comments": 3946,
+    "engagementScore": 15452,
+    "coverImage": "https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png",
+    "platforms": {
+      "hn": {
+        "points": 7560,
+        "comments": 3946,
+        "itemUrl": "https://news.ycombinator.com/item?id=31199300"
       }
     }
   },
@@ -37,9 +60,9 @@
     "publishedAt": "2025-10-28T16:01:00Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 12294,
+    "likes": 12306,
     "comments": 911,
-    "engagementScore": 14782,
+    "engagementScore": 14794,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
       "hn": {
@@ -48,7 +71,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=45734620"
       },
       "substack": {
-        "likes": 11981,
+        "likes": 11993,
         "comments": 666
       }
     }
@@ -64,9 +87,9 @@
     "publishedAt": "2025-07-06T22:16:37Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 11318,
-    "comments": 1118,
-    "engagementScore": 14174,
+    "likes": 11322,
+    "comments": 1119,
+    "engagementScore": 14181,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "platforms": {
       "hn": {
@@ -75,8 +98,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44484595"
       },
       "substack": {
-        "likes": 10767,
-        "comments": 620
+        "likes": 10771,
+        "comments": 621
       }
     }
   },
@@ -91,13 +114,13 @@
     "publishedAt": "2025-04-23T16:41:51.245Z",
     "category": "Meaning & Living",
     "readingMinutes": 6,
-    "likes": 10809,
+    "likes": 10816,
     "comments": 146,
-    "engagementScore": 11247,
+    "engagementScore": 11254,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "platforms": {
       "substack": {
-        "likes": 10809,
+        "likes": 10816,
         "comments": 146
       }
     }
@@ -135,7 +158,7 @@
     "excerpt": "",
     "author": "perditus",
     "sourceSlug": "slatestarcodex-com",
-    "sourceName": "Slatestarcodex",
+    "sourceName": "Slate Star Codex",
     "url": "https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog",
     "publishedAt": "2020-06-23T06:08:51Z",
     "category": "Original Thinking",
@@ -157,7 +180,7 @@
     "excerpt": "",
     "author": "crbelaus",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/woke.html",
     "publishedAt": "2025-01-13T11:21:01Z",
     "category": "Original Thinking",
@@ -179,7 +202,7 @@
     "excerpt": "U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.",
     "author": "_tk_",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151",
     "publishedAt": "2025-03-24T16:23:55Z",
     "category": "Ideas",
@@ -207,9 +230,9 @@
     "publishedAt": "2024-08-06T00:14:41Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 4446,
+    "likes": 4445,
     "comments": 127,
-    "engagementScore": 4799,
+    "engagementScore": 4798,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
     "platforms": {
       "hn": {
@@ -218,7 +241,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=41166774"
       },
       "substack": {
-        "likes": 4313,
+        "likes": 4312,
         "comments": 99
       }
     }
@@ -234,13 +257,13 @@
     "publishedAt": "2026-01-06T02:15:14.799Z",
     "category": "Relationships",
     "readingMinutes": 4,
-    "likes": 4437,
+    "likes": 4445,
     "comments": 70,
-    "engagementScore": 4647,
+    "engagementScore": 4655,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "platforms": {
       "substack": {
-        "likes": 4437,
+        "likes": 4445,
         "comments": 70
       }
     }
@@ -273,7 +296,7 @@
     "excerpt": "Can a human touch make Silicon Valley’s biggest discussion forum a more thoughtful place?",
     "author": "bluu00",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
     "publishedAt": "2020-11-10T17:22:01Z",
     "category": "Ideas",
@@ -296,7 +319,7 @@
     "excerpt": "The president’s special commission now has an unprecedented ability to view and manipulate information at many federal agencies.",
     "author": "perihelions",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719",
     "publishedAt": "2025-02-20T07:36:34Z",
     "category": "Ideas",
@@ -319,7 +342,7 @@
     "excerpt": "When I think about all the time I frittered away today, it agitates me, and I jump on Wikipedia to look up famous nineteenth-century circuses.",
     "author": "fergie",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five",
     "publishedAt": "2022-04-07T05:51:52Z",
     "category": "Ideas",
@@ -342,7 +365,7 @@
     "excerpt": "",
     "author": "tosh",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/wtax.html",
     "publishedAt": "2020-08-18T13:16:40Z",
     "category": "Original Thinking",
@@ -364,7 +387,7 @@
     "excerpt": "New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI.",
     "author": "adrianhon",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
     "publishedAt": "2026-04-06T10:36:57Z",
     "category": "Ideas",
@@ -387,7 +410,7 @@
     "excerpt": "COVID has always divided Americans. The Omicron wave is even dividing the vaccinated.",
     "author": "nkurz",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2022/01/covid-omicron-vaccination-rashomon/621199",
     "publishedAt": "2022-01-10T18:09:50Z",
     "category": "Ideas",
@@ -405,12 +428,34 @@
     }
   },
   {
+    "id": "patrickcollison-com-fast",
+    "title": "Fast · Patrick Collison",
+    "excerpt": "",
+    "author": "doppp",
+    "sourceSlug": "patrickcollison-com",
+    "sourceName": "Patrick Collison",
+    "url": "https://patrickcollison.com/fast",
+    "publishedAt": "2025-08-01T15:19:43Z",
+    "category": "Agency",
+    "readingMinutes": 4,
+    "likes": 2501,
+    "comments": 708,
+    "engagementScore": 3917,
+    "platforms": {
+      "hn": {
+        "points": 2501,
+        "comments": 708,
+        "itemUrl": "https://news.ycombinator.com/item?id=21848860"
+      }
+    }
+  },
+  {
     "id": "theatlantic-com-science-archive-2021-08-how-we-live-coronavirus-forever-619783",
     "title": "The Coronavirus Is Here Forever. This Is How We Live With It.",
     "excerpt": "We can’t avoid the virus for the rest of our lives, but we can minimize its impact.",
     "author": "lxm",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783",
     "publishedAt": "2021-08-23T12:36:18Z",
     "category": "Ideas",
@@ -428,12 +473,35 @@
     }
   },
   {
+    "id": "a16z-com-its-time-to-build",
+    "title": "It’s Time to Build | Andreessen Horowitz",
+    "excerpt": "Every Western institution was unprepared for the coronavirus pandemic, despite many prior warnings. This monumental failure of institutional effectiveness will reverberate for the rest of the decade, but it’s not too early to ask why, and what we need to do about it. Many of us would like to pin the cause on one polit…",
+    "author": "jger15",
+    "sourceSlug": "a16z-com",
+    "sourceName": "Andreessen Horowitz",
+    "url": "https://a16z.com/its-time-to-build",
+    "publishedAt": "2020-04-18T22:10:14Z",
+    "category": "Agency",
+    "readingMinutes": 6,
+    "likes": 1820,
+    "comments": 1008,
+    "engagementScore": 3836,
+    "coverImage": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2020/04/Software_is_Eating_the_World_10_Year_Twitter.jpg",
+    "platforms": {
+      "hn": {
+        "points": 1820,
+        "comments": 1008,
+        "itemUrl": "https://news.ycombinator.com/item?id=22911533"
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-kids-html",
     "title": "Having Kids",
     "excerpt": "",
     "author": "yarapavan",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/kids.html",
     "publishedAt": "2019-12-14T16:49:19Z",
     "category": "Original Thinking",
@@ -455,7 +523,7 @@
     "excerpt": "The evidence is convincing: The betting industry is ruining lives.",
     "author": "jimbob45",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925",
     "publishedAt": "2024-09-26T15:24:25Z",
     "category": "Ideas",
@@ -483,13 +551,13 @@
     "publishedAt": "2024-06-04T15:07:48.710Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 2674,
+    "likes": 2675,
     "comments": 332,
-    "engagementScore": 3670,
+    "engagementScore": 3671,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!6HGS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6c827bc-d15d-4152-a50a-dd6ee6251207_1328x960.png",
     "platforms": {
       "substack": {
-        "likes": 2674,
+        "likes": 2675,
         "comments": 332
       }
     }
@@ -500,7 +568,7 @@
     "excerpt": "",
     "author": "prtkgpt",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/heresy.html",
     "publishedAt": "2022-04-10T14:25:02Z",
     "category": "Original Thinking",
@@ -522,7 +590,7 @@
     "excerpt": "",
     "author": "razin",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/hwh.html",
     "publishedAt": "2021-06-29T13:39:09Z",
     "category": "Original Thinking",
@@ -566,7 +634,7 @@
     "excerpt": "What’s a “justice-involved person”?",
     "author": "furrowedbrow",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085",
     "publishedAt": "2023-03-02T18:43:54Z",
     "category": "Ideas",
@@ -699,12 +767,34 @@
     }
   },
   {
+    "id": "patrickcollison-com-questions",
+    "title": "Patrick Collison's Questions",
+    "excerpt": "",
+    "author": "tosh",
+    "sourceSlug": "patrickcollison-com",
+    "sourceName": "Patrick Collison",
+    "url": "https://patrickcollison.com/questions",
+    "publishedAt": "2020-08-24T00:57:47Z",
+    "category": "Agency",
+    "readingMinutes": 4,
+    "likes": 1480,
+    "comments": 746,
+    "engagementScore": 2972,
+    "platforms": {
+      "hn": {
+        "points": 1480,
+        "comments": 746,
+        "itemUrl": "https://news.ycombinator.com/item?id=18105129"
+      }
+    }
+  },
+  {
     "id": "newyorker-com-magazine-2023-11-20-a-coder-considers-the-waning-days-of-the-craft",
     "title": "A coder considers the waning days of the craft",
     "excerpt": "Coding has always felt to me like an endlessly deep and rich domain. Now I find myself wanting to write a eulogy for it.",
     "author": "jsomers",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft",
     "publishedAt": "2023-11-14T00:08:45Z",
     "category": "Ideas",
@@ -727,7 +817,7 @@
     "excerpt": "A bold reform effort hasn’t gone as planned.",
     "author": "slapshot",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733",
     "publishedAt": "2023-08-01T17:27:44Z",
     "category": "Ideas",
@@ -750,7 +840,7 @@
     "excerpt": "",
     "author": "bifftastic",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/foundermode.html",
     "publishedAt": "2024-09-01T07:35:23Z",
     "category": "Original Thinking",
@@ -789,12 +879,34 @@
     }
   },
   {
+    "id": "worrydream-com",
+    "title": "A brief rant on the future of interaction design (2011)",
+    "excerpt": "An offshore drilling platform in the sea of knowledge.",
+    "author": "li4ick",
+    "sourceSlug": "worrydream-com",
+    "sourceName": "Bret Victor",
+    "url": "https://worrydream.com",
+    "publishedAt": "2020-12-25T09:38:36Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 1332,
+    "comments": 708,
+    "engagementScore": 2748,
+    "platforms": {
+      "hn": {
+        "points": 1332,
+        "comments": 708,
+        "itemUrl": "https://news.ycombinator.com/item?id=25535403"
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-think-html",
     "title": "How to Think for Yourself",
     "excerpt": "",
     "author": "neilkakkar",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/think.html",
     "publishedAt": "2020-11-27T11:09:54Z",
     "category": "Original Thinking",
@@ -816,7 +928,7 @@
     "excerpt": "",
     "author": "hvo",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/vb.html",
     "publishedAt": "2018-04-01T17:57:15Z",
     "category": "Original Thinking",
@@ -838,7 +950,7 @@
     "excerpt": "The positively charged particle at the heart of the atom is an object of unspeakable complexity, one that changes its appearance depending on how it is probed. We’ve attempted to connect the proton’s many faces to form the most complete picture yet.",
     "author": "MetallicCloud",
     "sourceSlug": "quantamagazine-org",
-    "sourceName": "Quantamagazine",
+    "sourceName": "Quanta Magazine",
     "url": "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019",
     "publishedAt": "2024-02-14T19:26:18Z",
     "category": "Learning",
@@ -883,7 +995,7 @@
     "excerpt": "She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.",
     "author": "aaron695",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490",
     "publishedAt": "2017-05-16T14:55:44Z",
     "category": "Ideas",
@@ -906,7 +1018,7 @@
     "excerpt": "The organization now seems largely unable or unwilling to uphold its core values.",
     "author": "tysone",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808",
     "publishedAt": "2022-05-10T16:44:53Z",
     "category": "Ideas",
@@ -929,7 +1041,7 @@
     "excerpt": "",
     "author": "prakhargurunani",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/richnow.html",
     "publishedAt": "2021-04-12T16:07:56Z",
     "category": "Original Thinking",
@@ -951,7 +1063,7 @@
     "excerpt": "The discomfort of loneliness shapes us in ways we don’t recognize—and we may not like what we become without it.",
     "author": "defo10",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem",
     "publishedAt": "2025-08-02T10:52:36Z",
     "category": "Ideas",
@@ -969,12 +1081,39 @@
     }
   },
   {
+    "id": "henrikkarlsson-xyz-p-hacker-mindset",
+    "title": "How to walk through walls",
+    "excerpt": "On hacker mindset",
+    "author": "Henrik Karlsson",
+    "sourceSlug": "henrikkarlsson-xyz",
+    "sourceName": "Escaping Flatland",
+    "url": "https://www.henrikkarlsson.xyz/p/hacker-mindset",
+    "publishedAt": "2026-04-14T10:39:37Z",
+    "category": "Meaning & Living",
+    "readingMinutes": 4,
+    "likes": 2332,
+    "comments": 78,
+    "engagementScore": 2561,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 66,
+        "comments": 5,
+        "itemUrl": "https://news.ycombinator.com/item?id=47763810"
+      },
+      "substack": {
+        "likes": 2266,
+        "comments": 73
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-cred-html",
     "title": "Coronavirus and Credibility",
     "excerpt": "",
     "author": "Rerarom",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/cred.html",
     "publishedAt": "2020-04-06T09:39:03Z",
     "category": "Original Thinking",
@@ -1018,33 +1157,6 @@
     }
   },
   {
-    "id": "henrikkarlsson-xyz-p-hacker-mindset",
-    "title": "How to walk through walls",
-    "excerpt": "On hacker mindset",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/hacker-mindset",
-    "publishedAt": "2026-04-14T10:39:37Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 4,
-    "likes": 2325,
-    "comments": 78,
-    "engagementScore": 2554,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 66,
-        "comments": 5,
-        "itemUrl": "https://news.ycombinator.com/item?id=47763810"
-      },
-      "substack": {
-        "likes": 2259,
-        "comments": 73
-      }
-    }
-  },
-  {
     "id": "ribbonfarm-com-2009-10-07-the-gervais-principle-or-the-office-according-to-the-office",
     "title": "The Gervais Principle, or the Office According to “The Office” (2009)",
     "excerpt": "My neighbor introduced me to The Office back in 2005. Since then, I've watched every episode of both the British and American versions. I've watched the show…",
@@ -1073,7 +1185,7 @@
     "excerpt": "A young computer scientist and two colleagues show that searches within data structures called hash tables can be much faster than previously deemed possible.",
     "author": "Jhsto",
     "sourceSlug": "quantamagazine-org",
-    "sourceName": "Quantamagazine",
+    "sourceName": "Quanta Magazine",
     "url": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210",
     "publishedAt": "2025-02-10T17:05:09Z",
     "category": "Learning",
@@ -1096,7 +1208,7 @@
     "excerpt": "",
     "author": "adunk",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/lesson.html",
     "publishedAt": "2019-12-07T11:04:05Z",
     "category": "Original Thinking",
@@ -1118,7 +1230,7 @@
     "excerpt": "",
     "author": "rajeshmr",
     "sourceSlug": "nautil-us",
-    "sourceName": "Nautil",
+    "sourceName": "Nautilus",
     "url": "https://m.nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will",
     "publishedAt": "2017-11-20T17:31:15Z",
     "category": "Learning",
@@ -1162,7 +1274,7 @@
     "excerpt": "Businesses are reopening. Protests are erupting nationwide. But the virus isn’t done with us.",
     "author": "jbegley",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796",
     "publishedAt": "2020-06-07T18:37:06Z",
     "category": "Ideas",
@@ -1185,7 +1297,7 @@
     "excerpt": "",
     "author": "razin",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/newideas.html",
     "publishedAt": "2021-05-06T11:44:27Z",
     "category": "Original Thinking",
@@ -1207,7 +1319,7 @@
     "excerpt": "",
     "author": "razin",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/orth.html",
     "publishedAt": "2020-07-15T14:22:43Z",
     "category": "Original Thinking",
@@ -1229,7 +1341,7 @@
     "excerpt": "",
     "author": "twampss",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/wids.html",
     "publishedAt": "2013-12-30T20:40:49Z",
     "category": "Original Thinking",
@@ -1278,7 +1390,7 @@
     "excerpt": "During testimony at Meta’s antitrust trial, the Facebook founder’s argument was, in so many words, that platforms like his are not what they used to be.",
     "author": "FinnLobsien",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over",
     "publishedAt": "2025-04-24T08:19:23Z",
     "category": "Ideas",
@@ -1328,7 +1440,7 @@
     "excerpt": "",
     "author": "urs",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/jessica.html",
     "publishedAt": "2015-11-16T18:07:55Z",
     "category": "Original Thinking",
@@ -1377,7 +1489,7 @@
     "excerpt": "A little alcohol can boost creativity and strengthen social ties. But there’s nothing moderate, or convivial, about the way many Americans drink today.",
     "author": "pseudolus",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017",
     "publishedAt": "2021-06-01T16:54:27Z",
     "category": "Ideas",
@@ -1427,7 +1539,7 @@
     "excerpt": "",
     "author": "razin",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/conformism.html",
     "publishedAt": "2020-07-24T11:06:12Z",
     "category": "Original Thinking",
@@ -1444,6 +1556,28 @@
     }
   },
   {
+    "id": "henrikkarlsson-xyz-p-love-and-change",
+    "title": "Love is about being invested in someone’s continual expansion",
+    "excerpt": "This is one of the joys and challenges of love: the more skillfully you love someone, the more held, encouraged, and accepted they feel, the more they change.",
+    "author": "Henrik Karlsson",
+    "sourceSlug": "henrikkarlsson-xyz",
+    "sourceName": "Escaping Flatland",
+    "url": "https://www.henrikkarlsson.xyz/p/love-and-change",
+    "publishedAt": "2026-05-20T09:22:52.279Z",
+    "category": "Meaning & Living",
+    "readingMinutes": 5,
+    "likes": 2073,
+    "comments": 55,
+    "engagementScore": 2238,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 2073,
+        "comments": 55
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-agency",
     "title": "On agency",
     "excerpt": "Or, how to handle being sentenced to freedom, and handle it effectively, and authentically, and responsibly",
@@ -1454,13 +1588,13 @@
     "publishedAt": "2025-07-07T12:00:31.940Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 1940,
+    "likes": 1941,
     "comments": 92,
-    "engagementScore": 2216,
+    "engagementScore": 2217,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!3fdW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F410569d3-a18a-4acf-9bff-6f7c14577ca7_640x600.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1940,
+        "likes": 1941,
         "comments": 92
       }
     }
@@ -1471,7 +1605,7 @@
     "excerpt": "",
     "author": "pg",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/bel.html",
     "publishedAt": "2019-10-12T07:14:55Z",
     "category": "Original Thinking",
@@ -1484,28 +1618,6 @@
         "points": 1288,
         "comments": 456,
         "itemUrl": "https://news.ycombinator.com/item?id=21231208"
-      }
-    }
-  },
-  {
-    "id": "henrikkarlsson-xyz-p-love-and-change",
-    "title": "Love is about being invested in someone’s continual expansion",
-    "excerpt": "This is one of the joys and challenges of love: the more skillfully you love someone, the more held, encouraged, and accepted they feel, the more they change.",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/love-and-change",
-    "publishedAt": "2026-05-20T09:22:52.279Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 5,
-    "likes": 2033,
-    "comments": 54,
-    "engagementScore": 2195,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 2033,
-        "comments": 54
       }
     }
   },
@@ -1537,7 +1649,7 @@
     "excerpt": "The Trump Administration wants to punish schools for student activism. Michael Roth, of Wesleyan, argues that colleges don’t have to roll over.",
     "author": "pseudolus",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice",
     "publishedAt": "2025-04-03T12:29:08Z",
     "category": "Ideas",
@@ -1560,7 +1672,7 @@
     "excerpt": "It’s probably leaching chemicals into your cooking oil.",
     "author": "Jimmc414",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452",
     "publishedAt": "2024-10-30T15:30:47Z",
     "category": "Ideas",
@@ -1583,7 +1695,7 @@
     "excerpt": "As religious faith has declined, ideological intensity has risen. Will the quest for secular redemption through politics doom the American idea?",
     "author": "alihm",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072",
     "publishedAt": "2021-06-11T13:40:22Z",
     "category": "Ideas",
@@ -1601,12 +1713,35 @@
     }
   },
   {
+    "id": "gwern-net-improvement",
+    "title": "My Ordinary Life: Improvements Since the 1990s",
+    "excerpt": "A list of unheralded improvements to ordinary quality-of-life since the 1990s going beyond computers.",
+    "author": "eru",
+    "sourceSlug": "gwern-net",
+    "sourceName": "Gwern",
+    "url": "https://gwern.net/improvement",
+    "publishedAt": "2021-08-12T11:52:56Z",
+    "category": "Learning",
+    "readingMinutes": 5,
+    "likes": 806,
+    "comments": 659,
+    "engagementScore": 2124,
+    "coverImage": "https://gwern.net/doc/technology/2015-11-harvard-innovationlabs-bestreviews-evolutionofthedesk-vi.jpg",
+    "platforms": {
+      "hn": {
+        "points": 806,
+        "comments": 659,
+        "itemUrl": "https://news.ycombinator.com/item?id=28155072"
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-genius-html",
     "title": "The Bus Ticket Theory of Genius",
     "excerpt": "",
     "author": "pilingual",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/genius.html",
     "publishedAt": "2019-11-23T10:06:33Z",
     "category": "Original Thinking",
@@ -1650,7 +1785,7 @@
     "excerpt": "",
     "author": "wyclif",
     "sourceSlug": "slatestarcodex-com",
-    "sourceName": "Slatestarcodex",
+    "sourceName": "Slate Star Codex",
     "url": "https://slatestarcodex.com/2018/08/29/bullst-jobs-part-1-of-%E2%88%9E",
     "publishedAt": "2018-08-30T05:40:01Z",
     "category": "Original Thinking",
@@ -1699,7 +1834,7 @@
     "excerpt": "The existence of love, trust, respect, and safety in a relationship is often dependent on moments you might write off as petty disagreements.",
     "author": "wiihack",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526",
     "publishedAt": "2022-04-12T10:13:27Z",
     "category": "Ideas",
@@ -1722,7 +1857,7 @@
     "excerpt": "",
     "author": "harscoat",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/google.html",
     "publishedAt": "2024-03-19T15:36:19Z",
     "category": "Original Thinking",
@@ -1788,7 +1923,7 @@
     "excerpt": "Marc Andreessen says he’s all for more new housing, but public records tell a different story.",
     "author": "danielmichaelyc",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061",
     "publishedAt": "2022-08-05T02:05:32Z",
     "category": "Ideas",
@@ -1811,7 +1946,7 @@
     "excerpt": "When workers automate their own duties, who should reap the benefits?",
     "author": "benryon",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795",
     "publishedAt": "2018-10-02T10:39:40Z",
     "category": "Ideas",
@@ -1834,7 +1969,7 @@
     "excerpt": "In 2020, researchers reported that they had created a room-temperature superconductor. That paper has now been retracted.",
     "author": "theafh",
     "sourceSlug": "quantamagazine-org",
-    "sourceName": "Quantamagazine",
+    "sourceName": "Quanta Magazine",
     "url": "https://www.quantamagazine.org/room-temperature-superconductivity-claim-falls-apart-update-20201014",
     "publishedAt": "2020-10-14T15:01:50Z",
     "category": "Learning",
@@ -1884,7 +2019,7 @@
     "excerpt": "The agency has already removed scientific data from public view. More could follow.",
     "author": "doener",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531",
     "publishedAt": "2025-02-01T11:52:18Z",
     "category": "Ideas",
@@ -1934,7 +2069,7 @@
     "excerpt": "",
     "author": "anateus",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/ambitious.html",
     "publishedAt": "2012-03-10T02:29:42Z",
     "category": "Original Thinking",
@@ -1956,7 +2091,7 @@
     "excerpt": "[Content warning: Politics, religion, social justice, spoilers for “The Secret of Father Brown”. This isn’t especially original to me and I don’t claim anything more than to…",
     "author": "anchpop",
     "sourceSlug": "slatestarcodex-com",
-    "sourceName": "Slatestarcodex",
+    "sourceName": "Slate Star Codex",
     "url": "https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup",
     "publishedAt": "2023-09-06T15:39:50Z",
     "category": "Original Thinking",
@@ -1979,7 +2114,7 @@
     "excerpt": "",
     "author": "razin",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/greatwork.html",
     "publishedAt": "2023-07-01T14:41:56Z",
     "category": "Original Thinking",
@@ -2006,9 +2141,9 @@
     "publishedAt": "2026-03-04T14:53:48Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1315,
+    "likes": 1316,
     "comments": 233,
-    "engagementScore": 1866,
+    "engagementScore": 1867,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!OkWt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01ba4c49-a417-4d02-8502-aef829fd1e42_1765x1167.jpeg",
     "platforms": {
       "hn": {
@@ -2017,7 +2152,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=47248341"
       },
       "substack": {
-        "likes": 916,
+        "likes": 917,
         "comments": 85
       }
     }
@@ -2033,13 +2168,13 @@
     "publishedAt": "2026-05-12T13:47:58.950Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 1096,
+    "likes": 1097,
     "comments": 256,
-    "engagementScore": 1864,
+    "engagementScore": 1865,
     "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/IQTMkjQvHoc",
     "platforms": {
       "substack": {
-        "likes": 1096,
+        "likes": 1097,
         "comments": 256
       }
     }
@@ -2050,7 +2185,7 @@
     "excerpt": "Understand AI for what it is, not what it might become.",
     "author": "redwoolf",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152",
     "publishedAt": "2024-10-05T12:17:24Z",
     "category": "Ideas",
@@ -2096,7 +2231,7 @@
     "excerpt": "From 2018: The trolls are winning. How do we fix life online without limiting free speech?",
     "author": "smacktoward",
     "sourceSlug": "newyorker-com",
-    "sourceName": "Newyorker",
+    "sourceName": "The New Yorker",
     "url": "https://www.newyorker.com/magazine/2018/03/19/reddit-and-the-struggle-to-detoxify-the-internet",
     "publishedAt": "2018-03-12T17:35:08Z",
     "category": "Ideas",
@@ -2119,7 +2254,7 @@
     "excerpt": "",
     "author": "ssclafani",
     "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
+    "sourceName": "Paul Graham",
     "url": "https://paulgraham.com/ff.html",
     "publishedAt": "2014-01-10T20:08:37Z",
     "category": "Original Thinking",
@@ -2141,7 +2276,7 @@
     "excerpt": "Technology at the table is bad for human connection.",
     "author": "fortran77",
     "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
+    "sourceName": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2022/10/qr-code-menus-restaurants-pandemic/671888",
     "publishedAt": "2022-10-29T20:41:30Z",
     "category": "Ideas",
@@ -2159,163 +2294,24 @@
     }
   },
   {
-    "id": "honest-broker-com-p-fifty-people-control-the-culture",
-    "title": "Fifty People Control the Culture",
-    "excerpt": "The state of the culture 2026",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/fifty-people-control-the-culture",
-    "publishedAt": "2026-01-11T23:09:24Z",
+    "id": "worrydream-com-dbx",
+    "title": "References for “The Future of Programming”",
+    "excerpt": "",
+    "author": "illo",
+    "sourceSlug": "worrydream-com",
+    "sourceName": "Bret Victor",
+    "url": "https://worrydream.com/dbx",
+    "publishedAt": "2017-10-24T07:07:09Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 1310,
-    "comments": 164,
-    "engagementScore": 1800,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!zyiK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbdff5976-1210-41dd-a0c0-bd174ef7e642_1920x1437.jpeg",
+    "likes": 938,
+    "comments": 433,
+    "engagementScore": 1804,
     "platforms": {
       "hn": {
-        "points": 22,
-        "comments": 2,
-        "itemUrl": "https://news.ycombinator.com/item?id=46581462"
-      },
-      "substack": {
-        "likes": 1288,
-        "comments": 162
-      }
-    }
-  },
-  {
-    "id": "aeon-co-essays-what-if-jobs-are-not-the-solution-but-the-problem",
-    "title": "What if jobs are not the solution but the problem?",
-    "excerpt": "",
-    "author": "jonbaer",
-    "sourceSlug": "aeon-co",
-    "sourceName": "Aeon",
-    "url": "https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem",
-    "publishedAt": "2016-11-25T16:30:05Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 4,
-    "likes": 680,
-    "comments": 559,
-    "engagementScore": 1798,
-    "platforms": {
-      "hn": {
-        "points": 680,
-        "comments": 559,
-        "itemUrl": "https://news.ycombinator.com/item?id=13037810"
-      }
-    }
-  },
-  {
-    "id": "paulgraham-com-worked-html",
-    "title": "What I Worked On",
-    "excerpt": "",
-    "author": "tosh",
-    "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
-    "url": "https://paulgraham.com/worked.html",
-    "publishedAt": "2021-02-16T16:16:35Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 986,
-    "comments": 398,
-    "engagementScore": 1782,
-    "platforms": {
-      "hn": {
-        "points": 986,
-        "comments": 398,
-        "itemUrl": "https://news.ycombinator.com/item?id=26155350"
-      }
-    }
-  },
-  {
-    "id": "theatlantic-com-national-archive-2013-12-i-got-myself-arrested-so-i-could-look-inside-the-justice-system-282360",
-    "title": "I Got Myself Arrested So I Could Look Inside the Justice System",
-    "excerpt": "A former prosecutor fights the law and lets it win.",
-    "author": "ilamont",
-    "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
-    "url": "https://www.theatlantic.com/national/archive/2013/12/i-got-myself-arrested-so-i-could-look-inside-the-justice-system/282360",
-    "publishedAt": "2013-12-17T17:38:08Z",
-    "category": "Ideas",
-    "readingMinutes": 5,
-    "likes": 834,
-    "comments": 472,
-    "engagementScore": 1778,
-    "coverImage": "https://cdn.theatlantic.com/thumbor/db3joWpEpYD3FH3L9bVH69W81zM=/0x340:3220x2017/1200x625/media/img/mt/2018/02/RTXPHTV/original.jpg",
-    "platforms": {
-      "hn": {
-        "points": 834,
-        "comments": 472,
-        "itemUrl": "https://news.ycombinator.com/item?id=6922405"
-      }
-    }
-  },
-  {
-    "id": "paulgraham-com-re-html",
-    "title": "The Refragmentation",
-    "excerpt": "",
-    "author": "urs",
-    "sourceSlug": "paulgraham-com",
-    "sourceName": "Paulgraham",
-    "url": "https://paulgraham.com/re.html",
-    "publishedAt": "2016-01-02T17:21:46Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 852,
-    "comments": 444,
-    "engagementScore": 1740,
-    "platforms": {
-      "hn": {
-        "points": 852,
-        "comments": 444,
-        "itemUrl": "https://news.ycombinator.com/item?id=10826836"
-      }
-    }
-  },
-  {
-    "id": "freyaindia-co-uk-p-the-pressure-to-be-single",
-    "title": "The Pressure To Be Single",
-    "excerpt": "Is this just freedom to give up on each other",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/the-pressure-to-be-single",
-    "publishedAt": "2025-11-18T15:53:19.381Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 4,
-    "likes": 1071,
-    "comments": 222,
-    "engagementScore": 1737,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!okgX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc808ca37-ce32-4f03-a94a-b5ffad18751a_2914x1610.png",
-    "platforms": {
-      "substack": {
-        "likes": 1071,
-        "comments": 222
-      }
-    }
-  },
-  {
-    "id": "theatlantic-com-ideas-archive-2023-09-airlines-banks-mileage-programs-675374",
-    "title": "Airlines make more money from mileage programs than from flying planes",
-    "excerpt": "They make more money from mileage programs than from flying planes—and it shows.",
-    "author": "chapulin",
-    "sourceSlug": "theatlantic-com",
-    "sourceName": "Theatlantic",
-    "url": "https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374",
-    "publishedAt": "2023-09-21T12:40:58Z",
-    "category": "Ideas",
-    "readingMinutes": 5,
-    "likes": 535,
-    "comments": 595,
-    "engagementScore": 1725,
-    "coverImage": "https://cdn.theatlantic.com/thumbor/ZLsXY6KNoQbW0NEkMG-NJcuvLL8=/0x43:2000x1085/1200x625/media/img/mt/2023/09/airlines_are_banks/original.jpg",
-    "platforms": {
-      "hn": {
-        "points": 535,
-        "comments": 595,
-        "itemUrl": "https://news.ycombinator.com/item?id=37596755"
+        "points": 938,
+        "comments": 433,
+        "itemUrl": "https://news.ycombinator.com/item?id=6129148"
       }
     }
   }

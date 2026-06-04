@@ -40,6 +40,10 @@ export default function HomePage() {
           across technology, ambition, creativity, money, meaning, and how to
           think.
         </p>
+        <p className="mt-5 max-w-3xl text-base leading-7 text-muted">
+          Collected from Hacker News, Reddit, Substack, trusted publications, and
+          the Commonplace Canon.
+        </p>
         <div className="mt-8 flex flex-wrap gap-3 text-sm font-semibold text-muted">
           <span className="rounded-full border border-rule bg-surface/60 px-3 py-1.5">
             {top100Articles.length || articles.length} ranked essays

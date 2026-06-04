@@ -2,6 +2,41 @@ import { readFileSync } from "node:fs";
 import path from "node:path";
 import type { Article, CanonGroup, Category, Source } from "@/lib/types";
 
+const trustedPublicationHosts = new Set([
+  "aeon.co",
+  "nautil.us",
+  "quantamagazine.org",
+  "noemamag.com",
+  "themarginalian.org",
+  "theparisreview.org",
+  "longreads.com",
+  "theatlantic.com",
+  "newyorker.com"
+]);
+
+const independentBlogHosts = new Set([
+  "paulgraham.com",
+  "waitbutwhy.com",
+  "lesswrong.com",
+  "astralcodexten.com",
+  "slatestarcodex.com",
+  "ribbonfarm.com",
+  "collabfund.com",
+  "jamesclear.com",
+  "fs.blog",
+  "nesslabs.com",
+  "sive.rs",
+  "kk.org",
+  "patrickcollison.com",
+  "a16z.com",
+  "pmarchive.com",
+  "cdixon.org",
+  "worrydream.com",
+  "gwern.net",
+  "markmanson.net",
+  "marginalrevolution.com"
+]);
+
 export const categories: Category[] = [
   "Original Thinking",
   "Attention & Tech",
@@ -88,6 +123,58 @@ export function getArticlesByCategory(category: Category) {
     .sort((a, b) => b.engagementScore - a.engagementScore);
 }
 
+export function getSourceGroups() {
+  const canonItemCount = canon.reduce((count, group) => count + group.items.length, 0);
+  const sourceNamesByHost = new Map(
+    sources.map((source) => [source.host, source.name] as const)
+  );
+
+  return [
+    {
+      name: "Hacker News",
+      description:
+        "Essays that earned attention and discussion from technical readers.",
+      count: articles.filter((article) => article.platforms?.hn).length,
+      examples: examplesFor((article) => Boolean(article.platforms?.hn))
+    },
+    {
+      name: "Reddit",
+      description:
+        "Long-form links surfaced by public subreddit rankings when Reddit allows access.",
+      count: articles.filter((article) => article.platforms?.reddit).length,
+      examples: ["TrueReddit", "foodforthought", "longform"]
+    },
+    {
+      name: "Substack",
+      description:
+        "Reader-loved posts from a small set of curated newsletter writers.",
+      count: articles.filter((article) => article.platforms?.substack).length,
+      examples: examplesFor((article) => Boolean(article.platforms?.substack))
+    },
+    {
+      name: "Trusted publications",
+      description:
+        "Editorial publications and magazines with a durable essay sensibility.",
+      count: countByHosts(trustedPublicationHosts),
+      examples: examplesFromHosts(trustedPublicationHosts, sourceNamesByHost)
+    },
+    {
+      name: "Independent blogs",
+      description:
+        "Internet-native writers and small publications with strong original thinking.",
+      count: countByHosts(independentBlogHosts),
+      examples: examplesFromHosts(independentBlogHosts, sourceNamesByHost)
+    },
+    {
+      name: "Commonplace Canon",
+      description:
+        "Manual editor’s picks: evergreen essays kept separate from engagement rankings.",
+      count: canonItemCount,
+      examples: canon.slice(0, 3).map((group) => group.author)
+    }
+  ];
+}
+
 function readDataFile<T>(fileName: string, fallback: T) {
   try {
     const filePath = path.join(process.cwd(), "data", fileName);
@@ -101,4 +188,35 @@ function readDataFile<T>(fileName: string, fallback: T) {
   } catch {
     return fallback;
   }
+}
+
+function countByHosts(hosts: Set<string>) {
+  return articles.filter((article) => {
+    try {
+      return hosts.has(new URL(article.url).hostname.replace(/^www\./, ""));
+    } catch {
+      return false;
+    }
+  }).length;
+}
+
+function examplesFor(predicate: (article: Article) => boolean) {
+  return Array.from(
+    new Set(
+      articles
+        .filter(predicate)
+        .map((article) => article.sourceName)
+        .filter(Boolean)
+    )
+  ).slice(0, 3);
+}
+
+function examplesFromHosts(
+  hosts: Set<string>,
+  sourceNamesByHost: Map<string | undefined, string>
+) {
+  return Array.from(hosts)
+    .map((host) => sourceNamesByHost.get(host))
+    .filter(Boolean)
+    .slice(0, 3) as string[];
 }

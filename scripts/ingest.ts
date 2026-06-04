@@ -4,6 +4,7 @@ import { load } from "cheerio";
 import {
   ALLOWLIST,
   DOMAIN_CATEGORY,
+  DOMAIN_DISPLAY_NAME,
   SUBREDDITS,
   SUBSTACK_SOURCES
 } from "./config";
@@ -574,15 +575,13 @@ function deriveSources(articles: Article[]) {
     const existing = sources.get(slug);
     if (existing) {
       existing.count = (existing.count ?? 0) + 1;
-      if (!existing.name || existing.name === nameFromHost(host)) {
-        existing.name = article.sourceName || existing.name;
-      }
+      existing.name = DOMAIN_DISPLAY_NAME[host] || existing.name;
       continue;
     }
 
     sources.set(slug, {
       slug,
-      name: article.sourceName || nameFromHost(host),
+      name: DOMAIN_DISPLAY_NAME[host] || article.sourceName || nameFromHost(host),
       author: article.author || nameFromHost(host),
       platform: "rss",
       baseUrl: `https://${host}`,
@@ -746,7 +745,12 @@ function idFromCanonicalUrl(value: string) {
 }
 
 function nameFromHost(host: string) {
-  const withoutTld = normalizeHost(host).split(".").slice(0, -1).join(" ");
+  const normalizedHost = normalizeHost(host);
+  if (DOMAIN_DISPLAY_NAME[normalizedHost]) {
+    return DOMAIN_DISPLAY_NAME[normalizedHost];
+  }
+
+  const withoutTld = normalizedHost.split(".").slice(0, -1).join(" ");
   return withoutTld
     .split(/[\s-]+/)
     .filter(Boolean)

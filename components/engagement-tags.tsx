@@ -1,59 +1,52 @@
-import { formatNumber } from "@/lib/format";
+import { formatSignalBadges } from "@/lib/signals";
 import type { Article } from "@/lib/types";
 
 export function EngagementTags({ article }: { article: Article }) {
-  const platforms = article.platforms;
-  const tags = [
-    platforms?.hn
-      ? {
-          label: `▲ ${formatCompact(platforms.hn.points)} HN`,
-          href: platforms.hn.itemUrl
-        }
-      : null,
-    platforms?.reddit
-      ? {
-          label: `⬆ ${formatCompact(platforms.reddit.ups)} Reddit`,
-          href: platforms.reddit.permalink
-        }
-      : null,
-    platforms?.substack
-      ? {
-          label: `♥ ${formatCompact(platforms.substack.likes)}`,
-          href: article.url
-        }
-      : null
-  ].filter(Boolean) as Array<{ label: string; href: string }>;
-
-  if (tags.length === 0) {
-    return (
-      <span className="text-xs font-medium text-muted">
-        ♥ {formatNumber(article.likes)} · 💬 {formatNumber(article.comments)}
-      </span>
-    );
-  }
+  const tags = formatSignalBadges(article);
 
   return (
     <div className="flex flex-wrap gap-1.5">
       {tags.map((tag) => (
-        <a
+        <SignalTag
           key={tag.label}
           href={tag.href}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="rounded-full border border-rule bg-paper/50 px-2 py-1 text-[11px] font-semibold text-muted transition hover:border-clay/50 hover:text-clay"
-        >
-          {tag.label}
-        </a>
+          label={tag.label}
+          title={tag.title}
+        />
       ))}
     </div>
   );
 }
 
-function formatCompact(value: number) {
-  return new Intl.NumberFormat("en", {
-    notation: "compact",
-    maximumFractionDigits: 1
-  })
-    .format(value)
-    .toLowerCase();
+function SignalTag({
+  href,
+  label,
+  title
+}: {
+  href?: string;
+  label: string;
+  title: string;
+}) {
+  const className =
+    "rounded-full border border-rule bg-paper/50 px-2 py-1 text-[11px] font-semibold text-muted transition hover:border-clay/50 hover:text-clay";
+
+  if (!href) {
+    return (
+      <span className={className} title={title}>
+        {label}
+      </span>
+    );
+  }
+
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      className={className}
+      title={title}
+    >
+      {label}
+    </a>
+  );
 }

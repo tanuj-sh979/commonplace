@@ -49,11 +49,16 @@ export default function CanonPage() {
               className="rounded-md border border-rule bg-surface/60 p-5 sm:p-6"
             >
               <div className="flex flex-col gap-2 border-b border-rule pb-4 sm:flex-row sm:items-end sm:justify-between">
-                <h2 className="font-serif text-4xl leading-none">
-                  {group.author}
-                </h2>
-                <p className="text-xs font-semibold uppercase tracking-[0.14em] text-sage">
-                  {group.items.length} essays
+                <div>
+                  <p className="mb-2 text-xs font-semibold uppercase tracking-[0.14em] text-sage">
+                    Commonplace Canon
+                  </p>
+                  <h2 className="font-serif text-4xl leading-none">
+                    {group.author}
+                  </h2>
+                </div>
+                <p className="text-xs font-semibold uppercase tracking-[0.14em] text-clay">
+                  Editor’s Pick · {group.items.length} essays
                 </p>
               </div>
               <ul className="mt-5 space-y-4">

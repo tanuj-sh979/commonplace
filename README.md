@@ -40,6 +40,8 @@ Tune quality and breadth in [scripts/config.ts](./scripts/config.ts):
 
 The scraper stores only titles, excerpts, source metadata, engagement counts, and outbound links. It does not store article text.
 
+Product Hunt is not currently ingested. If added later, it should use Product Hunt's authenticated API behind environment variables and should not display Product Hunt metrics unless they were fetched from the real API.
+
 ## Deployment
 
 This is a standard Next.js 14 App Router app and deploys cleanly on Vercel. The app reads committed JSON from `/data`, so production deploys are deterministic: refresh data, commit the generated JSON, and Vercel serves the updated static pages on the next deployment.
