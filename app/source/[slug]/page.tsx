@@ -38,8 +38,8 @@ export default function SourcePage({ params }: SourcePageProps) {
   }
 
   const articles = getArticlesBySource(source.slug);
-  const featuredArticles = articles.slice(0, 3);
-  const remainingArticles = articles.slice(3);
+  const featuredArticles = articles.slice(0, 5);
+  const remainingArticles = articles.slice(5);
 
   return (
     <>

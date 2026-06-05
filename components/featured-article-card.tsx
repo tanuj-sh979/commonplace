@@ -27,7 +27,7 @@ export function FeaturedArticleCard({
         title={article.title}
         sourceName={article.sourceName}
         category={article.category}
-        className={prominent ? "aspect-[16/9]" : "aspect-[4/3]"}
+        className={prominent ? "aspect-[16/9]" : "aspect-[16/10]"}
       />
 
       <div className="flex flex-1 flex-col p-5 sm:p-6">
@@ -60,7 +60,7 @@ export function FeaturedArticleCard({
           <ArticleEditorialInfo article={article} />
         </div>
 
-        <div className="mt-auto pt-5">
+        <div className="mt-auto pt-4">
           <ArticleProof article={article} />
           <a
             href={article.url}

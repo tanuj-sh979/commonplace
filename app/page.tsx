@@ -29,8 +29,8 @@ const homepageSections: Array<{
 ];
 
 export default function HomePage() {
-  const featuredArticles = top100Articles.slice(0, 6);
-  const archiveArticles = top100Articles.slice(6, 18);
+  const featuredArticles = top100Articles.slice(0, 5);
+  const archiveArticles = top100Articles.slice(5, 17);
 
   return (
     <>
@@ -89,7 +89,7 @@ export default function HomePage() {
 
       <section className="mt-20 space-y-16 sm:mt-24 sm:space-y-24">
         {homepageSections.map((section) => {
-          const sectionArticles = getArticlesByCategory(section.category).slice(0, 6);
+          const sectionArticles = getArticlesByCategory(section.category).slice(0, 5);
           const href = `/category/${slugifyCategory(section.category)}`;
 
           return (
@@ -115,14 +115,10 @@ export default function HomePage() {
               </h2>
 
               {sectionArticles.length > 0 ? (
-                <div className="mt-7 grid gap-6 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)]">
-                  <div className="grid items-stretch gap-5 sm:grid-cols-2 lg:grid-cols-1">
-                    {sectionArticles.slice(0, 2).map((article) => (
-                      <FeaturedArticleCard key={article.id} article={article} />
-                    ))}
-                  </div>
-                  <div className="rounded-2xl border border-rule bg-paper px-5 sm:px-6">
-                    {sectionArticles.slice(2).map((article) => (
+                <div className="mt-7 grid items-start gap-6 lg:grid-cols-[minmax(0,0.82fr)_minmax(0,1fr)]">
+                  <FeaturedArticleCard article={sectionArticles[0]} />
+                  <div className="self-start rounded-2xl border border-rule bg-paper px-5 sm:px-6">
+                    {sectionArticles.slice(1).map((article) => (
                       <CompactArticleItem key={article.id} article={article} />
                     ))}
                   </div>

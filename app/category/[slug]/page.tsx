@@ -46,8 +46,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   }
 
   const categoryArticles = getArticlesByCategory(category);
-  const featuredArticles = categoryArticles.slice(0, 6);
-  const remainingArticles = categoryArticles.slice(6);
+  const featuredArticles = categoryArticles.slice(0, 5);
+  const remainingArticles = categoryArticles.slice(5);
 
   return (
     <>
