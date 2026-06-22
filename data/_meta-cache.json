@@ -10583,5 +10583,25 @@
     "author": "Jared Henderson",
     "canonical": "https://www.honest-broker.com/p/the-great-books-are-for-everyone",
     "fetchedAt": "2026-06-20T09:45:24.847Z"
+  },
+  "https://henrikkarlsson.xyz/p/hypomnemata": {
+    "title": "How not to forget what matters",
+    "excerpt": "1. Every few months I will read a tweet, or have a conversation, that makes me feel this is important, I must remember this.",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!qwvU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qwvU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
+    "sourceName": "",
+    "author": "Henrik Karlsson",
+    "canonical": "https://www.henrikkarlsson.xyz/p/hypomnemata",
+    "fetchedAt": "2026-06-22T12:28:28.736Z"
+  },
+  "https://honest-broker.com/p/authenticity-in-music": {
+    "title": "Authenticity in Music",
+    "excerpt": "In a world of AI slop, where do we find something real?",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!B2xr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!B2xr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/authenticity-in-music",
+    "fetchedAt": "2026-06-22T12:28:28.758Z"
   }
 }
