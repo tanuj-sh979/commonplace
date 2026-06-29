@@ -33,15 +33,15 @@
     "publishedAt": "2025-10-28T15:21:32.615Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 12338,
-    "comments": 674,
-    "engagementScore": 14360,
+    "likes": 12367,
+    "comments": 675,
+    "engagementScore": 14392,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
       "substack": {
-        "likes": 12338,
-        "comments": 674
+        "likes": 12367,
+        "comments": 675
       }
     }
   },
@@ -79,14 +79,14 @@
     "publishedAt": "2025-04-23T16:41:51.245Z",
     "category": "Meaning & Living",
     "readingMinutes": 6,
-    "likes": 10913,
+    "likes": 10918,
     "comments": 146,
-    "engagementScore": 11351,
+    "engagementScore": 11356,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "platforms": {
       "substack": {
-        "likes": 10913,
+        "likes": 10918,
         "comments": 146
       }
     }
@@ -102,15 +102,38 @@
     "publishedAt": "2026-01-06T02:15:14.799Z",
     "category": "Relationships",
     "readingMinutes": 4,
-    "likes": 4924,
+    "likes": 4932,
     "comments": 75,
-    "engagementScore": 5149,
+    "engagementScore": 5157,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "platforms": {
       "substack": {
-        "likes": 4924,
+        "likes": 4932,
         "comments": 75
+      }
+    }
+  },
+  {
+    "id": "experimental-history-com-p-face-it-youre-a-crazy-person",
+    "title": "Face it: you're a crazy person",
+    "excerpt": "OR: why your brain needs a boxcutter",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
+    "publishedAt": "2025-06-24T12:12:10.012Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 4094,
+    "comments": 258,
+    "engagementScore": 4868,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 4094,
+        "comments": 258
       }
     }
   },
@@ -125,14 +148,14 @@
     "publishedAt": "2024-08-05T19:17:00.182Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 4388,
+    "likes": 4393,
     "comments": 98,
-    "engagementScore": 4682,
+    "engagementScore": 4687,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
     "platforms": {
       "substack": {
-        "likes": 4388,
+        "likes": 4393,
         "comments": 98
       }
     }
@@ -157,29 +180,6 @@
       "substack": {
         "likes": 3208,
         "comments": 464
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-face-it-youre-a-crazy-person",
-    "title": "Face it: you're a crazy person",
-    "excerpt": "OR: why your brain needs a boxcutter",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
-    "publishedAt": "2025-06-24T12:12:10.012Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 3732,
-    "comments": 250,
-    "engagementScore": 4482,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 3732,
-        "comments": 250
       }
     }
   },
@@ -217,14 +217,14 @@
     "publishedAt": "2026-05-20T09:22:52.279Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 3359,
+    "likes": 3375,
     "comments": 68,
-    "engagementScore": 3563,
+    "engagementScore": 3579,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
     "platforms": {
       "substack": {
-        "likes": 3359,
+        "likes": 3375,
         "comments": 68
       }
     }
@@ -263,14 +263,14 @@
     "publishedAt": "2023-12-13T17:38:10.267Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 2256,
+    "likes": 2258,
     "comments": 286,
-    "engagementScore": 3114,
+    "engagementScore": 3116,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/1905812d-a8b5-423c-bd19-effc5bdc46cc_1216x966.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1905812d-a8b5-423c-bd19-effc5bdc46cc_1216x966.png",
     "platforms": {
       "substack": {
-        "likes": 2256,
+        "likes": 2258,
         "comments": 286
       }
     }
@@ -332,14 +332,14 @@
     "publishedAt": "2024-01-02T17:03:39.863Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 2348,
+    "likes": 2347,
     "comments": 224,
-    "engagementScore": 3020,
+    "engagementScore": 3019,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
     "platforms": {
       "substack": {
-        "likes": 2348,
+        "likes": 2347,
         "comments": 224
       }
     }
@@ -378,14 +378,14 @@
     "publishedAt": "2026-04-14T07:22:57.465Z",
     "category": "Meaning & Living",
     "readingMinutes": 4,
-    "likes": 2399,
+    "likes": 2413,
     "comments": 74,
-    "engagementScore": 2621,
+    "engagementScore": 2635,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!TFQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59c9aa02-5f69-4609-81fb-75b5a10a6e1f_1566x933.jpeg",
     "platforms": {
       "substack": {
-        "likes": 2399,
+        "likes": 2413,
         "comments": 74
       }
     }
@@ -470,14 +470,14 @@
     "publishedAt": "2024-11-19T16:18:27.402Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 2013,
+    "likes": 2014,
     "comments": 77,
-    "engagementScore": 2244,
+    "engagementScore": 2245,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
     "platforms": {
       "substack": {
-        "likes": 2013,
+        "likes": 2014,
         "comments": 77
       }
     }
@@ -562,14 +562,14 @@
     "publishedAt": "2026-01-20T18:55:47.327Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1640,
+    "likes": 1642,
     "comments": 141,
-    "engagementScore": 2063,
+    "engagementScore": 2065,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1640,
+        "likes": 1642,
         "comments": 141
       }
     }
@@ -609,14 +609,14 @@
     "category": "Creativity",
     "readingMinutes": 4,
     "likes": 285,
-    "comments": 580,
-    "engagementScore": 2025,
+    "comments": 578,
+    "engagementScore": 2019,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
     "platforms": {
       "substack": {
         "likes": 285,
-        "comments": 580
+        "comments": 578
       }
     }
   },
@@ -677,14 +677,14 @@
     "publishedAt": "2024-01-02T18:06:31.718Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1560,
+    "likes": 1565,
     "comments": 91,
-    "engagementScore": 1833,
+    "engagementScore": 1838,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!VEzU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e291074-3499-4db2-9bf9-95886db0a438_1725x1225.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!VEzU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e291074-3499-4db2-9bf9-95886db0a438_1725x1225.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1560,
+        "likes": 1565,
         "comments": 91
       }
     }
@@ -746,38 +746,15 @@
     "publishedAt": "2026-01-06T16:45:44.367Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1430,
+    "likes": 1453,
     "comments": 73,
-    "engagementScore": 1649,
+    "engagementScore": 1672,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!l5VM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa568ca16-8bac-4ce9-9d71-8d1e9a123839_1544x506.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!l5VM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa568ca16-8bac-4ce9-9d71-8d1e9a123839_1544x506.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1430,
+        "likes": 1453,
         "comments": 73
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-the-return-of-the-weirdo",
-    "title": "The Return of the Weirdo",
-    "excerpt": "Will this be the cool new thing of 2026?",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-return-of-the-weirdo",
-    "publishedAt": "2025-12-22T13:32:36.000Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 1006,
-    "comments": 206,
-    "engagementScore": 1624,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/f61a67d0-0d7b-43dc-ad07-58f2746c6593_564x490.png",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f61a67d0-0d7b-43dc-ad07-58f2746c6593_564x490.png",
-    "platforms": {
-      "substack": {
-        "likes": 1006,
-        "comments": 206
       }
     }
   },
@@ -792,14 +769,14 @@
     "publishedAt": "2026-03-31T16:05:29.059Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1174,
+    "likes": 1177,
     "comments": 146,
-    "engagementScore": 1612,
+    "engagementScore": 1615,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Gv2e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F186bc8be-4082-46ca-a412-232fee060a38_1644x1208.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Gv2e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F186bc8be-4082-46ca-a412-232fee060a38_1644x1208.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1174,
+        "likes": 1177,
         "comments": 146
       }
     }
@@ -815,14 +792,14 @@
     "publishedAt": "2026-03-28T08:36:06.939Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 1087,
+    "likes": 1088,
     "comments": 171,
-    "engagementScore": 1600,
+    "engagementScore": 1601,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!oZLR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d35562-563f-4436-9424-8c4f9f1efd0d_1280x1569.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!oZLR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d35562-563f-4436-9424-8c4f9f1efd0d_1280x1569.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1087,
+        "likes": 1088,
         "comments": 171
       }
     }
@@ -838,14 +815,14 @@
     "publishedAt": "2024-05-30T10:22:43.361Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 1370,
+    "likes": 1371,
     "comments": 70,
-    "engagementScore": 1580,
+    "engagementScore": 1581,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!R3CI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe15d1b23-7ad9-4f85-bfea-4e23318cc080_927x1200.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!R3CI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe15d1b23-7ad9-4f85-bfea-4e23318cc080_927x1200.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1370,
+        "likes": 1371,
         "comments": 70
       }
     }
@@ -884,15 +861,15 @@
     "publishedAt": "2026-05-28T12:40:15.000Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 1009,
-    "comments": 161,
-    "engagementScore": 1492,
+    "likes": 1012,
+    "comments": 163,
+    "engagementScore": 1501,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!qsQ_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F495d3225-854c-4455-829a-aa6d4e513706_840x588.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qsQ_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F495d3225-854c-4455-829a-aa6d4e513706_840x588.png",
     "platforms": {
       "substack": {
-        "likes": 1009,
-        "comments": 161
+        "likes": 1012,
+        "comments": 163
       }
     }
   },
@@ -953,15 +930,15 @@
     "publishedAt": "2024-04-25T14:00:46.659Z",
     "category": "Meaning & Living",
     "readingMinutes": 4,
-    "likes": 1324,
-    "comments": 47,
-    "engagementScore": 1465,
+    "likes": 1333,
+    "comments": 48,
+    "engagementScore": 1477,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
     "platforms": {
       "substack": {
-        "likes": 1324,
-        "comments": 47
+        "likes": 1333,
+        "comments": 48
       }
     }
   },
@@ -1045,14 +1022,14 @@
     "publishedAt": "2025-11-19T10:46:28.761Z",
     "category": "Meaning & Living",
     "readingMinutes": 4,
-    "likes": 1268,
+    "likes": 1269,
     "comments": 37,
-    "engagementScore": 1379,
+    "engagementScore": 1380,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ZpnT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0792b21-9b13-4428-9e5a-3a61a89dc449_600x600.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ZpnT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0792b21-9b13-4428-9e5a-3a61a89dc449_600x600.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1268,
+        "likes": 1269,
         "comments": 37
       }
     }
@@ -1068,14 +1045,14 @@
     "publishedAt": "2024-08-27T20:07:24.566Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1057,
+    "likes": 1058,
     "comments": 95,
-    "engagementScore": 1342,
+    "engagementScore": 1343,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!GnK2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F486233a6-07cf-4c6d-b540-cbfe1b3b41ee_1472x1188.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!GnK2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F486233a6-07cf-4c6d-b540-cbfe1b3b41ee_1472x1188.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1057,
+        "likes": 1058,
         "comments": 95
       }
     }
@@ -1091,14 +1068,14 @@
     "publishedAt": "2026-03-26T17:46:30.739Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 825,
+    "likes": 826,
     "comments": 166,
-    "engagementScore": 1323,
+    "engagementScore": 1324,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/cc7545bd-cb15-4003-bada-8a9edd3f28b6_852x900.jpeg",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/cc7545bd-cb15-4003-bada-8a9edd3f28b6_852x900.jpeg",
     "platforms": {
       "substack": {
-        "likes": 825,
+        "likes": 826,
         "comments": 166
       }
     }
@@ -1137,14 +1114,14 @@
     "publishedAt": "2025-10-01T12:30:14.752Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 1172,
+    "likes": 1173,
     "comments": 42,
-    "engagementScore": 1298,
+    "engagementScore": 1299,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!UC1-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0139428e-197d-4ddd-9b98-87b3ca62ed07_1072x1637.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!UC1-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0139428e-197d-4ddd-9b98-87b3ca62ed07_1072x1637.webp",
     "platforms": {
       "substack": {
-        "likes": 1172,
+        "likes": 1173,
         "comments": 42
       }
     }
@@ -1160,15 +1137,15 @@
     "publishedAt": "2026-05-30T17:15:06.150Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 823,
-    "comments": 137,
-    "engagementScore": 1234,
+    "likes": 829,
+    "comments": 136,
+    "engagementScore": 1237,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/914f59d1-eae1-4c27-987a-a6e467871d0d_1308x794.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/914f59d1-eae1-4c27-987a-a6e467871d0d_1308x794.png",
     "platforms": {
       "substack": {
-        "likes": 823,
-        "comments": 137
+        "likes": 829,
+        "comments": 136
       }
     }
   },
@@ -1298,14 +1275,14 @@
     "publishedAt": "2026-02-21T18:53:13.101Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 690,
+    "likes": 691,
     "comments": 144,
-    "engagementScore": 1122,
+    "engagementScore": 1123,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/79fe6a8c-c545-40d5-bbfa-d844429f797a_1272x566.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/79fe6a8c-c545-40d5-bbfa-d844429f797a_1272x566.png",
     "platforms": {
       "substack": {
-        "likes": 690,
+        "likes": 691,
         "comments": 144
       }
     }
@@ -1357,6 +1334,29 @@
     }
   },
   {
+    "id": "henrikkarlsson-xyz-p-problem-solving",
+    "title": "When facing a complicated problem, don't try to solve it, try to understand it",
+    "excerpt": "On problem solving and form-context-fit",
+    "author": "Henrik Karlsson",
+    "sourceSlug": "henrikkarlsson-xyz",
+    "sourceName": "Escaping Flatland",
+    "url": "https://www.henrikkarlsson.xyz/p/problem-solving",
+    "publishedAt": "2025-08-18T12:01:59.180Z",
+    "category": "Meaning & Living",
+    "readingMinutes": 5,
+    "likes": 980,
+    "comments": 36,
+    "engagementScore": 1088,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!Phch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd11a7c61-fe40-4894-a7ca-a02580511fe9_900x719.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Phch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd11a7c61-fe40-4894-a7ca-a02580511fe9_900x719.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 980,
+        "comments": 36
+      }
+    }
+  },
+  {
     "id": "freyaindia-co-uk-p-no-not-everyone-needs-therapy",
     "title": "No, Not Everyone Needs Therapy",
     "excerpt": "“Big Therapy” tells us the solution to our problems is to pay a stranger",
@@ -1376,29 +1376,6 @@
       "substack": {
         "likes": 814,
         "comments": 91
-      }
-    }
-  },
-  {
-    "id": "henrikkarlsson-xyz-p-problem-solving",
-    "title": "When facing a complicated problem, don't try to solve it, try to understand it",
-    "excerpt": "On problem solving and form-context-fit",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/problem-solving",
-    "publishedAt": "2025-08-18T12:01:59.180Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 5,
-    "likes": 977,
-    "comments": 36,
-    "engagementScore": 1085,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!Phch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd11a7c61-fe40-4894-a7ca-a02580511fe9_900x719.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Phch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd11a7c61-fe40-4894-a7ca-a02580511fe9_900x719.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 977,
-        "comments": 36
       }
     }
   },
@@ -1436,14 +1413,14 @@
     "publishedAt": "2026-04-30T17:51:11.314Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 566,
+    "likes": 568,
     "comments": 165,
-    "engagementScore": 1061,
+    "engagementScore": 1063,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/17aa8392-2bb2-4230-9534-29956e62274c_994x642.jpeg",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/17aa8392-2bb2-4230-9534-29956e62274c_994x642.jpeg",
     "platforms": {
       "substack": {
-        "likes": 566,
+        "likes": 568,
         "comments": 165
       }
     }
@@ -1505,14 +1482,14 @@
     "publishedAt": "2024-02-19T16:01:45.475Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 691,
+    "likes": 692,
     "comments": 108,
-    "engagementScore": 1015,
+    "engagementScore": 1016,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!m0-R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e22190-0d68-44a3-a09f-a44815cccfd2_2240x1400.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!m0-R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e22190-0d68-44a3-a09f-a44815cccfd2_2240x1400.png",
     "platforms": {
       "substack": {
-        "likes": 691,
+        "likes": 692,
         "comments": 108
       }
     }
@@ -1597,14 +1574,14 @@
     "publishedAt": "2024-09-10T11:26:17.584Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 915,
+    "likes": 916,
     "comments": 30,
-    "engagementScore": 1005,
+    "engagementScore": 1006,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Ea2j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77a4ecad-b0d2-4ade-b586-15d17bfa05c9_1000x801.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Ea2j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77a4ecad-b0d2-4ade-b586-15d17bfa05c9_1000x801.jpeg",
     "platforms": {
       "substack": {
-        "likes": 915,
+        "likes": 916,
         "comments": 30
       }
     }
@@ -1643,14 +1620,14 @@
     "publishedAt": "2026-05-06T09:10:51.310Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 882,
+    "likes": 885,
     "comments": 36,
-    "engagementScore": 990,
+    "engagementScore": 993,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!PZh9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e5ce57a-6616-4fd1-bcae-6adc3dbb81b1_1762x1676.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!PZh9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e5ce57a-6616-4fd1-bcae-6adc3dbb81b1_1762x1676.png",
     "platforms": {
       "substack": {
-        "likes": 882,
+        "likes": 885,
         "comments": 36
       }
     }
@@ -1667,37 +1644,14 @@
     "category": "Creativity",
     "readingMinutes": 4,
     "likes": 688,
-    "comments": 93,
-    "engagementScore": 967,
+    "comments": 92,
+    "engagementScore": 964,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/7c0f2909-a508-44be-ab42-f8d6c2fdd13e_1018x818.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7c0f2909-a508-44be-ab42-f8d6c2fdd13e_1018x818.png",
     "platforms": {
       "substack": {
         "likes": 688,
-        "comments": 93
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-shame-them-shun-them-ban-them-beat",
-    "title": "Shame them, shun them, ban them, beat them!",
-    "excerpt": "OR: crock pots and lightning bolts",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
-    "publishedAt": "2026-05-12T13:23:30.967Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 670,
-    "comments": 95,
-    "engagementScore": 955,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!Q7EN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcef721b-7aca-442e-815a-33caec2e316e_1280x985.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Q7EN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcef721b-7aca-442e-815a-33caec2e316e_1280x985.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 670,
-        "comments": 95
+        "comments": 92
       }
     }
   },
@@ -1712,15 +1666,38 @@
     "publishedAt": "2026-06-09T16:58:56.394Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 618,
+    "likes": 629,
     "comments": 110,
-    "engagementScore": 948,
+    "engagementScore": 959,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!8Pn8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb16dcd1f-1143-443d-a429-53b97142f277_1280x985.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!8Pn8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb16dcd1f-1143-443d-a429-53b97142f277_1280x985.jpeg",
     "platforms": {
       "substack": {
-        "likes": 618,
+        "likes": 629,
         "comments": 110
+      }
+    }
+  },
+  {
+    "id": "experimental-history-com-p-shame-them-shun-them-ban-them-beat",
+    "title": "Shame them, shun them, ban them, beat them!",
+    "excerpt": "OR: crock pots and lightning bolts",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+    "publishedAt": "2026-05-12T13:23:30.967Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 672,
+    "comments": 95,
+    "engagementScore": 957,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!Q7EN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcef721b-7aca-442e-815a-33caec2e316e_1280x985.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Q7EN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcef721b-7aca-442e-815a-33caec2e316e_1280x985.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 672,
+        "comments": 95
       }
     }
   },
@@ -1735,14 +1712,14 @@
     "publishedAt": "2026-02-03T16:28:19.044Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 793,
+    "likes": 796,
     "comments": 51,
-    "engagementScore": 946,
+    "engagementScore": 949,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0MoL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b5af13-f1c7-4c7c-9c9d-7716b2616a8a_1663x1218.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!0MoL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b5af13-f1c7-4c7c-9c9d-7716b2616a8a_1663x1218.jpeg",
     "platforms": {
       "substack": {
-        "likes": 793,
+        "likes": 796,
         "comments": 51
       }
     }
@@ -1804,14 +1781,14 @@
     "publishedAt": "2026-05-24T20:01:39.089Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 563,
+    "likes": 564,
     "comments": 100,
-    "engagementScore": 863,
+    "engagementScore": 864,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Vsem!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b9b1c6d-1d25-4039-8b7e-dd5f2858bdee_600x600.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Vsem!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b9b1c6d-1d25-4039-8b7e-dd5f2858bdee_600x600.png",
     "platforms": {
       "substack": {
-        "likes": 563,
+        "likes": 564,
         "comments": 100
       }
     }
@@ -1988,15 +1965,38 @@
     "publishedAt": "2025-01-21T15:18:29.097Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 660,
+    "likes": 662,
     "comments": 41,
-    "engagementScore": 783,
+    "engagementScore": 785,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!hqPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9034ea3-be40-4296-9fbb-cc3eeed96b6f_1698x1137.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!hqPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9034ea3-be40-4296-9fbb-cc3eeed96b6f_1698x1137.jpeg",
     "platforms": {
       "substack": {
-        "likes": 660,
+        "likes": 662,
         "comments": 41
+      }
+    }
+  },
+  {
+    "id": "henrikkarlsson-xyz-p-hypomnemata",
+    "title": "How not to forget what matters",
+    "excerpt": "1. Every few months I will read a tweet, or have a conversation, that makes me feel this is important, I must remember this.",
+    "author": "Henrik Karlsson",
+    "sourceSlug": "henrikkarlsson-xyz",
+    "sourceName": "Escaping Flatland",
+    "url": "https://www.henrikkarlsson.xyz/p/hypomnemata",
+    "publishedAt": "2026-06-22T09:02:44.260Z",
+    "category": "Meaning & Living",
+    "readingMinutes": 5,
+    "likes": 656,
+    "comments": 30,
+    "engagementScore": 746,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!qwvU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qwvU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 656,
+        "comments": 30
       }
     }
   },
@@ -2034,14 +2034,14 @@
     "publishedAt": "2026-04-09T14:05:18.750Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 489,
+    "likes": 488,
     "comments": 78,
-    "engagementScore": 723,
+    "engagementScore": 722,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/058f3a37-9d1d-4519-a707-5e07149cbe42_1066x698.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/058f3a37-9d1d-4519-a707-5e07149cbe42_1066x698.png",
     "platforms": {
       "substack": {
-        "likes": 489,
+        "likes": 488,
         "comments": 78
       }
     }
@@ -2139,29 +2139,6 @@
     }
   },
   {
-    "id": "henrikkarlsson-xyz-p-hypomnemata",
-    "title": "How not to forget what matters",
-    "excerpt": "1. Every few months I will read a tweet, or have a conversation, that makes me feel this is important, I must remember this.",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/hypomnemata",
-    "publishedAt": "2026-06-22T09:02:44.260Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 5,
-    "likes": 606,
-    "comments": 29,
-    "engagementScore": 693,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!qwvU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qwvU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b71459d-eb9a-4483-b67f-96dfc0e540be_1504x1010.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 606,
-        "comments": 29
-      }
-    }
-  },
-  {
     "id": "honest-broker-com-p-a-reading-list-for-the-end-of-civilization-d4f",
     "title": "A Reading List for the End of Civilization",
     "excerpt": "I'm making this previously paywalled article available to everyone",
@@ -2172,15 +2149,38 @@
     "publishedAt": "2026-06-16T19:01:05.433Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 546,
-    "comments": 49,
-    "engagementScore": 693,
+    "likes": 558,
+    "comments": 50,
+    "engagementScore": 708,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/503b7c8c-32f1-4a8d-a552-bcc6eae83627_1456x1092.webp",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/503b7c8c-32f1-4a8d-a552-bcc6eae83627_1456x1092.webp",
     "platforms": {
       "substack": {
-        "likes": 546,
-        "comments": 49
+        "likes": 558,
+        "comments": 50
+      }
+    }
+  },
+  {
+    "id": "honest-broker-com-p-the-tech-backlash-gets-nastierand",
+    "title": "The Tech Backlash Gets Nastier—and Funnier",
+    "excerpt": "An update on fake tech ads, data poisoning, airplane protests, and Homer Simpson as a tool in the war against slop",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-tech-backlash-gets-nastierand",
+    "publishedAt": "2026-06-26T19:14:47.502Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 526,
+    "comments": 59,
+    "engagementScore": 703,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!uWi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96f8a6a-b523-48e7-9c62-92e92011e1f2_878x510.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!uWi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96f8a6a-b523-48e7-9c62-92e92011e1f2_878x510.png",
+    "platforms": {
+      "substack": {
+        "likes": 526,
+        "comments": 59
       }
     }
   },
@@ -2208,6 +2208,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-the-hottest-musician-in-2026-is-problematic",
+    "title": "The Hottest Musician in 2026 Is 'Problematic' Michael Jackson",
+    "excerpt": "And that's exactly what the music business wants",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-hottest-musician-in-2026-is-problematic",
+    "publishedAt": "2026-05-17T18:43:05.495Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 434,
+    "comments": 82,
+    "engagementScore": 680,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!RIcW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F861224bf-134d-4ed3-8602-28d5587d678d_1280x1402.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!RIcW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F861224bf-134d-4ed3-8602-28d5587d678d_1280x1402.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 434,
+        "comments": 82
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-funny-curiosity",
     "title": "A funny thing about curiosity",
     "excerpt": "Following your curiosity, you can bring something new and beautiful into the world as a gift to others. But to go there you have to do things that others will think stupid and embarrassing.",
@@ -2231,25 +2254,25 @@
     }
   },
   {
-    "id": "honest-broker-com-p-the-hottest-musician-in-2026-is-problematic",
-    "title": "The Hottest Musician in 2026 Is 'Problematic' Michael Jackson",
-    "excerpt": "And that's exactly what the music business wants",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-hottest-musician-in-2026-is-problematic",
-    "publishedAt": "2026-05-17T18:43:05.495Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 433,
-    "comments": 82,
-    "engagementScore": 679,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!RIcW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F861224bf-134d-4ed3-8602-28d5587d678d_1280x1402.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!RIcW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F861224bf-134d-4ed3-8602-28d5587d678d_1280x1402.jpeg",
+    "id": "henrikkarlsson-xyz-p-going-your-own-way",
+    "title": "Some relationships deepen when you tell the truth and some end",
+    "excerpt": "I asked people to send me stories about situations where they had done what felt right to them, even though they feared social pushback.",
+    "author": "Henrik Karlsson",
+    "sourceSlug": "henrikkarlsson-xyz",
+    "sourceName": "Escaping Flatland",
+    "url": "https://www.henrikkarlsson.xyz/p/going-your-own-way",
+    "publishedAt": "2026-03-11T08:27:40.162Z",
+    "category": "Meaning & Living",
+    "readingMinutes": 5,
+    "likes": 598,
+    "comments": 26,
+    "engagementScore": 676,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!IXbs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b30700d-efae-4b29-9042-2351e8a133a2_729x1023.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!IXbs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b30700d-efae-4b29-9042-2351e8a133a2_729x1023.jpeg",
     "platforms": {
       "substack": {
-        "likes": 433,
-        "comments": 82
+        "likes": 598,
+        "comments": 26
       }
     }
   },
@@ -2273,29 +2296,6 @@
       "substack": {
         "likes": 433,
         "comments": 81
-      }
-    }
-  },
-  {
-    "id": "henrikkarlsson-xyz-p-going-your-own-way",
-    "title": "Some relationships deepen when you tell the truth and some end",
-    "excerpt": "I asked people to send me stories about situations where they had done what felt right to them, even though they feared social pushback.",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/going-your-own-way",
-    "publishedAt": "2026-03-11T08:27:40.162Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 5,
-    "likes": 596,
-    "comments": 26,
-    "engagementScore": 674,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!IXbs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b30700d-efae-4b29-9042-2351e8a133a2_729x1023.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!IXbs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b30700d-efae-4b29-9042-2351e8a133a2_729x1023.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 596,
-        "comments": 26
       }
     }
   },
@@ -2333,38 +2333,38 @@
     "publishedAt": "2026-05-26T18:21:07.217Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 503,
+    "likes": 504,
     "comments": 52,
-    "engagementScore": 659,
+    "engagementScore": 660,
     "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/uD5-uL7SYsM",
     "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/uD5-uL7SYsM",
     "platforms": {
       "substack": {
-        "likes": 503,
+        "likes": 504,
         "comments": 52
       }
     }
   },
   {
-    "id": "honest-broker-com-p-the-tech-backlash-gets-nastierand",
-    "title": "The Tech Backlash Gets Nastier—and Funnier",
-    "excerpt": "An update on fake tech ads, data poisoning, airplane protests, and Homer Simpson as a tool in the war against slop",
+    "id": "honest-broker-com-p-authenticity-in-music",
+    "title": "Authenticity in Music",
+    "excerpt": "In a world of AI slop, where do we find something real?",
     "author": "Ted Gioia",
     "sourceSlug": "honest-broker-com",
     "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-tech-backlash-gets-nastierand",
-    "publishedAt": "2026-06-26T19:14:47.502Z",
+    "url": "https://www.honest-broker.com/p/authenticity-in-music",
+    "publishedAt": "2026-06-21T20:36:30.521Z",
     "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 482,
-    "comments": 57,
-    "engagementScore": 653,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!uWi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96f8a6a-b523-48e7-9c62-92e92011e1f2_878x510.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!uWi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96f8a6a-b523-48e7-9c62-92e92011e1f2_878x510.png",
+    "readingMinutes": 4,
+    "likes": 427,
+    "comments": 75,
+    "engagementScore": 652,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/e30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
     "platforms": {
       "substack": {
-        "likes": 482,
-        "comments": 57
+        "likes": 427,
+        "comments": 75
       }
     }
   },
@@ -2434,29 +2434,6 @@
       "substack": {
         "likes": 511,
         "comments": 44
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-authenticity-in-music",
-    "title": "Authenticity in Music",
-    "excerpt": "In a world of AI slop, where do we find something real?",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/authenticity-in-music",
-    "publishedAt": "2026-06-21T20:36:30.521Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 418,
-    "comments": 73,
-    "engagementScore": 637,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/e30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e30f7710-787f-43ec-8934-1eab6b18aeed_1128x770.png",
-    "platforms": {
-      "substack": {
-        "likes": 418,
-        "comments": 73
       }
     }
   },
@@ -2632,14 +2609,14 @@
     "publishedAt": "2023-10-03T20:56:39.539Z",
     "category": "Original Thinking",
     "readingMinutes": 5,
-    "likes": 435,
+    "likes": 437,
     "comments": 48,
-    "engagementScore": 579,
+    "engagementScore": 581,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!zZsT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52a102b1-353c-46ed-88a1-f28d3dee87b2_1640x1171.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!zZsT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52a102b1-353c-46ed-88a1-f28d3dee87b2_1640x1171.jpeg",
     "platforms": {
       "substack": {
-        "likes": 435,
+        "likes": 437,
         "comments": 48
       }
     }
@@ -2793,14 +2770,14 @@
     "publishedAt": "2026-04-14T16:16:42.874Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 393,
+    "likes": 395,
     "comments": 55,
-    "engagementScore": 558,
+    "engagementScore": 560,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!yGPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0f1054b-97c2-4fde-a942-696ba20dcd0f_985x1280.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!yGPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0f1054b-97c2-4fde-a942-696ba20dcd0f_985x1280.jpeg",
     "platforms": {
       "substack": {
-        "likes": 393,
+        "likes": 395,
         "comments": 55
       }
     }
@@ -2898,6 +2875,29 @@
     }
   },
   {
+    "id": "experimental-history-com-p-how-to-get-7th-graders-to-smoke",
+    "title": "How to get 7th graders to smoke",
+    "excerpt": "OR: \"fuzzy, wet, and unfalsifiable\"",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke",
+    "publishedAt": "2024-05-14T14:01:50.719Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 390,
+    "comments": 50,
+    "engagementScore": 540,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!aolP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77290f1b-b91c-4d40-82eb-a15d7f5c9b7c_1151x1634.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!aolP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77290f1b-b91c-4d40-82eb-a15d7f5c9b7c_1151x1634.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 390,
+        "comments": 50
+      }
+    }
+  },
+  {
     "id": "avabear-xyz-p-dialectical-damage",
     "title": "dialectical damage",
     "excerpt": "love, friction and mercy",
@@ -2917,29 +2917,6 @@
       "substack": {
         "likes": 459,
         "comments": 26
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-how-to-get-7th-graders-to-smoke",
-    "title": "How to get 7th graders to smoke",
-    "excerpt": "OR: \"fuzzy, wet, and unfalsifiable\"",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke",
-    "publishedAt": "2024-05-14T14:01:50.719Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 383,
-    "comments": 50,
-    "engagementScore": 533,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!aolP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77290f1b-b91c-4d40-82eb-a15d7f5c9b7c_1151x1634.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!aolP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77290f1b-b91c-4d40-82eb-a15d7f5c9b7c_1151x1634.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 383,
-        "comments": 50
       }
     }
   },
@@ -3529,14 +3506,14 @@
     "publishedAt": "2026-05-14T17:01:13.916Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 364,
+    "likes": 365,
     "comments": 28,
-    "engagementScore": 448,
+    "engagementScore": 449,
     "coverImage": "https://substack-video.s3.amazonaws.com/video_upload/post/197529086/aba77618-ad92-4b76-881c-b984b8aae21e/transcoded-1778691980.png",
     "thumbnailUrl": "https://substack-video.s3.amazonaws.com/video_upload/post/197529086/aba77618-ad92-4b76-881c-b984b8aae21e/transcoded-1778691980.png",
     "platforms": {
       "substack": {
-        "likes": 364,
+        "likes": 365,
         "comments": 28
       }
     }
@@ -3598,14 +3575,14 @@
     "publishedAt": "2026-03-05T18:40:55.048Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 241,
+    "likes": 242,
     "comments": 63,
-    "engagementScore": 430,
+    "engagementScore": 431,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!3Wof!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ae55719-6ecc-4511-a904-618d1f3ad6aa_4284x4284.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!3Wof!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ae55719-6ecc-4511-a904-618d1f3ad6aa_4284x4284.jpeg",
     "platforms": {
       "substack": {
-        "likes": 241,
+        "likes": 242,
         "comments": 63
       }
     }
@@ -3943,15 +3920,38 @@
     "publishedAt": "2024-10-10T12:15:58.898Z",
     "category": "Meaning & Living",
     "readingMinutes": 4,
-    "likes": 317,
+    "likes": 318,
     "comments": 22,
-    "engagementScore": 383,
+    "engagementScore": 384,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!UkoM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd04be77f-1602-4527-879c-e4b5c84f240e_867x1200.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!UkoM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd04be77f-1602-4527-879c-e4b5c84f240e_867x1200.jpeg",
     "platforms": {
       "substack": {
-        "likes": 317,
+        "likes": 318,
         "comments": 22
+      }
+    }
+  },
+  {
+    "id": "honest-broker-com-p-can-you-run-the-music-industry-without",
+    "title": "Can You Run the Music Industry without Musicians?",
+    "excerpt": "We will now find out",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/can-you-run-the-music-industry-without",
+    "publishedAt": "2026-06-04T18:38:20.138Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 287,
+    "comments": 32,
+    "engagementScore": 383,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/461c5a30-0983-4ab2-96b6-493c1c2631c7_1796x1036.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/461c5a30-0983-4ab2-96b6-493c1c2631c7_1796x1036.png",
+    "platforms": {
+      "substack": {
+        "likes": 287,
+        "comments": 32
       }
     }
   },
@@ -3975,29 +3975,6 @@
       "substack": {
         "likes": 298,
         "comments": 28
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-can-you-run-the-music-industry-without",
-    "title": "Can You Run the Music Industry without Musicians?",
-    "excerpt": "We will now find out",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/can-you-run-the-music-industry-without",
-    "publishedAt": "2026-06-04T18:38:20.138Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 287,
-    "comments": 31,
-    "engagementScore": 380,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/461c5a30-0983-4ab2-96b6-493c1c2631c7_1796x1036.png",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/461c5a30-0983-4ab2-96b6-493c1c2631c7_1796x1036.png",
-    "platforms": {
-      "substack": {
-        "likes": 287,
-        "comments": 31
       }
     }
   },
@@ -4163,6 +4140,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-spotify-stock-has-collapsed-40whats",
+    "title": "Spotify Stock Has Collapsed 40%—What's Going On?",
+    "excerpt": "It's even worse at Netflix. Have streaming platforms peaked?",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/spotify-stock-has-collapsed-40whats",
+    "publishedAt": "2026-06-24T18:31:28.893Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 239,
+    "comments": 33,
+    "engagementScore": 338,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!qeeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17d4a8-a685-40c1-8cc2-b48849b5a69d_1390x894.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qeeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17d4a8-a685-40c1-8cc2-b48849b5a69d_1390x894.png",
+    "platforms": {
+      "substack": {
+        "likes": 239,
+        "comments": 33
+      }
+    }
+  },
+  {
     "id": "freyaindia-co-uk-p-why-modern-women-feel-more-lost-than",
     "title": "Why Modern Women Feel More Lost Than Ever",
     "excerpt": "Update: Modern Wisdom!",
@@ -4205,29 +4205,6 @@
       "substack": {
         "likes": 250,
         "comments": 28
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-spotify-stock-has-collapsed-40whats",
-    "title": "Spotify Stock Has Collapsed 40%—What's Going On?",
-    "excerpt": "It's even worse at Netflix. Have streaming platforms peaked?",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/spotify-stock-has-collapsed-40whats",
-    "publishedAt": "2026-06-24T18:31:28.893Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 234,
-    "comments": 33,
-    "engagementScore": 333,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!qeeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17d4a8-a685-40c1-8cc2-b48849b5a69d_1390x894.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!qeeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd17d4a8-a685-40c1-8cc2-b48849b5a69d_1390x894.png",
-    "platforms": {
-      "substack": {
-        "likes": 234,
-        "comments": 33
       }
     }
   },
@@ -5083,29 +5060,6 @@
     }
   },
   {
-    "id": "freyaindia-co-uk-p-my-book-is-out-in-america",
-    "title": "My Book Is Out In America!",
-    "excerpt": "Exciting update!",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/my-book-is-out-in-america",
-    "publishedAt": "2026-05-05T14:42:32.229Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 4,
-    "likes": 119,
-    "comments": 39,
-    "engagementScore": 236,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/b2f91a8d-dbab-4b23-8890-a3377c6c7a8b_1070x692.png",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b2f91a8d-dbab-4b23-8890-a3377c6c7a8b_1070x692.png",
-    "platforms": {
-      "substack": {
-        "likes": 119,
-        "comments": 39
-      }
-    }
-  },
-  {
     "id": "honest-broker-com-p-why-read-the-classic-books",
     "title": "Why Read the Classic Books?",
     "excerpt": "An Interview with Naomi Kanakia",
@@ -5175,6 +5129,29 @@
     }
   },
   {
+    "id": "experimental-history-com-p-the-most-wonderful-thing-that-happened",
+    "title": "The most wonderful thing that happened to Tommy McHugh",
+    "excerpt": "...\"was having a stroke while doing a poo\"",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened",
+    "publishedAt": "2026-06-23T15:57:56.792Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 147,
+    "comments": 27,
+    "engagementScore": 228,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!Et3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21e7dcf-3a0d-4ba8-a287-b4121cbd60ea_1522x1063.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Et3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21e7dcf-3a0d-4ba8-a287-b4121cbd60ea_1522x1063.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 147,
+        "comments": 27
+      }
+    }
+  },
+  {
     "id": "experimental-history-com-p-you-say-potato-i-say-leprosy",
     "title": "You say potato, I say leprosy",
     "excerpt": "Links 'n' updates for Fall 2025",
@@ -5198,25 +5175,25 @@
     }
   },
   {
-    "id": "experimental-history-com-p-the-most-wonderful-thing-that-happened",
-    "title": "The most wonderful thing that happened to Tommy McHugh",
-    "excerpt": "...\"was having a stroke while doing a poo\"",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened",
-    "publishedAt": "2026-06-23T15:57:56.792Z",
-    "category": "Original Thinking",
+    "id": "freyaindia-co-uk-p-my-book-is-out-in-america",
+    "title": "My Book Is Out In America!",
+    "excerpt": "Exciting update!",
+    "author": "Freya India",
+    "sourceSlug": "freyaindia-co-uk",
+    "sourceName": "GIRLS",
+    "url": "https://www.freyaindia.co.uk/p/my-book-is-out-in-america",
+    "publishedAt": "2026-05-05T14:42:32.229Z",
+    "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 142,
-    "comments": 27,
-    "engagementScore": 223,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!Et3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21e7dcf-3a0d-4ba8-a287-b4121cbd60ea_1522x1063.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Et3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21e7dcf-3a0d-4ba8-a287-b4121cbd60ea_1522x1063.jpeg",
+    "likes": 119,
+    "comments": 35,
+    "engagementScore": 224,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/b2f91a8d-dbab-4b23-8890-a3377c6c7a8b_1070x692.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b2f91a8d-dbab-4b23-8890-a3377c6c7a8b_1070x692.png",
     "platforms": {
       "substack": {
-        "likes": 142,
-        "comments": 27
+        "likes": 119,
+        "comments": 35
       }
     }
   },
@@ -5562,6 +5539,29 @@
       "substack": {
         "likes": 144,
         "comments": 18
+      }
+    }
+  },
+  {
+    "id": "honest-broker-com-p-i-get-such-amazing-emails-from-readers",
+    "title": "I Get Such Amazing Emails from Readers",
+    "excerpt": "Here are some of them.",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/i-get-such-amazing-emails-from-readers",
+    "publishedAt": "2026-06-28T18:17:26.287Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 169,
+    "comments": 8,
+    "engagementScore": 193,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/89e6ac05-6c95-4b17-b270-2fa515afa289_1470x1100.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/89e6ac05-6c95-4b17-b270-2fa515afa289_1470x1100.png",
+    "platforms": {
+      "substack": {
+        "likes": 169,
+        "comments": 8
       }
     }
   },
@@ -6118,6 +6118,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-the-great-books-are-for-everyone",
+    "title": "The Great Books Are for Everyone",
+    "excerpt": "How Zena Hitz brings the humanities to thousands of people via the Catherine Project",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-great-books-are-for-everyone",
+    "publishedAt": "2026-06-19T17:00:42.960Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 121,
+    "comments": 14,
+    "engagementScore": 163,
+    "coverImage": "https://substack-video.s3.amazonaws.com/video_upload/post/202342904/2da62880-5ed0-431d-9598-554f061be802/transcoded-1781645103.png",
+    "thumbnailUrl": "https://substack-video.s3.amazonaws.com/video_upload/post/202342904/2da62880-5ed0-431d-9598-554f061be802/transcoded-1781645103.png",
+    "platforms": {
+      "substack": {
+        "likes": 121,
+        "comments": 14
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-hacker-writing",
     "title": "Thoughts about making a career as a writer",
     "excerpt": "How you can finance your creative work and how you can find an audience and peers and mentors who help you develop.",
@@ -6183,29 +6206,6 @@
       "substack": {
         "likes": 151,
         "comments": 3
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-the-great-books-are-for-everyone",
-    "title": "The Great Books Are for Everyone",
-    "excerpt": "How Zena Hitz brings the humanities to thousands of people via the Catherine Project",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-great-books-are-for-everyone",
-    "publishedAt": "2026-06-19T17:00:42.960Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 118,
-    "comments": 14,
-    "engagementScore": 160,
-    "coverImage": "https://substack-video.s3.amazonaws.com/video_upload/post/202342904/2da62880-5ed0-431d-9598-554f061be802/transcoded-1781645103.png",
-    "thumbnailUrl": "https://substack-video.s3.amazonaws.com/video_upload/post/202342904/2da62880-5ed0-431d-9598-554f061be802/transcoded-1781645103.png",
-    "platforms": {
-      "substack": {
-        "likes": 118,
-        "comments": 14
       }
     }
   },
@@ -6473,14 +6473,14 @@
     "publishedAt": "2026-03-04T03:09:03.697Z",
     "category": "Relationships",
     "readingMinutes": 4,
-    "likes": 129,
+    "likes": 130,
     "comments": 4,
-    "engagementScore": 141,
+    "engagementScore": 142,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!euww!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89883c62-92e7-4674-b965-20771bf19197_1400x1138.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!euww!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89883c62-92e7-4674-b965-20771bf19197_1400x1138.webp",
     "platforms": {
       "substack": {
-        "likes": 129,
+        "likes": 130,
         "comments": 4
       }
     }
@@ -6657,14 +6657,14 @@
     "publishedAt": "2026-06-25T07:10:36.346Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 94,
+    "likes": 95,
     "comments": 10,
-    "engagementScore": 124,
+    "engagementScore": 125,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fKLa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10ad8740-7d28-4d05-8694-e1224c3bb886_1183x1600.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fKLa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10ad8740-7d28-4d05-8694-e1224c3bb886_1183x1600.jpeg",
     "platforms": {
       "substack": {
-        "likes": 94,
+        "likes": 95,
         "comments": 10
       }
     }
@@ -7209,14 +7209,14 @@
     "publishedAt": "2026-06-02T10:40:30.134Z",
     "category": "Meaning & Living",
     "readingMinutes": 4,
-    "likes": 73,
+    "likes": 74,
     "comments": 8,
-    "engagementScore": 97,
+    "engagementScore": 98,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Zt7U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33fe2ef0-75a3-4cce-91e9-8f0adddd0c75_1000x786.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Zt7U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33fe2ef0-75a3-4cce-91e9-8f0adddd0c75_1000x786.jpeg",
     "platforms": {
       "substack": {
-        "likes": 73,
+        "likes": 74,
         "comments": 8
       }
     }
@@ -7590,6 +7590,29 @@
     }
   },
   {
+    "id": "freyaindia-co-uk-p-how-iphones-became-birth-control",
+    "title": "How iPhones Became Birth Control",
+    "excerpt": "We are more like products than people",
+    "author": "Freya India",
+    "sourceSlug": "freyaindia-co-uk",
+    "sourceName": "GIRLS",
+    "url": "https://www.freyaindia.co.uk/p/how-iphones-became-birth-control",
+    "publishedAt": "2026-06-22T13:29:57.587Z",
+    "category": "Attention & Tech",
+    "readingMinutes": 4,
+    "likes": 76,
+    "comments": 2,
+    "engagementScore": 82,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/35d7de8c-a89f-40e2-8124-275f9fd3c39a_1076x658.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/35d7de8c-a89f-40e2-8124-275f9fd3c39a_1076x658.png",
+    "platforms": {
+      "substack": {
+        "likes": 76,
+        "comments": 2
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-garlic-and-gravel",
     "title": "Garlic and gravel",
     "excerpt": "fragments",
@@ -7655,29 +7678,6 @@
       "substack": {
         "likes": 77,
         "comments": 1
-      }
-    }
-  },
-  {
-    "id": "freyaindia-co-uk-p-how-iphones-became-birth-control",
-    "title": "How iPhones Became Birth Control",
-    "excerpt": "We are more like products than people",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/how-iphones-became-birth-control",
-    "publishedAt": "2026-06-22T13:29:57.587Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 4,
-    "likes": 74,
-    "comments": 2,
-    "engagementScore": 80,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/35d7de8c-a89f-40e2-8124-275f9fd3c39a_1076x658.png",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/35d7de8c-a89f-40e2-8124-275f9fd3c39a_1076x658.png",
-    "platforms": {
-      "substack": {
-        "likes": 74,
-        "comments": 2
       }
     }
   },
@@ -8382,14 +8382,14 @@
     "publishedAt": "2026-06-24T23:55:15.327Z",
     "category": "Relationships",
     "readingMinutes": 5,
-    "likes": 34,
+    "likes": 35,
     "comments": 5,
-    "engagementScore": 49,
+    "engagementScore": 50,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!adfa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd31dc7c-856b-4dcb-a19d-779d635390df_571x725.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!adfa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd31dc7c-856b-4dcb-a19d-779d635390df_571x725.jpeg",
     "platforms": {
       "substack": {
-        "likes": 34,
+        "likes": 35,
         "comments": 5
       }
     }
