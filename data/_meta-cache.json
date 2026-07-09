@@ -10713,5 +10713,35 @@
     "author": "Henrik Karlsson",
     "canonical": "https://www.henrikkarlsson.xyz/p/how-can-we-rejuvenate-the-social",
     "fetchedAt": "2026-07-08T08:48:18.361Z"
+  },
+  "https://avabear.xyz/p/easy": {
+    "title": "easy",
+    "excerpt": "Hilma af Klint, Eros, Group II, No.",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!xDZ-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee6090bd-bbbe-4e4a-a512-001adaa1068e_1000x744.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!xDZ-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee6090bd-bbbe-4e4a-a512-001adaa1068e_1000x744.jpeg",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/easy",
+    "fetchedAt": "2026-07-09T10:04:42.837Z"
+  },
+  "https://honest-broker.com/p/12-youtube-videos-im-enjoying-right-4a1": {
+    "title": "12 YouTube Videos I'm Enjoying Right Now",
+    "excerpt": "Today I cover everything from fashion tips to career advice—and also lots of good music",
+    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/DW0XUsyBBuY",
+    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/DW0XUsyBBuY",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/12-youtube-videos-im-enjoying-right-4a1",
+    "fetchedAt": "2026-07-09T10:04:42.850Z"
+  },
+  "https://experimental-history.com/p/the-decline-of-deviance-2": {
+    "title": "The Decline of Deviance 2",
+    "excerpt": "2 Decline, 2 Deviance",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!GnMf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc744ca7-e01f-4124-9307-02bd18113be1_1620x1127.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!GnMf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc744ca7-e01f-4124-9307-02bd18113be1_1620x1127.jpeg",
+    "sourceName": "",
+    "author": "Adam Mastroianni",
+    "canonical": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
+    "fetchedAt": "2026-07-09T10:04:43.009Z"
   }
 }
