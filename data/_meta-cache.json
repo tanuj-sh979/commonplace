@@ -10743,5 +10743,45 @@
     "author": "Adam Mastroianni",
     "canonical": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
     "fetchedAt": "2026-07-09T10:04:43.009Z"
+  },
+  "https://astralcodexten.com/p/the-ai-superforecasters-are-here": {
+    "title": "The AI Superforecasters Are Here",
+    "excerpt": "...",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!unI_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08546702-36cb-41d6-8047-6927a0e7c737_1024x1024.webp",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!unI_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08546702-36cb-41d6-8047-6927a0e7c737_1024x1024.webp",
+    "sourceName": "",
+    "author": "Scott Alexander",
+    "canonical": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+    "fetchedAt": "2026-07-10T09:55:11.425Z"
+  },
+  "https://astralcodexten.com/p/chip-off-the-old-block": {
+    "title": "Chip Off The Old Block",
+    "excerpt": "...",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!Zomw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23faa91b-8d6c-478f-85cc-2ecfac0aa5f5_713x480.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Zomw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23faa91b-8d6c-478f-85cc-2ecfac0aa5f5_713x480.png",
+    "sourceName": "",
+    "author": "Scott Alexander",
+    "canonical": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+    "fetchedAt": "2026-07-10T09:55:11.598Z"
+  },
+  "https://experimental-history.com/p/reading-the-news-is-the-new-smoking": {
+    "title": "Reading the news is the new smoking",
+    "excerpt": "I quit. I feel great. You can too.",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!XC_9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ebfc121-809b-41a4-8a7b-fe3ef0c642cf_1167x1550.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!XC_9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ebfc121-809b-41a4-8a7b-fe3ef0c642cf_1167x1550.jpeg",
+    "sourceName": "",
+    "author": "Adam Mastroianni",
+    "canonical": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+    "fetchedAt": "2026-07-10T09:55:11.613Z"
+  },
+  "https://quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701": {
+    "title": "For the First Time, a Cell Built From Scratch Grows and Divides | Quanta Magazine",
+    "excerpt": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.",
+    "coverImage": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-social.jpg",
+    "thumbnailUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-social.jpg",
+    "sourceName": "Quanta Magazine",
+    "author": "",
+    "canonical": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "fetchedAt": "2026-07-10T09:55:11.895Z"
   }
 }
