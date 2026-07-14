@@ -11,6 +11,17 @@
     "count": 113
   },
   {
+    "slug": "henrikkarlsson-xyz",
+    "name": "Escaping Flatland",
+    "author": "Henrik Karlsson",
+    "platform": "substack",
+    "baseUrl": "https://www.henrikkarlsson.xyz",
+    "subscribeUrl": "https://www.henrikkarlsson.xyz/subscribe",
+    "category": "Meaning & Living",
+    "host": "henrikkarlsson.xyz",
+    "count": 89
+  },
+  {
     "slug": "experimental-history-com",
     "name": "Experimental History",
     "author": "Adam Mastroianni",
@@ -20,17 +31,6 @@
     "category": "Original Thinking",
     "host": "experimental-history.com",
     "count": 89
-  },
-  {
-    "slug": "henrikkarlsson-xyz",
-    "name": "Escaping Flatland",
-    "author": "Henrik Karlsson",
-    "platform": "substack",
-    "baseUrl": "https://www.henrikkarlsson.xyz",
-    "subscribeUrl": "https://www.henrikkarlsson.xyz/subscribe",
-    "category": "Meaning & Living",
-    "host": "henrikkarlsson.xyz",
-    "count": 88
   },
   {
     "slug": "avabear-xyz",
