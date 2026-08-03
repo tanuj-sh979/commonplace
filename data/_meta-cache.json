@@ -10970,5 +10970,25 @@
     "author": "Ted Gioia",
     "canonical": "https://www.honest-broker.com/p/mark-zuckerbergs-empire-is-now-crumbling",
     "fetchedAt": "2026-07-31T09:19:35.132Z"
+  },
+  "https://avabear.xyz/p/safe-and-alive": {
+    "title": "safe and alive",
+    "excerpt": "both at once!",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!cwG2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb8252e-e2b2-4f0e-99ac-41d1ca13ca24_2040x1446.avif",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!cwG2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb8252e-e2b2-4f0e-99ac-41d1ca13ca24_2040x1446.avif",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/safe-and-alive",
+    "fetchedAt": "2026-08-03T10:08:18.891Z"
+  },
+  "https://honest-broker.com/p/how-i-became-the-honest-broker-c04": {
+    "title": "How I Became the Honest Broker",
+    "excerpt": "I share my origin story",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!7qNt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fef4218-eb84-464f-9da5-bf7be8b3c448_600x600.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!7qNt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fef4218-eb84-464f-9da5-bf7be8b3c448_600x600.png",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/how-i-became-the-honest-broker-c04",
+    "fetchedAt": "2026-08-03T10:08:18.903Z"
   }
 }
