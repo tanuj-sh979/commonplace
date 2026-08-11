@@ -11030,5 +11030,25 @@
     "author": "",
     "canonical": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
     "fetchedAt": "2026-08-08T07:18:22.051Z"
+  },
+  "https://henrikkarlsson.xyz/p/interest-ideas-2": {
+    "title": "On having more interesting ideas, pt. 2",
+    "excerpt": "Cutlery designed by Salvador Dalí",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!551g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d5657f3-4433-4c36-a41a-7e3dab3b7a58_1816x1566.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!551g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d5657f3-4433-4c36-a41a-7e3dab3b7a58_1816x1566.png",
+    "sourceName": "",
+    "author": "Henrik Karlsson",
+    "canonical": "https://www.henrikkarlsson.xyz/p/interest-ideas-2",
+    "fetchedAt": "2026-08-11T07:40:39.548Z"
+  },
+  "https://honest-broker.com/p/great-new-music-im-recommending-right": {
+    "title": "Great New Music I'm Recommending Right Now",
+    "excerpt": "Ten recent albums of outstanding merit",
+    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/OC0U-wKxHk8",
+    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/OC0U-wKxHk8",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/great-new-music-im-recommending-right",
+    "fetchedAt": "2026-08-11T07:40:39.611Z"
   }
 }
