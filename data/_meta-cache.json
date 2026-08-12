@@ -11050,5 +11050,25 @@
     "author": "Ted Gioia",
     "canonical": "https://www.honest-broker.com/p/great-new-music-im-recommending-right",
     "fetchedAt": "2026-08-11T07:40:39.611Z"
+  },
+  "https://avabear.xyz/p/no-two-things-the-same": {
+    "title": "no two things the same",
+    "excerpt": "Tony Feher, Come Out and Play Stephen Jay (detail), 2013",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!VkHb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8545d2-2054-470b-8e50-356a389007fa_600x395.webp",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!VkHb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8545d2-2054-470b-8e50-356a389007fa_600x395.webp",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/no-two-things-the-same",
+    "fetchedAt": "2026-08-12T07:55:38.976Z"
+  },
+  "https://theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203": {
+    "title": "Everything You Do Is Being Recorded",
+    "excerpt": "Is there any way of fighting back?",
+    "coverImage": "https://cdn.theatlantic.com/thumbor/a_6tjTSlGfhmNqMHD5cosV_-kVQ=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_15_Recording_arms_race_1/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/a_6tjTSlGfhmNqMHD5cosV_-kVQ=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_15_Recording_arms_race_1/original.jpg",
+    "sourceName": "The Atlantic",
+    "author": "Ross Andersen",
+    "canonical": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "fetchedAt": "2026-08-12T07:55:39.069Z"
   }
 }
