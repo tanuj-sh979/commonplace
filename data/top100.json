@@ -10,9 +10,9 @@
     "publishedAt": "2024-01-20T14:50:13Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 17010,
+    "likes": 17016,
     "comments": 507,
-    "engagementScore": 18492,
+    "engagementScore": 18498,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
@@ -22,7 +22,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=39068065"
       },
       "substack": {
-        "likes": 16952,
+        "likes": 16958,
         "comments": 468
       }
     }
@@ -38,9 +38,9 @@
     "publishedAt": "2025-10-28T16:01:00Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 13418,
+    "likes": 13441,
     "comments": 956,
-    "engagementScore": 16041,
+    "engagementScore": 16064,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
@@ -50,7 +50,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=45734620"
       },
       "substack": {
-        "likes": 13105,
+        "likes": 13128,
         "comments": 711
       }
     }
@@ -66,9 +66,9 @@
     "publishedAt": "2025-07-06T22:16:37Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 11524,
+    "likes": 11527,
     "comments": 1122,
-    "engagementScore": 14392,
+    "engagementScore": 14395,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "platforms": {
@@ -78,8 +78,36 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44484595"
       },
       "substack": {
-        "likes": 10973,
+        "likes": 10976,
         "comments": 624
+      }
+    }
+  },
+  {
+    "id": "experimental-history-com-p-face-it-youre-a-crazy-person",
+    "title": "Face it: you're a crazy person",
+    "excerpt": "OR: why your brain needs a boxcutter",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
+    "publishedAt": "2025-07-28T13:23:35Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 9647,
+    "comments": 756,
+    "engagementScore": 11544,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 760,
+        "comments": 371,
+        "itemUrl": "https://news.ycombinator.com/item?id=44710651"
+      },
+      "substack": {
+        "likes": 8887,
+        "comments": 385
       }
     }
   },
@@ -103,34 +131,6 @@
       "substack": {
         "likes": 11021,
         "comments": 148
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-face-it-youre-a-crazy-person",
-    "title": "Face it: you're a crazy person",
-    "excerpt": "OR: why your brain needs a boxcutter",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
-    "publishedAt": "2025-07-28T13:23:35Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 9434,
-    "comments": 751,
-    "engagementScore": 11316,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 760,
-        "comments": 371,
-        "itemUrl": "https://news.ycombinator.com/item?id=44710651"
-      },
-      "substack": {
-        "likes": 8674,
-        "comments": 380
       }
     }
   },
@@ -217,14 +217,14 @@
     "publishedAt": "2026-01-06T02:15:14.799Z",
     "category": "Relationships",
     "readingMinutes": 4,
-    "likes": 5117,
+    "likes": 5121,
     "comments": 77,
-    "engagementScore": 5348,
+    "engagementScore": 5352,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "platforms": {
       "substack": {
-        "likes": 5117,
+        "likes": 5121,
         "comments": 77
       }
     }
@@ -314,14 +314,14 @@
     "publishedAt": "2024-10-08T13:01:53.030Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 3218,
+    "likes": 3219,
     "comments": 460,
-    "engagementScore": 4598,
+    "engagementScore": 4599,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-afP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe75613ed-17ad-4c07-a42a-e1948e750fee_1268x974.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-afP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe75613ed-17ad-4c07-a42a-e1948e750fee_1268x974.png",
     "platforms": {
       "substack": {
-        "likes": 3218,
+        "likes": 3219,
         "comments": 460
       }
     }
@@ -905,14 +905,14 @@
     "publishedAt": "2024-01-02T17:03:39.863Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 2353,
+    "likes": 2354,
     "comments": 225,
-    "engagementScore": 3028,
+    "engagementScore": 3029,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-E-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F886db661-f143-4212-bf07-3af1d51c8f1e_1342x816.png",
     "platforms": {
       "substack": {
-        "likes": 2353,
+        "likes": 2354,
         "comments": 225
       }
     }
@@ -940,6 +940,34 @@
     }
   },
   {
+    "id": "experimental-history-com-p-i-like-em-thick",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "excerpt": "OR: an apology to my English teachers",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "publishedAt": "2026-08-18T15:50:52Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 1949,
+    "comments": 452,
+    "engagementScore": 2964,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 867,
+        "comments": 341,
+        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
+      },
+      "substack": {
+        "likes": 1082,
+        "comments": 111
+      }
+    }
+  },
+  {
     "id": "newyorker-com-magazine-2023-11-20-a-coder-considers-the-waning-days-of-the-craft",
     "title": "A coder considers the waning days of the craft",
     "excerpt": "Coding has always felt to me like an endlessly deep and rich domain. Now I find myself wanting to write a eulogy for it.",
@@ -960,34 +988,6 @@
         "points": 778,
         "comments": 1086,
         "itemUrl": "https://news.ycombinator.com/item?id=38257094"
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-i-like-em-thick",
-    "title": "I like 'em thick: an apology to my English teachers",
-    "excerpt": "OR: an apology to my English teachers",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/i-like-em-thick",
-    "publishedAt": "2026-08-18T15:50:52Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 1918,
-    "comments": 451,
-    "engagementScore": 2930,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 866,
-        "comments": 341,
-        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
-      },
-      "substack": {
-        "likes": 1052,
-        "comments": 110
       }
     }
   },
@@ -1026,14 +1026,14 @@
     "publishedAt": "2025-04-29T14:45:13.830Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 2287,
+    "likes": 2288,
     "comments": 175,
-    "engagementScore": 2812,
+    "engagementScore": 2813,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
     "platforms": {
       "substack": {
-        "likes": 2287,
+        "likes": 2288,
         "comments": 175
       }
     }
@@ -1410,6 +1410,34 @@
     }
   },
   {
+    "id": "experimental-history-com-p-text-is-king",
+    "title": "Text Is King",
+    "excerpt": "read on, queen",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/text-is-king",
+    "publishedAt": "2026-01-20T21:57:08Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 1860,
+    "comments": 229,
+    "engagementScore": 2459,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 184,
+        "comments": 88,
+        "itemUrl": "https://news.ycombinator.com/item?id=46698264"
+      },
+      "substack": {
+        "likes": 1676,
+        "comments": 141
+      }
+    }
+  },
+  {
     "id": "nautil-us-issue-52-the-hive-modern-media-is-a-dos-attack-on-your-free-will",
     "title": "Modern Media Is a DoS Attack on Free Will",
     "excerpt": "",
@@ -1497,34 +1525,6 @@
       "substack": {
         "likes": 214,
         "comments": 742
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-text-is-king",
-    "title": "Text Is King",
-    "excerpt": "read on, queen",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/text-is-king",
-    "publishedAt": "2026-01-20T21:57:08Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 1841,
-    "comments": 228,
-    "engagementScore": 2437,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!8El6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1b55c6-f47f-46e6-a70e-853ed5fd4c8a_1215x1654.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 184,
-        "comments": 88,
-        "itemUrl": "https://news.ycombinator.com/item?id=46698264"
-      },
-      "substack": {
-        "likes": 1657,
-        "comments": 140
       }
     }
   },
@@ -1937,6 +1937,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-the-real-story-behind-zen-and-the",
+    "title": "The Real Story Behind 'Zen and the Art of Motorcycle Maintenance'",
+    "excerpt": "How this book was written is as strange as the novel itself",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-real-story-behind-zen-and-the",
+    "publishedAt": "2026-03-03T14:43:09.268Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 1381,
+    "comments": 246,
+    "engagementScore": 2119,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 1381,
+        "comments": 246
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-genius-html",
     "title": "The Bus Ticket Theory of Genius",
     "excerpt": "",
@@ -1955,29 +1978,6 @@
         "points": 1164,
         "comments": 477,
         "itemUrl": "https://news.ycombinator.com/item?id=21613357"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-the-real-story-behind-zen-and-the",
-    "title": "The Real Story Behind 'Zen and the Art of Motorcycle Maintenance'",
-    "excerpt": "How this book was written is as strange as the novel itself",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-real-story-behind-zen-and-the",
-    "publishedAt": "2026-03-03T14:43:09.268Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 1380,
-    "comments": 246,
-    "engagementScore": 2118,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 1380,
-        "comments": 246
       }
     }
   },
