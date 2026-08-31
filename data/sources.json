@@ -220,6 +220,17 @@
     "count": 44
   },
   {
+    "slug": "sive-rs",
+    "name": "Derek Sivers",
+    "author": "Derek Sivers",
+    "platform": "rss",
+    "baseUrl": "https://sive.rs",
+    "subscribeUrl": "https://sive.rs",
+    "category": "Agency",
+    "host": "sive.rs",
+    "count": 43
+  },
+  {
     "slug": "kk-org",
     "name": "Kevin Kelly / The Technium",
     "author": "Kevin Kelly / The Technium",
@@ -229,17 +240,6 @@
     "category": "Original Thinking",
     "host": "kk.org",
     "count": 43
-  },
-  {
-    "slug": "sive-rs",
-    "name": "Derek Sivers",
-    "author": "Derek Sivers",
-    "platform": "rss",
-    "baseUrl": "https://sive.rs",
-    "subscribeUrl": "https://sive.rs",
-    "category": "Agency",
-    "host": "sive.rs",
-    "count": 42
   },
   {
     "slug": "fs-blog",
