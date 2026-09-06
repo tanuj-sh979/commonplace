@@ -10,9 +10,9 @@
     "publishedAt": "2024-01-20T14:50:13Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 17056,
-    "comments": 507,
-    "engagementScore": 18538,
+    "likes": 17058,
+    "comments": 508,
+    "engagementScore": 18543,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
@@ -22,8 +22,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=39068065"
       },
       "substack": {
-        "likes": 16998,
-        "comments": 468
+        "likes": 17000,
+        "comments": 469
       }
     }
   },
@@ -38,9 +38,9 @@
     "publishedAt": "2025-10-28T16:01:00Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 13541,
+    "likes": 13546,
     "comments": 957,
-    "engagementScore": 16167,
+    "engagementScore": 16172,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
@@ -50,7 +50,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=45734620"
       },
       "substack": {
-        "likes": 13228,
+        "likes": 13233,
         "comments": 712
       }
     }
@@ -66,9 +66,9 @@
     "publishedAt": "2025-07-06T22:16:37Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 11554,
+    "likes": 11558,
     "comments": 1120,
-    "engagementScore": 14416,
+    "engagementScore": 14420,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "platforms": {
@@ -78,7 +78,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44484595"
       },
       "substack": {
-        "likes": 11003,
+        "likes": 11007,
         "comments": 622
       }
     }
@@ -94,9 +94,9 @@
     "publishedAt": "2025-07-28T13:23:35Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 10193,
-    "comments": 767,
-    "engagementScore": 12123,
+    "likes": 10215,
+    "comments": 770,
+    "engagementScore": 12154,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "platforms": {
@@ -106,8 +106,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44710651"
       },
       "substack": {
-        "likes": 9433,
-        "comments": 396
+        "likes": 9455,
+        "comments": 399
       }
     }
   },
@@ -844,6 +844,34 @@
     }
   },
   {
+    "id": "experimental-history-com-p-i-like-em-thick",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "excerpt": "OR: an apology to my English teachers",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "publishedAt": "2026-08-18T15:50:52Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 2057,
+    "comments": 455,
+    "engagementScore": 3082,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 873,
+        "comments": 340,
+        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
+      },
+      "substack": {
+        "likes": 1184,
+        "comments": 115
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-attention",
     "title": "Almost anything you give sustained attention to will begin to loop on itself and bloom",
     "excerpt": "When people talk about the value of paying attention and slowing down, they often make it sound prudish and monk-like. But we shouldn’t forget how interesting and overpoweringly pleasurable sustained attention can be.",
@@ -868,34 +896,6 @@
       "substack": {
         "likes": 1704,
         "comments": 53
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-i-like-em-thick",
-    "title": "I like 'em thick: an apology to my English teachers",
-    "excerpt": "OR: an apology to my English teachers",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/i-like-em-thick",
-    "publishedAt": "2026-08-18T15:50:52Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 2053,
-    "comments": 455,
-    "engagementScore": 3078,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 873,
-        "comments": 340,
-        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
-      },
-      "substack": {
-        "likes": 1180,
-        "comments": 115
       }
     }
   },
@@ -1806,14 +1806,14 @@
     "publishedAt": "2026-03-03T14:43:09.268Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 1452,
+    "likes": 1458,
     "comments": 253,
-    "engagementScore": 2211,
+    "engagementScore": 2217,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1452,
+        "likes": 1458,
         "comments": 253
       }
     }

@@ -10,9 +10,9 @@
     "publishedAt": "2024-01-20T14:50:13Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 17056,
-    "comments": 507,
-    "engagementScore": 18538,
+    "likes": 17058,
+    "comments": 508,
+    "engagementScore": 18543,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
@@ -22,8 +22,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=39068065"
       },
       "substack": {
-        "likes": 16998,
-        "comments": 468
+        "likes": 17000,
+        "comments": 469
       }
     }
   },
@@ -38,9 +38,9 @@
     "publishedAt": "2025-10-28T16:01:00Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 13541,
+    "likes": 13546,
     "comments": 957,
-    "engagementScore": 16167,
+    "engagementScore": 16172,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
@@ -50,7 +50,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=45734620"
       },
       "substack": {
-        "likes": 13228,
+        "likes": 13233,
         "comments": 712
       }
     }
@@ -66,9 +66,9 @@
     "publishedAt": "2025-07-06T22:16:37Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 11554,
+    "likes": 11558,
     "comments": 1120,
-    "engagementScore": 14416,
+    "engagementScore": 14420,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
     "platforms": {
@@ -78,7 +78,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44484595"
       },
       "substack": {
-        "likes": 11003,
+        "likes": 11007,
         "comments": 622
       }
     }
@@ -94,9 +94,9 @@
     "publishedAt": "2025-07-28T13:23:35Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 10193,
-    "comments": 767,
-    "engagementScore": 12123,
+    "likes": 10215,
+    "comments": 770,
+    "engagementScore": 12154,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "platforms": {
@@ -106,8 +106,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44710651"
       },
       "substack": {
-        "likes": 9433,
-        "comments": 396
+        "likes": 9455,
+        "comments": 399
       }
     }
   },
@@ -844,6 +844,34 @@
     }
   },
   {
+    "id": "experimental-history-com-p-i-like-em-thick",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "excerpt": "OR: an apology to my English teachers",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "publishedAt": "2026-08-18T15:50:52Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 2057,
+    "comments": 455,
+    "engagementScore": 3082,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 873,
+        "comments": 340,
+        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
+      },
+      "substack": {
+        "likes": 1184,
+        "comments": 115
+      }
+    }
+  },
+  {
     "id": "henrikkarlsson-xyz-p-attention",
     "title": "Almost anything you give sustained attention to will begin to loop on itself and bloom",
     "excerpt": "When people talk about the value of paying attention and slowing down, they often make it sound prudish and monk-like. But we shouldn’t forget how interesting and overpoweringly pleasurable sustained attention can be.",
@@ -868,34 +896,6 @@
       "substack": {
         "likes": 1704,
         "comments": 53
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-i-like-em-thick",
-    "title": "I like 'em thick: an apology to my English teachers",
-    "excerpt": "OR: an apology to my English teachers",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/i-like-em-thick",
-    "publishedAt": "2026-08-18T15:50:52Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 2053,
-    "comments": 455,
-    "engagementScore": 3078,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 873,
-        "comments": 340,
-        "itemUrl": "https://news.ycombinator.com/item?id=49347543"
-      },
-      "substack": {
-        "likes": 1180,
-        "comments": 115
       }
     }
   },
@@ -1806,14 +1806,14 @@
     "publishedAt": "2026-03-03T14:43:09.268Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 1452,
+    "likes": 1458,
     "comments": 253,
-    "engagementScore": 2211,
+    "engagementScore": 2217,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!f9Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638bac5d-48e5-4ea1-a1f8-0ba9bfefc89c_1920x1747.jpeg",
     "platforms": {
       "substack": {
-        "likes": 1452,
+        "likes": 1458,
         "comments": 253
       }
     }
@@ -2419,6 +2419,34 @@
     }
   },
   {
+    "id": "experimental-history-com-p-incentives-are-for-losers",
+    "title": "Incentives are for losers",
+    "excerpt": "OR: you must look at this fish and go insane",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+    "publishedAt": "2026-08-09T01:49:48Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 1282,
+    "comments": 233,
+    "engagementScore": 1857,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
+    "platforms": {
+      "hn": {
+        "points": 173,
+        "comments": 124,
+        "itemUrl": "https://news.ycombinator.com/item?id=49227652"
+      },
+      "substack": {
+        "likes": 1109,
+        "comments": 109
+      }
+    }
+  },
+  {
     "id": "theatlantic-com-technology-archive-2024-10-sam-altman-mythmaking-680152",
     "title": "It's Time to Stop Taking Sam Altman at His Word",
     "excerpt": "Understand AI for what it is, not what it might become.",
@@ -2439,34 +2467,6 @@
         "points": 703,
         "comments": 576,
         "itemUrl": "https://news.ycombinator.com/item?id=41749371"
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-incentives-are-for-losers",
-    "title": "Incentives are for losers",
-    "excerpt": "OR: you must look at this fish and go insane",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
-    "publishedAt": "2026-08-09T01:49:48Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 1279,
-    "comments": 232,
-    "engagementScore": 1851,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
-    "platforms": {
-      "hn": {
-        "points": 173,
-        "comments": 124,
-        "itemUrl": "https://news.ycombinator.com/item?id=49227652"
-      },
-      "substack": {
-        "likes": 1106,
-        "comments": 108
       }
     }
   },
@@ -2758,9 +2758,9 @@
     "publishedAt": "2024-09-01T11:34:22Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1249,
+    "likes": 1252,
     "comments": 174,
-    "engagementScore": 1702,
+    "engagementScore": 1705,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!GnK2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F486233a6-07cf-4c6d-b540-cbfe1b3b41ee_1472x1188.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!GnK2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F486233a6-07cf-4c6d-b540-cbfe1b3b41ee_1472x1188.jpeg",
     "platforms": {
@@ -2770,7 +2770,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=41416046"
       },
       "substack": {
-        "likes": 1157,
+        "likes": 1160,
         "comments": 105
       }
     }
@@ -3362,6 +3362,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-10-brutally-honest-predictions-on",
+    "title": "10 Brutally Honest Predictions on the Future of AI",
+    "excerpt": "Forget the hype—here’s what will really happen",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
+    "publishedAt": "2026-08-31T19:05:18.915Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 1272,
+    "comments": 68,
+    "engagementScore": 1476,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!actk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28eb5bc5-a0f2-443d-8340-fa2a7cf8519e_3840x2564.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!actk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28eb5bc5-a0f2-443d-8340-fa2a7cf8519e_3840x2564.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 1272,
+        "comments": 68
+      }
+    }
+  },
+  {
     "id": "aeon-co-essays-why-stoicism-is-one-of-the-best-mind-hacks-ever-devised",
     "title": "Stoicism: Indifference is a power",
     "excerpt": "",
@@ -3622,29 +3645,6 @@
       "substack": {
         "likes": 492,
         "comments": 30
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-10-brutally-honest-predictions-on",
-    "title": "10 Brutally Honest Predictions on the Future of AI",
-    "excerpt": "Forget the hype—here’s what will really happen",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
-    "publishedAt": "2026-08-31T19:05:18.915Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 1241,
-    "comments": 68,
-    "engagementScore": 1445,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!actk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28eb5bc5-a0f2-443d-8340-fa2a7cf8519e_3840x2564.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!actk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28eb5bc5-a0f2-443d-8340-fa2a7cf8519e_3840x2564.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 1241,
-        "comments": 68
       }
     }
   },
@@ -5199,6 +5199,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-how-our-leisure-time-got-monetized",
+    "title": "How Our Leisure Time Got Monetized",
+    "excerpt": "It wasn’t always like this",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/how-our-leisure-time-got-monetized",
+    "publishedAt": "2026-08-25T17:30:27.829Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 1034,
+    "comments": 39,
+    "engagementScore": 1151,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!grP9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0964c6-0670-49f8-a1c4-17459f145c4b_1600x1114.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!grP9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0964c6-0670-49f8-a1c4-17459f145c4b_1600x1114.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 1034,
+        "comments": 39
+      }
+    }
+  },
+  {
     "id": "paulgraham-com-property-html",
     "title": "Defining Property",
     "excerpt": "",
@@ -5285,29 +5308,6 @@
         "points": 295,
         "comments": 424,
         "itemUrl": "https://news.ycombinator.com/item?id=36569365"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-how-our-leisure-time-got-monetized",
-    "title": "How Our Leisure Time Got Monetized",
-    "excerpt": "It wasn’t always like this",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/how-our-leisure-time-got-monetized",
-    "publishedAt": "2026-08-25T17:30:27.829Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 1026,
-    "comments": 39,
-    "engagementScore": 1143,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!grP9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0964c6-0670-49f8-a1c4-17459f145c4b_1600x1114.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!grP9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0964c6-0670-49f8-a1c4-17459f145c4b_1600x1114.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 1026,
-        "comments": 39
       }
     }
   },
@@ -5807,6 +5807,29 @@
     }
   },
   {
+    "id": "freyaindia-co-uk-p-no-not-everyone-needs-therapy",
+    "title": "No, Not Everyone Needs Therapy",
+    "excerpt": "“Big Therapy” tells us the solution to our problems is to pay a stranger",
+    "author": "Freya India",
+    "sourceSlug": "freyaindia-co-uk",
+    "sourceName": "GIRLS",
+    "url": "https://www.freyaindia.co.uk/p/no-not-everyone-needs-therapy",
+    "publishedAt": "2023-11-07T17:10:14.005Z",
+    "category": "Attention & Tech",
+    "readingMinutes": 5,
+    "likes": 817,
+    "comments": 93,
+    "engagementScore": 1096,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!dCsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a68967-b16f-4617-8cbc-5268bb35632d_1280x720.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!dCsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a68967-b16f-4617-8cbc-5268bb35632d_1280x720.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 817,
+        "comments": 93
+      }
+    }
+  },
+  {
     "id": "nautil-us-blog-is-facebook-really-scarier-than-google",
     "title": "Is Facebook Really Scarier Than Google?",
     "excerpt": "",
@@ -5825,29 +5848,6 @@
         "points": 423,
         "comments": 336,
         "itemUrl": "https://news.ycombinator.com/item?id=16668375"
-      }
-    }
-  },
-  {
-    "id": "freyaindia-co-uk-p-no-not-everyone-needs-therapy",
-    "title": "No, Not Everyone Needs Therapy",
-    "excerpt": "“Big Therapy” tells us the solution to our problems is to pay a stranger",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/no-not-everyone-needs-therapy",
-    "publishedAt": "2023-11-07T17:10:14.005Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 5,
-    "likes": 816,
-    "comments": 93,
-    "engagementScore": 1095,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!dCsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a68967-b16f-4617-8cbc-5268bb35632d_1280x720.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!dCsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a68967-b16f-4617-8cbc-5268bb35632d_1280x720.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 816,
-        "comments": 93
       }
     }
   },
@@ -8270,14 +8270,14 @@
     "publishedAt": "2026-06-16T19:01:05.433Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 673,
+    "likes": 675,
     "comments": 56,
-    "engagementScore": 841,
+    "engagementScore": 843,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/503b7c8c-32f1-4a8d-a552-bcc6eae83627_1456x1092.webp",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/503b7c8c-32f1-4a8d-a552-bcc6eae83627_1456x1092.webp",
     "platforms": {
       "substack": {
-        "likes": 673,
+        "likes": 675,
         "comments": 56
       }
     }
@@ -8977,6 +8977,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-how-to-make-a-marriage-proposal",
+    "title": "How to Make a Marriage Proposal",
+    "excerpt": "At least here's how I did it",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/how-to-make-a-marriage-proposal",
+    "publishedAt": "2026-08-17T15:03:50.648Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 524,
+    "comments": 94,
+    "engagementScore": 806,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!6R55!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f2986aa-1de8-4cf8-a630-1adf8a8b3bba_944x768.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!6R55!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f2986aa-1de8-4cf8-a630-1adf8a8b3bba_944x768.png",
+    "platforms": {
+      "substack": {
+        "likes": 524,
+        "comments": 94
+      }
+    }
+  },
+  {
     "id": "nautil-us-how-i-rewired-my-brain-to-become-fluent-in-math-235085",
     "title": "How I Rewired My Brain to Become Fluent in Math - Nautilus",
     "excerpt": "Sorry, education reformers, it’s still memorization and repetition we need.",
@@ -8997,29 +9020,6 @@
         "points": 406,
         "comments": 199,
         "itemUrl": "https://news.ycombinator.com/item?id=40167163"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-how-to-make-a-marriage-proposal",
-    "title": "How to Make a Marriage Proposal",
-    "excerpt": "At least here's how I did it",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/how-to-make-a-marriage-proposal",
-    "publishedAt": "2026-08-17T15:03:50.648Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 521,
-    "comments": 94,
-    "engagementScore": 803,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!6R55!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f2986aa-1de8-4cf8-a630-1adf8a8b3bba_944x768.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!6R55!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f2986aa-1de8-4cf8-a630-1adf8a8b3bba_944x768.png",
-    "platforms": {
-      "substack": {
-        "likes": 521,
-        "comments": 94
       }
     }
   },
@@ -10649,6 +10649,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-wendell-berrys-nine-rules",
+    "title": "Wendell Berry’s Nine Rules",
+    "excerpt": "I pay tribute to this poet and gadfly, who left us yesterday at age 92, with an article from the archive",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/wendell-berrys-nine-rules",
+    "publishedAt": "2026-09-01T16:32:07.837Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 631,
+    "comments": 23,
+    "engagementScore": 700,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!P0FP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22b556e1-5b2d-40d4-860b-31ff43f75ecc_1866x1146.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!P0FP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22b556e1-5b2d-40d4-860b-31ff43f75ecc_1866x1146.png",
+    "platforms": {
+      "substack": {
+        "likes": 631,
+        "comments": 23
+      }
+    }
+  },
+  {
     "id": "gwern-net-complement",
     "title": "Laws of Tech Economics: Commoditize Your Complement",
     "excerpt": "A classic pattern in technology economics, identified by Joel Spolsky, is layers of the stack attempting to become monopolies while turning other layers into perfectly-competitive markets which are commoditized, in order to harvest most of the consumer surplus; discussion and examples.",
@@ -10925,29 +10948,6 @@
         "points": 291,
         "comments": 200,
         "itemUrl": "https://news.ycombinator.com/item?id=23623845"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-wendell-berrys-nine-rules",
-    "title": "Wendell Berry’s Nine Rules",
-    "excerpt": "I pay tribute to this poet and gadfly, who left us yesterday at age 92, with an article from the archive",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/wendell-berrys-nine-rules",
-    "publishedAt": "2026-09-01T16:32:07.837Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 622,
-    "comments": 23,
-    "engagementScore": 691,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!P0FP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22b556e1-5b2d-40d4-860b-31ff43f75ecc_1866x1146.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!P0FP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22b556e1-5b2d-40d4-860b-31ff43f75ecc_1866x1146.png",
-    "platforms": {
-      "substack": {
-        "likes": 622,
-        "comments": 23
       }
     }
   },
@@ -11515,14 +11515,14 @@
     "publishedAt": "2024-09-24T21:38:04.134Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 583,
+    "likes": 584,
     "comments": 25,
-    "engagementScore": 658,
+    "engagementScore": 659,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!49hf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb787cd30-e319-48b3-baee-2c44909674c1_1688x1178.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!49hf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb787cd30-e319-48b3-baee-2c44909674c1_1688x1178.jpeg",
     "platforms": {
       "substack": {
-        "likes": 583,
+        "likes": 584,
         "comments": 25
       }
     }
@@ -11629,15 +11629,15 @@
     "publishedAt": "2026-08-12T19:17:06.073Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 450,
-    "comments": 67,
-    "engagementScore": 651,
+    "likes": 451,
+    "comments": 66,
+    "engagementScore": 649,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/7a9ffbf1-4b2e-4d94-963c-86ee6e4d8c43_1090x694.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7a9ffbf1-4b2e-4d94-963c-86ee6e4d8c43_1090x694.png",
     "platforms": {
       "substack": {
-        "likes": 450,
-        "comments": 67
+        "likes": 451,
+        "comments": 66
       }
     }
   },
@@ -13262,14 +13262,14 @@
     "publishedAt": "2026-08-06T22:26:51.061Z",
     "category": "Creativity",
     "readingMinutes": 4,
-    "likes": 431,
+    "likes": 432,
     "comments": 47,
-    "engagementScore": 572,
+    "engagementScore": 573,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/90980dbc-3819-472d-9dd9-26715bc10614_990x828.png",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/90980dbc-3819-472d-9dd9-26715bc10614_990x828.png",
     "platforms": {
       "substack": {
-        "likes": 431,
+        "likes": 432,
         "comments": 47
       }
     }
@@ -14040,6 +14040,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-65-of-my-favorite-quotations",
+    "title": "65 of My Favorite Quotations",
+    "excerpt": "Ranging widely from Seneca to Ringo Starr",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/65-of-my-favorite-quotations",
+    "publishedAt": "2026-05-20T18:35:35.634Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 347,
+    "comments": 63,
+    "engagementScore": 536,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!DvJ-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef919c-d407-416e-b648-107d5657d7db_1344x896.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!DvJ-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef919c-d407-416e-b648-107d5657d7db_1344x896.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 347,
+        "comments": 63
+      }
+    }
+  },
+  {
     "id": "aeon-co-ideas-against-metrics-how-measuring-performance-by-numbers-backfires",
     "title": "Against metrics: how measuring performance by numbers backfires",
     "excerpt": "",
@@ -14081,29 +14104,6 @@
       "substack": {
         "likes": 340,
         "comments": 65
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-65-of-my-favorite-quotations",
-    "title": "65 of My Favorite Quotations",
-    "excerpt": "Ranging widely from Seneca to Ringo Starr",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/65-of-my-favorite-quotations",
-    "publishedAt": "2026-05-20T18:35:35.634Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 346,
-    "comments": 63,
-    "engagementScore": 535,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!DvJ-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef919c-d407-416e-b648-107d5657d7db_1344x896.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!DvJ-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef919c-d407-416e-b648-107d5657d7db_1344x896.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 346,
-        "comments": 63
       }
     }
   },
@@ -15311,6 +15311,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-the-3-bad-types-of-humanities-professor",
+    "title": "The 3 Bad Types of Humanities Professor",
+    "excerpt": "And how to improve cultural education in the current moment",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-3-bad-types-of-humanities-professor",
+    "publishedAt": "2026-08-28T17:42:47.757Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 359,
+    "comments": 41,
+    "engagementScore": 482,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!HAL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4559955c-b85a-43b3-962d-168eb8f4566c_1920x1206.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!HAL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4559955c-b85a-43b3-962d-168eb8f4566c_1920x1206.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 359,
+        "comments": 41
+      }
+    }
+  },
+  {
     "id": "lesswrong-com-posts-jzzenevalzllec3zn-predictive-coding-has-been-unified-with-backpropagation",
     "title": "Predictive coding has been unified with backpropagation",
     "excerpt": "",
@@ -15351,29 +15374,6 @@
         "points": 217,
         "comments": 132,
         "itemUrl": "https://news.ycombinator.com/item?id=21190508"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-the-3-bad-types-of-humanities-professor",
-    "title": "The 3 Bad Types of Humanities Professor",
-    "excerpt": "And how to improve cultural education in the current moment",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-3-bad-types-of-humanities-professor",
-    "publishedAt": "2026-08-28T17:42:47.757Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 358,
-    "comments": 41,
-    "engagementScore": 481,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!HAL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4559955c-b85a-43b3-962d-168eb8f4566c_1920x1206.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!HAL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4559955c-b85a-43b3-962d-168eb8f4566c_1920x1206.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 358,
-        "comments": 41
       }
     }
   },
@@ -23098,6 +23098,29 @@
     }
   },
   {
+    "id": "avabear-xyz-p-sometimes-you-get-stuck-in-a-sinkhole",
+    "title": "sometimes you get stuck in a sinkhole for a few years",
+    "excerpt": "tales from the bog",
+    "author": "Ava",
+    "sourceSlug": "avabear-xyz",
+    "sourceName": "bookbear express",
+    "url": "https://www.avabear.xyz/p/sometimes-you-get-stuck-in-a-sinkhole",
+    "publishedAt": "2026-06-19T01:22:26.873Z",
+    "category": "Relationships",
+    "readingMinutes": 4,
+    "likes": 228,
+    "comments": 7,
+    "engagementScore": 249,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!GXSU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d3d628f-4472-4bb3-9f87-f4fa2f715988_2032x1294.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!GXSU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d3d628f-4472-4bb3-9f87-f4fa2f715988_2032x1294.png",
+    "platforms": {
+      "substack": {
+        "likes": 228,
+        "comments": 7
+      }
+    }
+  },
+  {
     "id": "freyaindia-co-uk-p-why-is-gen-z-so-anxious",
     "title": "Why Is Gen Z So Anxious?",
     "excerpt": "Update: SpectatorTV!",
@@ -23161,29 +23184,6 @@
         "points": 114,
         "comments": 67,
         "itemUrl": "https://news.ycombinator.com/item?id=37649250"
-      }
-    }
-  },
-  {
-    "id": "avabear-xyz-p-sometimes-you-get-stuck-in-a-sinkhole",
-    "title": "sometimes you get stuck in a sinkhole for a few years",
-    "excerpt": "tales from the bog",
-    "author": "Ava",
-    "sourceSlug": "avabear-xyz",
-    "sourceName": "bookbear express",
-    "url": "https://www.avabear.xyz/p/sometimes-you-get-stuck-in-a-sinkhole",
-    "publishedAt": "2026-06-19T01:22:26.873Z",
-    "category": "Relationships",
-    "readingMinutes": 4,
-    "likes": 227,
-    "comments": 7,
-    "engagementScore": 248,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!GXSU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d3d628f-4472-4bb3-9f87-f4fa2f715988_2032x1294.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!GXSU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d3d628f-4472-4bb3-9f87-f4fa2f715988_2032x1294.png",
-    "platforms": {
-      "substack": {
-        "likes": 227,
-        "comments": 7
       }
     }
   },
@@ -24064,6 +24064,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-the-best-gospel-music-happening-right",
+    "title": "The Best Gospel Music Happening Right Now",
+    "excerpt": "You don’t need to join the congregation to enjoy these spirited tracks",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/the-best-gospel-music-happening-right",
+    "publishedAt": "2026-08-22T16:53:21.118Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 173,
+    "comments": 19,
+    "engagementScore": 230,
+    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/fxwQHqszPy0",
+    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/fxwQHqszPy0",
+    "platforms": {
+      "substack": {
+        "likes": 173,
+        "comments": 19
+      }
+    }
+  },
+  {
     "id": "astralcodexten-com-p-sam-altman-wants-7-trillion",
     "title": "Sam Altman Wants $7T",
     "excerpt": "",
@@ -24106,29 +24129,6 @@
         "points": 47,
         "comments": 91,
         "itemUrl": "https://news.ycombinator.com/item?id=25170030"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-the-best-gospel-music-happening-right",
-    "title": "The Best Gospel Music Happening Right Now",
-    "excerpt": "You don’t need to join the congregation to enjoy these spirited tracks",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/the-best-gospel-music-happening-right",
-    "publishedAt": "2026-08-22T16:53:21.118Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 172,
-    "comments": 19,
-    "engagementScore": 229,
-    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/fxwQHqszPy0",
-    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/fxwQHqszPy0",
-    "platforms": {
-      "substack": {
-        "likes": 172,
-        "comments": 19
       }
     }
   },
@@ -27232,6 +27232,29 @@
     }
   },
   {
+    "id": "experimental-history-com-p-blog-jamboree-2026-the-winners",
+    "title": "Blog Jamboree 2026: The Winners",
+    "excerpt": "yeehaw",
+    "author": "Adam Mastroianni",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/blog-jamboree-2026-the-winners",
+    "publishedAt": "2026-07-21T14:38:24.932Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 144,
+    "comments": 10,
+    "engagementScore": 174,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!gBGh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb211e6d-3fcd-4a35-b744-ecc969472bfe_985x1280.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!gBGh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb211e6d-3fcd-4a35-b744-ecc969472bfe_985x1280.jpeg",
+    "platforms": {
+      "substack": {
+        "likes": 144,
+        "comments": 10
+      }
+    }
+  },
+  {
     "id": "freyaindia-co-uk-p-its-more-than-just-instagram-face",
     "title": "It's More Than Just \"Instagram Face\"",
     "excerpt": "Surrendering our personalities to the sinkhole of social media",
@@ -27275,29 +27298,6 @@
         "points": 65,
         "comments": 54,
         "itemUrl": "https://news.ycombinator.com/item?id=37980585"
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-blog-jamboree-2026-the-winners",
-    "title": "Blog Jamboree 2026: The Winners",
-    "excerpt": "yeehaw",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/blog-jamboree-2026-the-winners",
-    "publishedAt": "2026-07-21T14:38:24.932Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 143,
-    "comments": 10,
-    "engagementScore": 173,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!gBGh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb211e6d-3fcd-4a35-b744-ecc969472bfe_985x1280.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!gBGh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb211e6d-3fcd-4a35-b744-ecc969472bfe_985x1280.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 143,
-        "comments": 10
       }
     }
   },
@@ -27989,6 +27989,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-youtube-videos-im-recommending-right",
+    "title": "YouTube Videos I’m Recommending Right Now",
+    "excerpt": "Here’s a big batch of 14 recent videos. These are keepers.",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/youtube-videos-im-recommending-right",
+    "publishedAt": "2026-09-04T20:18:18.800Z",
+    "category": "Creativity",
+    "readingMinutes": 4,
+    "likes": 144,
+    "comments": 7,
+    "engagementScore": 165,
+    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/Hiobg5hJRTY",
+    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/Hiobg5hJRTY",
+    "platforms": {
+      "substack": {
+        "likes": 144,
+        "comments": 7
+      }
+    }
+  },
+  {
     "id": "ribbonfarm-com-2015-04-08-the-essence-of-peopling",
     "title": "The Essence of Peopling",
     "excerpt": "Nouns for human beings - \"people\" or \"person\" - conjure in the mind a snapshot of the surface appearance of humans. Using nouns like \"people\" subtly encourages…",
@@ -28200,6 +28223,29 @@
     }
   },
   {
+    "id": "honest-broker-com-p-what-do-you-have-to-hide",
+    "title": "What Do You Have to Hide?",
+    "excerpt": "A conversation with Lowry Pressly on why we need privacy as part of the good life",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/what-do-you-have-to-hide",
+    "publishedAt": "2026-07-21T17:00:56.195Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 132,
+    "comments": 9,
+    "engagementScore": 159,
+    "coverImage": "https://substack-video.s3.amazonaws.com/video_upload/post/207810318/4308286d-df03-46fe-ae06-cd521d47463e/transcoded-1784572431.png",
+    "thumbnailUrl": "https://substack-video.s3.amazonaws.com/video_upload/post/207810318/4308286d-df03-46fe-ae06-cd521d47463e/transcoded-1784572431.png",
+    "platforms": {
+      "substack": {
+        "likes": 132,
+        "comments": 9
+      }
+    }
+  },
+  {
     "id": "freyaindia-co-uk-p-is-romance-dead",
     "title": "Is Romance Dead?",
     "excerpt": "Update: UnHerd Debate!",
@@ -28241,29 +28287,6 @@
         "points": 128,
         "comments": 15,
         "itemUrl": "https://news.ycombinator.com/item?id=41177831"
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-what-do-you-have-to-hide",
-    "title": "What Do You Have to Hide?",
-    "excerpt": "A conversation with Lowry Pressly on why we need privacy as part of the good life",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/what-do-you-have-to-hide",
-    "publishedAt": "2026-07-21T17:00:56.195Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 131,
-    "comments": 9,
-    "engagementScore": 158,
-    "coverImage": "https://substack-video.s3.amazonaws.com/video_upload/post/207810318/4308286d-df03-46fe-ae06-cd521d47463e/transcoded-1784572431.png",
-    "thumbnailUrl": "https://substack-video.s3.amazonaws.com/video_upload/post/207810318/4308286d-df03-46fe-ae06-cd521d47463e/transcoded-1784572431.png",
-    "platforms": {
-      "substack": {
-        "likes": 131,
-        "comments": 9
       }
     }
   },
@@ -29808,29 +29831,6 @@
       "substack": {
         "likes": 106,
         "comments": 9
-      }
-    }
-  },
-  {
-    "id": "honest-broker-com-p-youtube-videos-im-recommending-right",
-    "title": "YouTube Videos I’m Recommending Right Now",
-    "excerpt": "Here’s a big batch of 14 recent videos. These are keepers.",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/youtube-videos-im-recommending-right",
-    "publishedAt": "2026-09-04T20:18:18.800Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 115,
-    "comments": 6,
-    "engagementScore": 133,
-    "coverImage": "https://substackcdn.com/image/youtube/w_728,c_limit/Hiobg5hJRTY",
-    "thumbnailUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/Hiobg5hJRTY",
-    "platforms": {
-      "substack": {
-        "likes": 115,
-        "comments": 6
       }
     }
   },
@@ -34057,6 +34057,29 @@
     }
   },
   {
+    "id": "avabear-xyz-p-notes-on-the-brothers-karamazov",
+    "title": "notes on the brothers karamazov",
+    "excerpt": "Chuck Palahniuk once wrote: “To begin a new novel, I look for the biggest problem in my life that I can’t solve or tolerate.",
+    "author": "Ava",
+    "sourceSlug": "avabear-xyz",
+    "sourceName": "bookbear express",
+    "url": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
+    "publishedAt": "2026-09-02T16:18:23.990Z",
+    "category": "Relationships",
+    "readingMinutes": 5,
+    "likes": 51,
+    "comments": 2,
+    "engagementScore": 57,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!m-Hf!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fava.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-102904259%26version%3D9",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!m-Hf!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fava.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-102904259%26version%3D9",
+    "platforms": {
+      "substack": {
+        "likes": 51,
+        "comments": 2
+      }
+    }
+  },
+  {
     "id": "avabear-xyz-p-cohesion",
     "title": "cohesion",
     "excerpt": "integrating complexity",
@@ -34471,29 +34494,6 @@
         "points": 39,
         "comments": 5,
         "itemUrl": "https://news.ycombinator.com/item?id=16831623"
-      }
-    }
-  },
-  {
-    "id": "avabear-xyz-p-notes-on-the-brothers-karamazov",
-    "title": "notes on the brothers karamazov",
-    "excerpt": "Chuck Palahniuk once wrote: “To begin a new novel, I look for the biggest problem in my life that I can’t solve or tolerate.",
-    "author": "Ava",
-    "sourceSlug": "avabear-xyz",
-    "sourceName": "bookbear express",
-    "url": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
-    "publishedAt": "2026-09-02T16:18:23.990Z",
-    "category": "Relationships",
-    "readingMinutes": 5,
-    "likes": 46,
-    "comments": 1,
-    "engagementScore": 49,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!m-Hf!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fava.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-102904259%26version%3D9",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!m-Hf!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fava.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-102904259%26version%3D9",
-    "platforms": {
-      "substack": {
-        "likes": 46,
-        "comments": 1
       }
     }
   },
