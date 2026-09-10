@@ -11417,5 +11417,45 @@
     "author": "Ava",
     "canonical": "https://www.avabear.xyz/p/bridging-the-gap",
     "fetchedAt": "2026-09-09T11:31:05.107Z"
+  },
+  "https://avabear.xyz/p/going-fast-and-slow": {
+    "title": "going fast and slow",
+    "excerpt": "on novel logic",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!-rnR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d317a32-c14d-49fb-a433-85bc92356177_754x506.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!-rnR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d317a32-c14d-49fb-a433-85bc92356177_754x506.jpeg",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/going-fast-and-slow",
+    "fetchedAt": "2026-09-10T11:27:30.563Z"
+  },
+  "https://honest-broker.com/p/the-last-24-hours-are-the-opening": {
+    "title": "The Last 24 Hours Are the Opening Scene in a Horror Movie",
+    "excerpt": "Eight different insiders have issued warnings—and you need to hear them out",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!lQYI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2430203e-11a9-4a96-b229-d7b4012eb60f_460x276.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!lQYI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2430203e-11a9-4a96-b229-d7b4012eb60f_460x276.jpeg",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/the-last-24-hours-are-the-opening",
+    "fetchedAt": "2026-09-10T11:27:30.570Z"
+  },
+  "https://henrikkarlsson.xyz/p/creative-block": {
+    "title": "Some remarks on being stuck, with digressions on David Hockney, developing style, and gardens",
+    "excerpt": "If something feels wrong, it is useful to articulate very precisely why that is",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!chpe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cdecf59-b72f-4948-ad6f-59161c34cab8_1198x821.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!chpe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cdecf59-b72f-4948-ad6f-59161c34cab8_1198x821.png",
+    "sourceName": "",
+    "author": "Henrik Karlsson",
+    "canonical": "https://www.henrikkarlsson.xyz/p/creative-block",
+    "fetchedAt": "2026-09-10T11:27:30.597Z"
+  },
+  "https://newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit": {
+    "title": "Flock Wants a Closely Surveilled World with No Exit",
+    "excerpt": "The company, which has a hundred and thirty thousand cameras monitoring the streets of the U.S., frames privacy as a worthwhile trade-off for safety and security, echoing the language of the post-9/11 surveillance boom.",
+    "coverImage": "https://media.newyorker.com/photos/6aa05e7b6979461f46da3deb/16:9/w_1280,c_limit/NewYorker_flockcamera_final.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/6aa05e7b6979461f46da3deb/16:9/w_1280,c_limit/NewYorker_flockcamera_final.jpg",
+    "sourceName": "The New Yorker",
+    "author": "Brady Brickner-Wood",
+    "canonical": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+    "fetchedAt": "2026-09-10T11:27:30.987Z"
   }
 }
