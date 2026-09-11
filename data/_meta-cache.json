@@ -11457,5 +11457,15 @@
     "author": "Brady Brickner-Wood",
     "canonical": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
     "fetchedAt": "2026-09-10T11:27:30.987Z"
+  },
+  "https://avabear.xyz/p/some-quotes": {
+    "title": "some quotes",
+    "excerpt": "help-self",
+    "coverImage": "https://i.scdn.co/image/ab67616d0000b2731c88535356b1a9e37e62ccbe",
+    "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731c88535356b1a9e37e62ccbe",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/some-quotes",
+    "fetchedAt": "2026-09-11T11:29:10.526Z"
   }
 }
