@@ -11490,5 +11490,25 @@
   },
   "https://lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment": {
     "fetchedAt": "2026-09-14T12:57:24.441Z"
+  },
+  "https://experimental-history.com/p/there-is-no-epidemic-of-loneliness": {
+    "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+    "excerpt": "OR: hey buddy, your teeth are falling out",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!aCqC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20f3baf-8076-4e07-9eb6-51eea34f108a_1785x1194.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!aCqC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20f3baf-8076-4e07-9eb6-51eea34f108a_1785x1194.jpeg",
+    "sourceName": "",
+    "author": "Adam Mastroianni",
+    "canonical": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+    "fetchedAt": "2026-09-16T11:44:11.948Z"
+  },
+  "https://avabear.xyz/p/normalcy": {
+    "title": "normalcy",
+    "excerpt": "Joan Mitchell, Wood, Wind, No Tuba, 1979",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!SSHu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48c52cc-8796-4a03-8430-5e85843083ab_1380x965.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!SSHu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48c52cc-8796-4a03-8430-5e85843083ab_1380x965.jpeg",
+    "sourceName": "",
+    "author": "Ava",
+    "canonical": "https://www.avabear.xyz/p/normalcy",
+    "fetchedAt": "2026-09-16T11:44:12.080Z"
   }
 }
