@@ -11590,5 +11590,25 @@
     "author": "Alex Tabarrok",
     "canonical": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
     "fetchedAt": "2026-09-24T11:54:28.051Z"
+  },
+  "https://honest-broker.com/p/spammers-teach-me-six-ugly-truths": {
+    "title": "Spammers Teach Me Six Ugly Truths About AI Writing",
+    "excerpt": "Also details on the new scam targeted at authors",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!Bi9o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d1b9faa-2716-4218-a299-f22530b0275f_2288x1712.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Bi9o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d1b9faa-2716-4218-a299-f22530b0275f_2288x1712.jpeg",
+    "sourceName": "",
+    "author": "Ted Gioia",
+    "canonical": "https://www.honest-broker.com/p/spammers-teach-me-six-ugly-truths",
+    "fetchedAt": "2026-09-25T11:56:55.311Z"
+  },
+  "https://henrikkarlsson.xyz/p/the-hyperlocal": {
+    "title": "The hyperlocal",
+    "excerpt": "Notes on art, machine intelligence, and paying attention to one’s immediate environment",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!TpB4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcefd4244-5c5c-4594-90fd-c90aa50ba83e_1800x1086.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!TpB4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcefd4244-5c5c-4594-90fd-c90aa50ba83e_1800x1086.png",
+    "sourceName": "",
+    "author": "Henrik Karlsson",
+    "canonical": "https://www.henrikkarlsson.xyz/p/the-hyperlocal",
+    "fetchedAt": "2026-09-25T11:56:55.352Z"
   }
 }
