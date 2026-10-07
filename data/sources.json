@@ -143,6 +143,17 @@
     "count": 48
   },
   {
+    "slug": "astralcodexten-com",
+    "name": "Astral Codex Ten",
+    "author": "Astral Codex Ten",
+    "platform": "rss",
+    "baseUrl": "https://astralcodexten.com",
+    "subscribeUrl": "https://astralcodexten.com",
+    "category": "Original Thinking",
+    "host": "astralcodexten.com",
+    "count": 48
+  },
+  {
     "slug": "newyorker-com",
     "name": "The New Yorker",
     "author": "The New Yorker",
@@ -152,17 +163,6 @@
     "category": "Ideas",
     "host": "newyorker.com",
     "count": 48
-  },
-  {
-    "slug": "astralcodexten-com",
-    "name": "Astral Codex Ten",
-    "author": "Astral Codex Ten",
-    "platform": "rss",
-    "baseUrl": "https://astralcodexten.com",
-    "subscribeUrl": "https://astralcodexten.com",
-    "category": "Original Thinking",
-    "host": "astralcodexten.com",
-    "count": 47
   },
   {
     "slug": "edge-org",
