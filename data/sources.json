@@ -209,6 +209,17 @@
     "count": 45
   },
   {
+    "slug": "sive-rs",
+    "name": "Derek Sivers",
+    "author": "Derek Sivers",
+    "platform": "rss",
+    "baseUrl": "https://sive.rs",
+    "subscribeUrl": "https://sive.rs",
+    "category": "Agency",
+    "host": "sive.rs",
+    "count": 44
+  },
+  {
     "slug": "slatestarcodex-com",
     "name": "Slate Star Codex",
     "author": "Slate Star Codex",
@@ -218,17 +229,6 @@
     "category": "Original Thinking",
     "host": "slatestarcodex.com",
     "count": 44
-  },
-  {
-    "slug": "sive-rs",
-    "name": "Derek Sivers",
-    "author": "Derek Sivers",
-    "platform": "rss",
-    "baseUrl": "https://sive.rs",
-    "subscribeUrl": "https://sive.rs",
-    "category": "Agency",
-    "host": "sive.rs",
-    "count": 43
   },
   {
     "slug": "kk-org",

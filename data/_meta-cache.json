@@ -11767,5 +11767,25 @@
     "author": "Ted Gioia",
     "canonical": "https://www.honest-broker.com/p/dont-trust-people-who-talk-like-this",
     "fetchedAt": "2026-10-14T12:02:15.675Z"
+  },
+  "https://henrikkarlsson.xyz/p/music": {
+    "title": "How is music possible",
+    "excerpt": "If you take a scene from a horror movie and add funny music, the killer suddenly looks hilarious. Isn’t it strange that that happens?",
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!jv_m!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffefd7c8e-1e7a-4602-97b3-3565e99383c9_1920x1551.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!jv_m!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffefd7c8e-1e7a-4602-97b3-3565e99383c9_1920x1551.png",
+    "sourceName": "",
+    "author": "Henrik Karlsson",
+    "canonical": "https://www.henrikkarlsson.xyz/p/music",
+    "fetchedAt": "2026-10-15T11:38:10.118Z"
+  },
+  "https://sive.rs/ss": {
+    "title": "Smart people don’t think others are stupid | Derek Sivers",
+    "excerpt": "Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.",
+    "coverImage": "https://m.sive.rs/og.jpg",
+    "thumbnailUrl": "https://m.sive.rs/og.jpg",
+    "sourceName": "Derek Sivers",
+    "author": "Derek Sivers",
+    "canonical": "https://sive.rs/ss",
+    "fetchedAt": "2026-10-15T11:38:10.353Z"
   }
 }
