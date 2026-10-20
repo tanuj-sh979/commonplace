@@ -374,17 +374,6 @@
     "count": 8
   },
   {
-    "slug": "home-moretothat-com",
-    "name": "More To That",
-    "author": "Lawrence Yeo",
-    "platform": "substack",
-    "baseUrl": "https://home.moretothat.com",
-    "subscribeUrl": "https://home.moretothat.com/subscribe",
-    "category": "Meaning & Living",
-    "host": "home.moretothat.com",
-    "count": 6
-  },
-  {
     "slug": "moretothat-com",
     "name": "More To That",
     "author": "More To That",
@@ -394,5 +383,16 @@
     "category": "Meaning & Living",
     "host": "moretothat.com",
     "count": 6
+  },
+  {
+    "slug": "home-moretothat-com",
+    "name": "More To That",
+    "author": "Lawrence Yeo",
+    "platform": "substack",
+    "baseUrl": "https://home.moretothat.com",
+    "subscribeUrl": "https://home.moretothat.com/subscribe",
+    "category": "Meaning & Living",
+    "host": "home.moretothat.com",
+    "count": 5
   }
 ]
