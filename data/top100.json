@@ -10,9 +10,9 @@
     "publishedAt": "2024-01-20T14:50:13Z",
     "category": "Attention & Tech",
     "readingMinutes": 4,
-    "likes": 17379,
+    "likes": 17382,
     "comments": 506,
-    "engagementScore": 18858,
+    "engagementScore": 18861,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!e3K8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8a7a62-b166-4a7d-bfc8-261d2f1e96da_1554x1130.png",
     "platforms": {
@@ -22,7 +22,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=39068065"
       },
       "substack": {
-        "likes": 17321,
+        "likes": 17324,
         "comments": 467
       }
     }
@@ -38,9 +38,9 @@
     "publishedAt": "2025-10-28T16:01:00Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 14004,
-    "comments": 961,
-    "engagementScore": 16642,
+    "likes": 14014,
+    "comments": 962,
+    "engagementScore": 16655,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!ct9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d788070-ccb5-4cf6-8c1f-f8ee02fca241_1678x1167.jpeg",
     "platforms": {
@@ -50,36 +50,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=45734620"
       },
       "substack": {
-        "likes": 13691,
-        "comments": 716
-      }
-    }
-  },
-  {
-    "id": "freyaindia-co-uk-p-nobody-has-a-personality-anymore",
-    "title": "Nobody has a personality anymore: we are products with labels",
-    "excerpt": "We are products with labels",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore",
-    "publishedAt": "2025-07-06T22:16:37Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 4,
-    "likes": 11708,
-    "comments": 1116,
-    "engagementScore": 14558,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
-    "platforms": {
-      "hn": {
-        "points": 551,
-        "comments": 498,
-        "itemUrl": "https://news.ycombinator.com/item?id=44484595"
-      },
-      "substack": {
-        "likes": 11157,
-        "comments": 618
+        "likes": 13701,
+        "comments": 717
       }
     }
   },
@@ -94,9 +66,9 @@
     "publishedAt": "2025-07-28T13:23:35Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 12463,
+    "likes": 12551,
     "comments": 814,
-    "engagementScore": 14534,
+    "engagementScore": 14622,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!tT8r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95c055d3-ab96-41fb-a077-91a2a9e460ad_1196x1654.jpeg",
     "platforms": {
@@ -106,8 +78,36 @@
         "itemUrl": "https://news.ycombinator.com/item?id=44710651"
       },
       "substack": {
-        "likes": 11703,
+        "likes": 11791,
         "comments": 443
+      }
+    }
+  },
+  {
+    "id": "freyaindia-co-uk-p-nobody-has-a-personality-anymore",
+    "title": "Nobody has a personality anymore: we are products with labels",
+    "excerpt": "We are products with labels",
+    "author": "Freya India",
+    "sourceSlug": "freyaindia-co-uk",
+    "sourceName": "GIRLS",
+    "url": "https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore",
+    "publishedAt": "2025-07-06T22:16:37Z",
+    "category": "Attention & Tech",
+    "readingMinutes": 4,
+    "likes": 11712,
+    "comments": 1116,
+    "engagementScore": 14562,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fur_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32309b8c-9b23-43db-b70a-534c68ce1dcc_1262x980.png",
+    "platforms": {
+      "hn": {
+        "points": 551,
+        "comments": 498,
+        "itemUrl": "https://news.ycombinator.com/item?id=44484595"
+      },
+      "substack": {
+        "likes": 11161,
+        "comments": 618
       }
     }
   },
@@ -122,14 +122,14 @@
     "publishedAt": "2025-04-23T16:41:51.245Z",
     "category": "Meaning & Living",
     "readingMinutes": 6,
-    "likes": 11067,
+    "likes": 11068,
     "comments": 147,
-    "engagementScore": 11508,
+    "engagementScore": 11509,
     "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91a8033-18ea-4859-a300-c07bd86499c8_1500x1393.jpeg",
     "platforms": {
       "substack": {
-        "likes": 11067,
+        "likes": 11068,
         "comments": 147
       }
     }
@@ -173,14 +173,14 @@
     "publishedAt": "2026-01-06T02:15:14.799Z",
     "category": "Relationships",
     "readingMinutes": 4,
-    "likes": 5367,
+    "likes": 5372,
     "comments": 82,
-    "engagementScore": 5613,
+    "engagementScore": 5618,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!0t09!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8393e69-93bb-4b42-b6bf-e41314b8e28b_1600x1128.webp",
     "platforms": {
       "substack": {
-        "likes": 5367,
+        "likes": 5372,
         "comments": 82
       }
     }
@@ -226,34 +226,6 @@
         "points": 935,
         "comments": 2212,
         "itemUrl": "https://news.ycombinator.com/item?id=42682305"
-      }
-    }
-  },
-  {
-    "id": "henrikkarlsson-xyz-p-unfolding",
-    "title": "Everything that turned out well in my life followed the same design process",
-    "excerpt": "The context is smarter than you.",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/unfolding",
-    "publishedAt": "2024-08-06T00:14:41Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 5,
-    "likes": 4651,
-    "comments": 129,
-    "engagementScore": 5010,
-    "coverImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57e3e-53db-454e-8d85-d351aac4a11d_791x992.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 133,
-        "comments": 28,
-        "itemUrl": "https://news.ycombinator.com/item?id=41166774"
-      },
-      "substack": {
-        "likes": 4518,
-        "comments": 101
       }
     }
   },
@@ -409,14 +381,14 @@
     "publishedAt": "2026-05-20T09:22:52.279Z",
     "category": "Meaning & Living",
     "readingMinutes": 5,
-    "likes": 3928,
+    "likes": 3930,
     "comments": 73,
-    "engagementScore": 4147,
+    "engagementScore": 4149,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!1UBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd655002b-2f56-404c-9149-8d5dc26f0d40_1533x2000.jpeg",
     "platforms": {
       "substack": {
-        "likes": 3928,
+        "likes": 3930,
         "comments": 73
       }
     }
@@ -808,9 +780,9 @@
     "publishedAt": "2026-08-18T15:50:52Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 2238,
+    "likes": 2240,
     "comments": 462,
-    "engagementScore": 3284,
+    "engagementScore": 3286,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
     "platforms": {
@@ -820,7 +792,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=49347543"
       },
       "substack": {
-        "likes": 1365,
+        "likes": 1367,
         "comments": 122
       }
     }
@@ -887,9 +859,9 @@
     "publishedAt": "2026-09-11T16:04:47Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 2469,
+    "likes": 2470,
     "comments": 266,
-    "engagementScore": 3127,
+    "engagementScore": 3128,
     "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/2430203e-11a9-4a96-b229-d7b4012eb60f_460x276.jpeg",
     "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2430203e-11a9-4a96-b229-d7b4012eb60f_460x276.jpeg",
     "platforms": {
@@ -899,7 +871,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=49660707"
       },
       "substack": {
-        "likes": 2404,
+        "likes": 2405,
         "comments": 126
       }
     }
@@ -1031,14 +1003,14 @@
     "category": "Original Thinking",
     "readingMinutes": 4,
     "likes": 2337,
-    "comments": 176,
-    "engagementScore": 2865,
+    "comments": 175,
+    "engagementScore": 2862,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!Ce_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201dc87d-ecff-4d19-92a1-55a4adc1f08c_1789x1215.jpeg",
     "platforms": {
       "substack": {
         "likes": 2337,
-        "comments": 176
+        "comments": 175
       }
     }
   },
@@ -1506,29 +1478,6 @@
     }
   },
   {
-    "id": "honest-broker-com-p-help-me-create-the-ultimate-playlist",
-    "title": "Help Me Create the Ultimate Playlist of Songs about American Life",
-    "excerpt": "Today is Open Mic Day at The Honest Broker",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/help-me-create-the-ultimate-playlist",
-    "publishedAt": "2026-06-06T17:51:30.771Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 214,
-    "comments": 739,
-    "engagementScore": 2431,
-    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/ff526ba4-f0eb-4234-aa54-3c9fbf5a273b_460x345.jpeg",
-    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ff526ba4-f0eb-4234-aa54-3c9fbf5a273b_460x345.jpeg",
-    "platforms": {
-      "substack": {
-        "likes": 214,
-        "comments": 739
-      }
-    }
-  },
-  {
     "id": "paulgraham-com-orth-html",
     "title": "Orthodox Privilege",
     "excerpt": "",
@@ -1621,34 +1570,6 @@
     }
   },
   {
-    "id": "experimental-history-com-p-underrated-ways-to-change-the-world",
-    "title": "Underrated Ways to Change the World",
-    "excerpt": "How to get a good heart unstuck",
-    "author": "Adam Mastroianni",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/underrated-ways-to-change-the-world",
-    "publishedAt": "2024-11-20T10:09:19Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 2091,
-    "comments": 93,
-    "engagementScore": 2355,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!EjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 35,
-        "comments": 15,
-        "itemUrl": "https://news.ycombinator.com/item?id=42192412"
-      },
-      "substack": {
-        "likes": 2056,
-        "comments": 78
-      }
-    }
-  },
-  {
     "id": "paulgraham-com-jessica-html",
     "title": "Jessica Livingston",
     "excerpt": "",
@@ -1667,34 +1588,6 @@
         "points": 1740,
         "comments": 307,
         "itemUrl": "https://news.ycombinator.com/item?id=10575953"
-      }
-    }
-  },
-  {
-    "id": "henrikkarlsson-xyz-p-writing-to-think",
-    "title": "How to think in writing",
-    "excerpt": "The thought behind the thought",
-    "author": "Henrik Karlsson",
-    "sourceSlug": "henrikkarlsson-xyz",
-    "sourceName": "Escaping Flatland",
-    "url": "https://www.henrikkarlsson.xyz/p/writing-to-think",
-    "publishedAt": "2024-07-06T18:44:46Z",
-    "category": "Meaning & Living",
-    "readingMinutes": 4,
-    "likes": 1919,
-    "comments": 174,
-    "engagementScore": 2321,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!80Co!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8bec767-3242-4428-a281-0cdc3182ff75_750x587.png",
-    "platforms": {
-      "hn": {
-        "points": 424,
-        "comments": 120,
-        "itemUrl": "https://news.ycombinator.com/item?id=40892298"
-      },
-      "substack": {
-        "likes": 1495,
-        "comments": 54
       }
     }
   },
@@ -1991,9 +1884,9 @@
     "publishedAt": "2026-08-09T01:49:48Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1463,
-    "comments": 246,
-    "engagementScore": 2077,
+    "likes": 1469,
+    "comments": 247,
+    "engagementScore": 2086,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!5i4W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
     "platforms": {
@@ -2003,8 +1896,8 @@
         "itemUrl": "https://news.ycombinator.com/item?id=49227652"
       },
       "substack": {
-        "likes": 1290,
-        "comments": 122
+        "likes": 1296,
+        "comments": 123
       }
     }
   },
@@ -2100,29 +1993,6 @@
     }
   },
   {
-    "id": "honest-broker-com-p-tells-us-what-youre-doing",
-    "title": "Tells Us What You're Doing",
-    "excerpt": "Today is open mic day at The Honest Broker",
-    "author": "Ted Gioia",
-    "sourceSlug": "honest-broker-com",
-    "sourceName": "The Honest Broker",
-    "url": "https://www.honest-broker.com/p/tells-us-what-youre-doing",
-    "publishedAt": "2026-04-07T19:18:24.247Z",
-    "category": "Creativity",
-    "readingMinutes": 4,
-    "likes": 285,
-    "comments": 579,
-    "engagementScore": 2022,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!fuKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269081b8-ca84-410f-8691-277c51d9653a_1456x639.webp",
-    "platforms": {
-      "substack": {
-        "likes": 285,
-        "comments": 579
-      }
-    }
-  },
-  {
     "id": "experimental-history-com-p-how-to-be-less-awkward",
     "title": "How to Be Less Awkward",
     "excerpt": "a three-part treatment for a near-universal affliction",
@@ -2133,9 +2003,9 @@
     "publishedAt": "2026-01-06T20:22:34Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 1784,
+    "likes": 1785,
     "comments": 77,
-    "engagementScore": 2013,
+    "engagementScore": 2014,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!l5VM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa568ca16-8bac-4ce9-9d71-8d1e9a123839_1544x506.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!l5VM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa568ca16-8bac-4ce9-9d71-8d1e9a123839_1544x506.jpeg",
     "platforms": {
@@ -2145,7 +2015,7 @@
         "itemUrl": "https://news.ycombinator.com/item?id=46518102"
       },
       "substack": {
-        "likes": 1705,
+        "likes": 1706,
         "comments": 75
       }
     }
@@ -2219,34 +2089,6 @@
         "points": 991,
         "comments": 485,
         "itemUrl": "https://news.ycombinator.com/item?id=18120322"
-      }
-    }
-  },
-  {
-    "id": "freyaindia-co-uk-p-we-cant-compete-with-ai-girlfriends",
-    "title": "We Can't Compete with AI Girlfriends",
-    "excerpt": "Design a girl who is “always on your side\", says Replika",
-    "author": "Freya India",
-    "sourceSlug": "freyaindia-co-uk",
-    "sourceName": "GIRLS",
-    "url": "https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends",
-    "publishedAt": "2023-09-19T18:07:00Z",
-    "category": "Attention & Tech",
-    "readingMinutes": 4,
-    "likes": 343,
-    "comments": 596,
-    "engagementScore": 1948,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!31iH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb99a2988-f249-4a10-9fe6-abc3d82f2c56_1592x1078.png",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!31iH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb99a2988-f249-4a10-9fe6-abc3d82f2c56_1592x1078.png",
-    "platforms": {
-      "hn": {
-        "points": 70,
-        "comments": 183,
-        "itemUrl": "https://news.ycombinator.com/item?id=37573808"
-      },
-      "substack": {
-        "likes": 273,
-        "comments": 413
       }
     }
   },
@@ -2397,6 +2239,145 @@
         "points": 706,
         "comments": 584,
         "itemUrl": "https://news.ycombinator.com/item?id=37406719"
+      }
+    }
+  },
+  {
+    "id": "paulgraham-com-greatwork-html",
+    "title": "How to Do Great Work",
+    "excerpt": "",
+    "author": "razin",
+    "sourceSlug": "paulgraham-com",
+    "sourceName": "Paul Graham",
+    "url": "https://paulgraham.com/greatwork.html",
+    "publishedAt": "2023-07-01T14:41:56Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 1008,
+    "comments": 432,
+    "engagementScore": 1872,
+    "platforms": {
+      "hn": {
+        "points": 1008,
+        "comments": 432,
+        "itemUrl": "https://news.ycombinator.com/item?id=36550615"
+      }
+    }
+  },
+  {
+    "id": "honest-broker-com-p-dont-trust-people-who-talk-like-this",
+    "title": "Don’t Trust People Who Talk Like This",
+    "excerpt": "The beginning of wisdom is calling things by their right names.",
+    "author": "Ted Gioia",
+    "sourceSlug": "honest-broker-com",
+    "sourceName": "The Honest Broker",
+    "url": "https://www.honest-broker.com/p/dont-trust-people-who-talk-like-this",
+    "publishedAt": "2026-10-14T03:17:32.146Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 1650,
+    "comments": 71,
+    "engagementScore": 1863,
+    "coverImage": "https://substack-post-media.s3.amazonaws.com/public/images/2c709231-b6c6-428f-a67c-1b6b34e25962_1282x1062.png",
+    "thumbnailUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2c709231-b6c6-428f-a67c-1b6b34e25962_1282x1062.png",
+    "platforms": {
+      "substack": {
+        "likes": 1650,
+        "comments": 71
+      }
+    }
+  },
+  {
+    "id": "theatlantic-com-technology-archive-2024-10-sam-altman-mythmaking-680152",
+    "title": "It's Time to Stop Taking Sam Altman at His Word",
+    "excerpt": "Understand AI for what it is, not what it might become.",
+    "author": "redwoolf",
+    "sourceSlug": "theatlantic-com",
+    "sourceName": "The Atlantic",
+    "url": "https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152",
+    "publishedAt": "2024-10-05T12:17:24Z",
+    "category": "Ideas",
+    "readingMinutes": 5,
+    "likes": 703,
+    "comments": 576,
+    "engagementScore": 1855,
+    "coverImage": "https://cdn.theatlantic.com/thumbor/-f1-pf7FJHD5RjA1P6DzBMDXdAk=/0x204:4792x2700/1200x625/media/img/mt/2024/10/HR_1258550648/original.jpg",
+    "thumbnailUrl": "https://cdn.theatlantic.com/thumbor/-f1-pf7FJHD5RjA1P6DzBMDXdAk=/0x204:4792x2700/1200x625/media/img/mt/2024/10/HR_1258550648/original.jpg",
+    "platforms": {
+      "hn": {
+        "points": 703,
+        "comments": 576,
+        "itemUrl": "https://news.ycombinator.com/item?id=41749371"
+      }
+    }
+  },
+  {
+    "id": "noemamag-com-there-is-no-hard-problem-of-consciousness",
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "excerpt": "Consciousness is not separate from the physical world — our “soul” is of the same nature as our body and any other phenomenon of the world.",
+    "author": "ahalbert4",
+    "sourceSlug": "noemamag-com",
+    "sourceName": "NOEMA",
+    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness",
+    "publishedAt": "2026-05-18T02:59:34Z",
+    "category": "Original Thinking",
+    "readingMinutes": 5,
+    "likes": 316,
+    "comments": 767,
+    "engagementScore": 1850,
+    "coverImage": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd",
+    "thumbnailUrl": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd",
+    "platforms": {
+      "hn": {
+        "points": 316,
+        "comments": 767,
+        "itemUrl": "https://news.ycombinator.com/item?id=48175140"
+      }
+    }
+  },
+  {
+    "id": "newyorker-com-magazine-2018-03-19-reddit-and-the-struggle-to-detoxify-the-internet",
+    "title": "Reddit and the Struggle to Detoxify the Internet",
+    "excerpt": "From 2018: The trolls are winning. How do we fix life online without limiting free speech?",
+    "author": "smacktoward",
+    "sourceSlug": "newyorker-com",
+    "sourceName": "The New Yorker",
+    "url": "https://www.newyorker.com/magazine/2018/03/19/reddit-and-the-struggle-to-detoxify-the-internet",
+    "publishedAt": "2018-03-12T17:35:08Z",
+    "category": "Ideas",
+    "readingMinutes": 5,
+    "likes": 401,
+    "comments": 717,
+    "engagementScore": 1835,
+    "coverImage": "https://media.newyorker.com/photos/5aa176429dda9f376c4fb93d/16:9/w_1280,c_limit/180319_r31690.jpg",
+    "thumbnailUrl": "https://media.newyorker.com/photos/5aa176429dda9f376c4fb93d/16:9/w_1280,c_limit/180319_r31690.jpg",
+    "platforms": {
+      "hn": {
+        "points": 401,
+        "comments": 717,
+        "itemUrl": "https://news.ycombinator.com/item?id=16569778"
+      }
+    }
+  },
+  {
+    "id": "paulgraham-com-ff-html",
+    "title": "Female Founders",
+    "excerpt": "",
+    "author": "ssclafani",
+    "sourceSlug": "paulgraham-com",
+    "sourceName": "Paul Graham",
+    "url": "https://paulgraham.com/ff.html",
+    "publishedAt": "2014-01-10T20:08:37Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 620,
+    "comments": 595,
+    "engagementScore": 1810,
+    "platforms": {
+      "hn": {
+        "points": 620,
+        "comments": 595,
+        "itemUrl": "https://news.ycombinator.com/item?id=7039043"
       }
     }
   }
