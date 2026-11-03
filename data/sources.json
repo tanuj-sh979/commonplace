@@ -1,60 +1,5 @@
 [
   {
-    "slug": "honest-broker-com",
-    "name": "The Honest Broker",
-    "author": "Ted Gioia",
-    "platform": "substack",
-    "baseUrl": "https://www.honest-broker.com",
-    "subscribeUrl": "https://www.honest-broker.com/subscribe",
-    "category": "Creativity",
-    "host": "honest-broker.com",
-    "count": 85
-  },
-  {
-    "slug": "experimental-history-com",
-    "name": "Experimental History",
-    "author": "Adam Mastroianni",
-    "platform": "substack",
-    "baseUrl": "https://www.experimental-history.com",
-    "subscribeUrl": "https://www.experimental-history.com/subscribe",
-    "category": "Original Thinking",
-    "host": "experimental-history.com",
-    "count": 68
-  },
-  {
-    "slug": "henrikkarlsson-xyz",
-    "name": "Escaping Flatland",
-    "author": "Henrik Karlsson",
-    "platform": "substack",
-    "baseUrl": "https://www.henrikkarlsson.xyz",
-    "subscribeUrl": "https://www.henrikkarlsson.xyz/subscribe",
-    "category": "Meaning & Living",
-    "host": "henrikkarlsson.xyz",
-    "count": 63
-  },
-  {
-    "slug": "avabear-xyz",
-    "name": "bookbear express",
-    "author": "Ava",
-    "platform": "substack",
-    "baseUrl": "https://www.avabear.xyz",
-    "subscribeUrl": "https://www.avabear.xyz/subscribe",
-    "category": "Relationships",
-    "host": "avabear.xyz",
-    "count": 51
-  },
-  {
-    "slug": "freyaindia-co-uk",
-    "name": "GIRLS",
-    "author": "Freya India",
-    "platform": "substack",
-    "baseUrl": "https://www.freyaindia.co.uk",
-    "subscribeUrl": "https://www.freyaindia.co.uk/subscribe",
-    "category": "Attention & Tech",
-    "host": "freyaindia.co.uk",
-    "count": 51
-  },
-  {
     "slug": "cdixon-org",
     "name": "Chris Dixon",
     "author": "Chris Dixon",
@@ -275,6 +220,28 @@
     "count": 39
   },
   {
+    "slug": "honest-broker-com",
+    "name": "The Honest Broker",
+    "author": "Ted Gioia",
+    "platform": "substack",
+    "baseUrl": "https://www.honest-broker.com",
+    "subscribeUrl": "https://www.honest-broker.com/subscribe",
+    "category": "Creativity",
+    "host": "honest-broker.com",
+    "count": 37
+  },
+  {
+    "slug": "experimental-history-com",
+    "name": "Experimental History",
+    "author": "Adam Mastroianni",
+    "platform": "substack",
+    "baseUrl": "https://www.experimental-history.com",
+    "subscribeUrl": "https://www.experimental-history.com/subscribe",
+    "category": "Original Thinking",
+    "host": "experimental-history.com",
+    "count": 33
+  },
+  {
     "slug": "ribbonfarm-com",
     "name": "Ribbonfarm",
     "author": "Ribbonfarm",
@@ -327,6 +294,17 @@
     "subscribeUrl": "https://collabfund.com",
     "category": "Agency",
     "host": "collabfund.com",
+    "count": 18
+  },
+  {
+    "slug": "henrikkarlsson-xyz",
+    "name": "Escaping Flatland",
+    "author": "Henrik Karlsson",
+    "platform": "substack",
+    "baseUrl": "https://www.henrikkarlsson.xyz",
+    "subscribeUrl": "https://www.henrikkarlsson.xyz/subscribe",
+    "category": "Meaning & Living",
+    "host": "henrikkarlsson.xyz",
     "count": 18
   },
   {
@@ -385,6 +363,28 @@
     "count": 6
   },
   {
+    "slug": "freyaindia-co-uk",
+    "name": "GIRLS",
+    "author": "Freya India",
+    "platform": "substack",
+    "baseUrl": "https://www.freyaindia.co.uk",
+    "subscribeUrl": "https://www.freyaindia.co.uk/subscribe",
+    "category": "Attention & Tech",
+    "host": "freyaindia.co.uk",
+    "count": 3
+  },
+  {
+    "slug": "avabear-xyz",
+    "name": "bookbear express",
+    "author": "Ava",
+    "platform": "substack",
+    "baseUrl": "https://www.avabear.xyz",
+    "subscribeUrl": "https://www.avabear.xyz/subscribe",
+    "category": "Relationships",
+    "host": "avabear.xyz",
+    "count": 2
+  },
+  {
     "slug": "home-moretothat-com",
     "name": "More To That",
     "author": "Lawrence Yeo",
@@ -393,6 +393,6 @@
     "subscribeUrl": "https://home.moretothat.com/subscribe",
     "category": "Meaning & Living",
     "host": "home.moretothat.com",
-    "count": 5
+    "count": 0
   }
 ]
