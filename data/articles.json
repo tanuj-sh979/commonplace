@@ -17674,6 +17674,30 @@
     }
   },
   {
+    "id": "longreads-com-2026-11-03-murder-friendship-doubt",
+    "title": "Have I Befriended a Murderer? - Longreads",
+    "excerpt": "For five years, I’ve investigated a man convicted of bludgeoning his wife to death. Somewhere along the way, the line between journalism and friendship blurred.",
+    "author": "gmays",
+    "sourceSlug": "longreads-com",
+    "sourceName": "Longreads",
+    "url": "https://longreads.com/2026/11/03/murder-friendship-doubt",
+    "publishedAt": "2026-11-04T18:40:54Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 132,
+    "comments": 74,
+    "engagementScore": 280,
+    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
+    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
+    "platforms": {
+      "hn": {
+        "points": 132,
+        "comments": 74,
+        "itemUrl": "https://news.ycombinator.com/item?id=50369754"
+      }
+    }
+  },
+  {
     "id": "sive-rs-backup",
     "title": "How I backup | Derek Sivers",
     "excerpt": "Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.",
@@ -18278,30 +18302,6 @@
         "points": 198,
         "comments": 33,
         "itemUrl": "https://news.ycombinator.com/item?id=14952655"
-      }
-    }
-  },
-  {
-    "id": "longreads-com-2026-11-03-murder-friendship-doubt",
-    "title": "Have I Befriended a Murderer? - Longreads",
-    "excerpt": "For five years, I’ve investigated a man convicted of bludgeoning his wife to death. Somewhere along the way, the line between journalism and friendship blurred.",
-    "author": "gmays",
-    "sourceSlug": "longreads-com",
-    "sourceName": "Longreads",
-    "url": "https://longreads.com/2026/11/03/murder-friendship-doubt",
-    "publishedAt": "2026-11-04T18:40:54Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 124,
-    "comments": 70,
-    "engagementScore": 264,
-    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
-    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
-    "platforms": {
-      "hn": {
-        "points": 124,
-        "comments": 70,
-        "itemUrl": "https://news.ycombinator.com/item?id=50369754"
       }
     }
   },
