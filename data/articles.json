@@ -9908,6 +9908,28 @@
     }
   },
   {
+    "id": "lesswrong-com-posts-dalnikbjmgmf8grme-arjun-panickssery-s-shortform-commentid-fjtahhhfx45td7bsl",
+    "title": "I struggle to believe that AI R&D is ingenious",
+    "excerpt": "",
+    "author": "porridgeraisin",
+    "sourceSlug": "lesswrong-com",
+    "sourceName": "LessWrong",
+    "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+    "publishedAt": "2026-11-06T05:19:04Z",
+    "category": "Learning",
+    "readingMinutes": 4,
+    "likes": 204,
+    "comments": 203,
+    "engagementScore": 610,
+    "platforms": {
+      "hn": {
+        "points": 204,
+        "comments": 203,
+        "itemUrl": "https://news.ycombinator.com/item?id=50388513"
+      }
+    }
+  },
+  {
     "id": "worrydream-com-2017-12-30-alan",
     "title": "Some excerpts from recent Alan Kay emails",
     "excerpt": "",
@@ -17418,6 +17440,30 @@
     }
   },
   {
+    "id": "longreads-com-2026-11-03-murder-friendship-doubt",
+    "title": "Have I Befriended a Murderer? - Longreads",
+    "excerpt": "For five years, I’ve investigated a man convicted of bludgeoning his wife to death. Somewhere along the way, the line between journalism and friendship blurred.",
+    "author": "gmays",
+    "sourceSlug": "longreads-com",
+    "sourceName": "Longreads",
+    "url": "https://longreads.com/2026/11/03/murder-friendship-doubt",
+    "publishedAt": "2026-11-04T18:40:54Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 133,
+    "comments": 77,
+    "engagementScore": 287,
+    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
+    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
+    "platforms": {
+      "hn": {
+        "points": 133,
+        "comments": 77,
+        "itemUrl": "https://news.ycombinator.com/item?id=50369754"
+      }
+    }
+  },
+  {
     "id": "kk-org-ct2-heinleins-fan-mail-solution",
     "title": "Heinlein's Fan Mail Solution",
     "excerpt": "I found this letter in a folder of old correspondence from my days when I was editing at the Whole Earth Catalog. It is from the science fiction master Robert Heinlein. Heinlein engineered his own nerdy solution to a problem … Continue reading →",
@@ -17670,30 +17716,6 @@
         "points": 194,
         "comments": 43,
         "itemUrl": "https://news.ycombinator.com/item?id=32625253"
-      }
-    }
-  },
-  {
-    "id": "longreads-com-2026-11-03-murder-friendship-doubt",
-    "title": "Have I Befriended a Murderer? - Longreads",
-    "excerpt": "For five years, I’ve investigated a man convicted of bludgeoning his wife to death. Somewhere along the way, the line between journalism and friendship blurred.",
-    "author": "gmays",
-    "sourceSlug": "longreads-com",
-    "sourceName": "Longreads",
-    "url": "https://longreads.com/2026/11/03/murder-friendship-doubt",
-    "publishedAt": "2026-11-04T18:40:54Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 132,
-    "comments": 74,
-    "engagementScore": 280,
-    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
-    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
-    "platforms": {
-      "hn": {
-        "points": 132,
-        "comments": 74,
-        "itemUrl": "https://news.ycombinator.com/item?id=50369754"
       }
     }
   },
@@ -17978,28 +18000,6 @@
         "points": 81,
         "comments": 97,
         "itemUrl": "https://news.ycombinator.com/item?id=14388802"
-      }
-    }
-  },
-  {
-    "id": "lesswrong-com-posts-qdczbduzorg4dxziw-sam-altman-s-sister-annie-altman-claims-sam-has-severely",
-    "title": "Sam Altman's sister, Annie Altman, claims Sam has severely abused her",
-    "excerpt": "",
-    "author": "doener",
-    "sourceSlug": "lesswrong-com",
-    "sourceName": "LessWrong",
-    "url": "https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely",
-    "publishedAt": "2023-11-17T22:36:55Z",
-    "category": "Learning",
-    "readingMinutes": 4,
-    "likes": 159,
-    "comments": 57,
-    "engagementScore": 273,
-    "platforms": {
-      "hn": {
-        "points": 159,
-        "comments": 57,
-        "itemUrl": "https://news.ycombinator.com/item?id=38311509"
       }
     }
   },
