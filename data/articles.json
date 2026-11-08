@@ -9194,6 +9194,28 @@
     }
   },
   {
+    "id": "lesswrong-com-posts-dalnikbjmgmf8grme-arjun-panickssery-s-shortform-commentid-fjtahhhfx45td7bsl",
+    "title": "I struggle to believe that AI R&D is ingenious",
+    "excerpt": "",
+    "author": "porridgeraisin",
+    "sourceSlug": "lesswrong-com",
+    "sourceName": "LessWrong",
+    "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+    "publishedAt": "2026-11-06T05:19:04Z",
+    "category": "Learning",
+    "readingMinutes": 4,
+    "likes": 220,
+    "comments": 219,
+    "engagementScore": 658,
+    "platforms": {
+      "hn": {
+        "points": 220,
+        "comments": 219,
+        "itemUrl": "https://news.ycombinator.com/item?id=50388513"
+      }
+    }
+  },
+  {
     "id": "honest-broker-com-p-whats-happening-to-students",
     "title": "What's Happening to Students?",
     "excerpt": "",
@@ -9904,28 +9926,6 @@
         "points": 294,
         "comments": 159,
         "itemUrl": "https://news.ycombinator.com/item?id=14895121"
-      }
-    }
-  },
-  {
-    "id": "lesswrong-com-posts-dalnikbjmgmf8grme-arjun-panickssery-s-shortform-commentid-fjtahhhfx45td7bsl",
-    "title": "I struggle to believe that AI R&D is ingenious",
-    "excerpt": "",
-    "author": "porridgeraisin",
-    "sourceSlug": "lesswrong-com",
-    "sourceName": "LessWrong",
-    "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-    "publishedAt": "2026-11-06T05:19:04Z",
-    "category": "Learning",
-    "readingMinutes": 4,
-    "likes": 204,
-    "comments": 203,
-    "engagementScore": 610,
-    "platforms": {
-      "hn": {
-        "points": 204,
-        "comments": 203,
-        "itemUrl": "https://news.ycombinator.com/item?id=50388513"
       }
     }
   },
@@ -17450,14 +17450,14 @@
     "publishedAt": "2026-11-04T18:40:54Z",
     "category": "Creativity",
     "readingMinutes": 5,
-    "likes": 133,
+    "likes": 134,
     "comments": 77,
-    "engagementScore": 287,
+    "engagementScore": 288,
     "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
     "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
     "platforms": {
       "hn": {
-        "points": 133,
+        "points": 134,
         "comments": 77,
         "itemUrl": "https://news.ycombinator.com/item?id=50369754"
       }
