@@ -12054,6 +12054,30 @@
     }
   },
   {
+    "id": "experimental-history-com-p-we-need-more-goat-sacrifices",
+    "title": "We need more goat sacrifices",
+    "excerpt": "OR: OJ A-OK",
+    "author": "iamnothere",
+    "sourceSlug": "experimental-history-com",
+    "sourceName": "Experimental History",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "publishedAt": "2026-11-11T12:29:48Z",
+    "category": "Original Thinking",
+    "readingMinutes": 4,
+    "likes": 226,
+    "comments": 135,
+    "engagementScore": 496,
+    "coverImage": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
+    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
+    "platforms": {
+      "hn": {
+        "points": 226,
+        "comments": 135,
+        "itemUrl": "https://news.ycombinator.com/item?id=50452652"
+      }
+    }
+  },
+  {
     "id": "pmarchive-com-guide-to-startups-part4",
     "title": "Market is the most important factor in a startup's success or failure (2007)",
     "excerpt": "An archive of the best articles from Marc Andreessen’s now defunct blog",
@@ -12098,30 +12122,6 @@
         "points": 287,
         "comments": 104,
         "itemUrl": "https://news.ycombinator.com/item?id=45927520"
-      }
-    }
-  },
-  {
-    "id": "experimental-history-com-p-we-need-more-goat-sacrifices",
-    "title": "We need more goat sacrifices",
-    "excerpt": "OR: OJ A-OK",
-    "author": "iamnothere",
-    "sourceSlug": "experimental-history-com",
-    "sourceName": "Experimental History",
-    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-    "publishedAt": "2026-11-11T12:29:48Z",
-    "category": "Original Thinking",
-    "readingMinutes": 4,
-    "likes": 223,
-    "comments": 135,
-    "engagementScore": 493,
-    "coverImage": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
-    "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
-    "platforms": {
-      "hn": {
-        "points": 223,
-        "comments": 135,
-        "itemUrl": "https://news.ycombinator.com/item?id=50452652"
       }
     }
   },
