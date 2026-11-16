@@ -12064,14 +12064,14 @@
     "publishedAt": "2026-11-11T12:29:48Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 226,
+    "likes": 227,
     "comments": 135,
-    "engagementScore": 496,
+    "engagementScore": 497,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
     "platforms": {
       "hn": {
-        "points": 226,
+        "points": 227,
         "comments": 135,
         "itemUrl": "https://news.ycombinator.com/item?id=50452652"
       }
@@ -18564,6 +18564,30 @@
     }
   },
   {
+    "id": "longreads-com-2026-11-05-time-capsules-ashley-stimpson",
+    "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
+    "excerpt": "The future doesn’t care about your time capsule, but don’t let that stop you.",
+    "author": "ohjeez",
+    "sourceSlug": "longreads-com",
+    "sourceName": "Longreads",
+    "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson",
+    "publishedAt": "2026-11-07T16:51:17Z",
+    "category": "Creativity",
+    "readingMinutes": 5,
+    "likes": 91,
+    "comments": 83,
+    "engagementScore": 257,
+    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/11/BTE-L.png?fit=2530%2C1530&ssl=1",
+    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/11/BTE-L.png?fit=2530%2C1530&ssl=1",
+    "platforms": {
+      "hn": {
+        "points": 91,
+        "comments": 83,
+        "itemUrl": "https://news.ycombinator.com/item?id=50405979"
+      }
+    }
+  },
+  {
     "id": "honest-broker-com-p-12-things-i-learned-from-rene-girard",
     "title": "Things I Learned from René Girard",
     "excerpt": "",
@@ -18698,30 +18722,6 @@
         "points": 85,
         "comments": 85,
         "itemUrl": "https://news.ycombinator.com/item?id=22483204"
-      }
-    }
-  },
-  {
-    "id": "longreads-com-2026-11-05-time-capsules-ashley-stimpson",
-    "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
-    "excerpt": "The future doesn’t care about your time capsule, but don’t let that stop you.",
-    "author": "ohjeez",
-    "sourceSlug": "longreads-com",
-    "sourceName": "Longreads",
-    "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson",
-    "publishedAt": "2026-11-07T16:51:17Z",
-    "category": "Creativity",
-    "readingMinutes": 5,
-    "likes": 91,
-    "comments": 82,
-    "engagementScore": 255,
-    "coverImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/11/BTE-L.png?fit=2530%2C1530&ssl=1",
-    "thumbnailUrl": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/11/BTE-L.png?fit=2530%2C1530&ssl=1",
-    "platforms": {
-      "hn": {
-        "points": 91,
-        "comments": 82,
-        "itemUrl": "https://news.ycombinator.com/item?id=50405979"
       }
     }
   },
