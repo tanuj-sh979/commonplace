@@ -10044,6 +10044,30 @@
     }
   },
   {
+    "id": "noemamag-com-the-mythology-of-conscious-ai",
+    "title": "The Mythology Of Conscious AI | NOEMA",
+    "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
+    "author": "Anon84",
+    "sourceSlug": "noemamag-com",
+    "sourceName": "NOEMA",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+    "publishedAt": "2026-11-22T02:10:02Z",
+    "category": "Original Thinking",
+    "readingMinutes": 5,
+    "likes": 100,
+    "comments": 251,
+    "engagementScore": 602,
+    "coverImage": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "thumbnailUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "platforms": {
+      "hn": {
+        "points": 100,
+        "comments": 251,
+        "itemUrl": "https://news.ycombinator.com/item?id=50595537"
+      }
+    }
+  },
+  {
     "id": "gwern-net-banner",
     "title": "A/B test of banner ads vs. traffic",
     "excerpt": "9 months of daily A/B-testing of Google AdSense banner ads on Gwern.net indicates banner ads decrease total traffic substantially, possibly due to spillover effects in reader engagement and resharing.",
@@ -11950,14 +11974,14 @@
     "publishedAt": "2026-11-11T12:29:48Z",
     "category": "Original Thinking",
     "readingMinutes": 4,
-    "likes": 229,
+    "likes": 230,
     "comments": 136,
-    "engagementScore": 501,
+    "engagementScore": 502,
     "coverImage": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
     "thumbnailUrl": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
     "platforms": {
       "hn": {
-        "points": 229,
+        "points": 230,
         "comments": 136,
         "itemUrl": "https://news.ycombinator.com/item?id=50452652"
       }
@@ -25970,30 +25994,6 @@
         "points": 50,
         "comments": 16,
         "itemUrl": "https://news.ycombinator.com/item?id=10495294"
-      }
-    }
-  },
-  {
-    "id": "noemamag-com-a-green-revolution-in-carbon-valley",
-    "title": "A Green Revolution In California’s ‘Carbon Valley’ | NOEMA",
-    "excerpt": "Kern County is not only a top carbon emitter but now also the state’s largest renewable energy producer. As it tries to become a leader in carbon removal, it faces a debate over who benefits from and who pays for this new economic model.",
-    "author": "PaulHoule",
-    "sourceSlug": "noemamag-com",
-    "sourceName": "NOEMA",
-    "url": "https://www.noemamag.com/a-green-revolution-in-carbon-valley",
-    "publishedAt": "2023-08-29T23:58:15Z",
-    "category": "Original Thinking",
-    "readingMinutes": 6,
-    "likes": 45,
-    "comments": 18,
-    "engagementScore": 81,
-    "coverImage": "https://noemamag.imgix.net/2023/08/Carbon-Dilemmas_Fenna-Schilling.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9a41832c80b665fd79d586eea7ae3f24",
-    "thumbnailUrl": "https://noemamag.imgix.net/2023/08/Carbon-Dilemmas_Fenna-Schilling.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9a41832c80b665fd79d586eea7ae3f24",
-    "platforms": {
-      "hn": {
-        "points": 45,
-        "comments": 18,
-        "itemUrl": "https://news.ycombinator.com/item?id=37315827"
       }
     }
   },
