@@ -3082,6 +3082,30 @@
     }
   },
   {
+    "id": "noemamag-com-the-mythology-of-conscious-ai",
+    "title": "The Mythology Of Conscious AI | NOEMA",
+    "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
+    "author": "Anon84",
+    "sourceSlug": "noemamag-com",
+    "sourceName": "NOEMA",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+    "publishedAt": "2026-11-22T02:10:02Z",
+    "category": "Original Thinking",
+    "readingMinutes": 5,
+    "likes": 179,
+    "comments": 534,
+    "engagementScore": 1247,
+    "coverImage": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "thumbnailUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "platforms": {
+      "hn": {
+        "points": 179,
+        "comments": 534,
+        "itemUrl": "https://news.ycombinator.com/item?id=50595537"
+      }
+    }
+  },
+  {
     "id": "newyorker-com-books-under-review-the-bullshit-job-boom",
     "title": "For more and more people, work appears to serve no purpose",
     "excerpt": "For more and more people, work appears to serve no purpose. Is there any good left in the grind?",
@@ -10040,30 +10064,6 @@
         "points": 313,
         "comments": 145,
         "itemUrl": "https://news.ycombinator.com/item?id=15977166"
-      }
-    }
-  },
-  {
-    "id": "noemamag-com-the-mythology-of-conscious-ai",
-    "title": "The Mythology Of Conscious AI | NOEMA",
-    "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
-    "author": "Anon84",
-    "sourceSlug": "noemamag-com",
-    "sourceName": "NOEMA",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-    "publishedAt": "2026-11-22T02:10:02Z",
-    "category": "Original Thinking",
-    "readingMinutes": 5,
-    "likes": 100,
-    "comments": 251,
-    "engagementScore": 602,
-    "coverImage": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-    "thumbnailUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-    "platforms": {
-      "hn": {
-        "points": 100,
-        "comments": 251,
-        "itemUrl": "https://news.ycombinator.com/item?id=50595537"
       }
     }
   },
