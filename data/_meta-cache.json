@@ -12030,5 +12030,15 @@
     "author": "",
     "canonical": "https://www.noemamag.com/the-mythology-of-conscious-ai",
     "fetchedAt": "2026-11-22T14:41:32.465Z"
+  },
+  "https://lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being": {
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed — LessWrong",
+    "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
+    "coverImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "thumbnailUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "sourceName": "",
+    "author": "",
+    "canonical": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "fetchedAt": "2026-11-25T17:20:45.659Z"
   }
 }

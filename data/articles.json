@@ -2826,6 +2826,30 @@
     }
   },
   {
+    "id": "noemamag-com-the-mythology-of-conscious-ai",
+    "title": "The Mythology Of Conscious AI | NOEMA",
+    "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
+    "author": "Anon84",
+    "sourceSlug": "noemamag-com",
+    "sourceName": "NOEMA",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+    "publishedAt": "2026-11-22T02:10:02Z",
+    "category": "Original Thinking",
+    "readingMinutes": 5,
+    "likes": 181,
+    "comments": 562,
+    "engagementScore": 1305,
+    "coverImage": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "thumbnailUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+    "platforms": {
+      "hn": {
+        "points": 181,
+        "comments": 562,
+        "itemUrl": "https://news.ycombinator.com/item?id=50595537"
+      }
+    }
+  },
+  {
     "id": "longreads-com-2022-11-15-death-in-national-parks",
     "title": "‘That Girl is Going to Get Herself Killed’ - Longreads",
     "excerpt": "Krista Diamond | Longreads | November 2022 | 16 minutes (4,342 words) In 2012, I was working at a hotel in Glacier National Park when a man I’d just met invited me for a day of tubing and drinking beer on the river. Little did I know, I would nearly drown in the rapids. But […]",
@@ -2846,30 +2870,6 @@
         "points": 392,
         "comments": 456,
         "itemUrl": "https://news.ycombinator.com/item?id=34309977"
-      }
-    }
-  },
-  {
-    "id": "noemamag-com-the-mythology-of-conscious-ai",
-    "title": "The Mythology Of Conscious AI | NOEMA",
-    "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
-    "author": "Anon84",
-    "sourceSlug": "noemamag-com",
-    "sourceName": "NOEMA",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-    "publishedAt": "2026-11-22T02:10:02Z",
-    "category": "Original Thinking",
-    "readingMinutes": 5,
-    "likes": 181,
-    "comments": 559,
-    "engagementScore": 1299,
-    "coverImage": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-    "thumbnailUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-    "platforms": {
-      "hn": {
-        "points": 181,
-        "comments": 559,
-        "itemUrl": "https://news.ycombinator.com/item?id=50595537"
       }
     }
   },
@@ -8124,6 +8124,30 @@
         "points": 295,
         "comments": 210,
         "itemUrl": "https://news.ycombinator.com/item?id=43066720"
+      }
+    }
+  },
+  {
+    "id": "lesswrong-com-posts-7wzwulp3hhyblmkfo-models-can-communicate-via-inference-servers-despite-being",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed — LessWrong",
+    "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
+    "author": "gmays",
+    "sourceSlug": "lesswrong-com",
+    "sourceName": "LessWrong",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "publishedAt": "2026-11-25T02:34:21Z",
+    "category": "Learning",
+    "readingMinutes": 5,
+    "likes": 387,
+    "comments": 163,
+    "engagementScore": 713,
+    "coverImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "thumbnailUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "platforms": {
+      "hn": {
+        "points": 387,
+        "comments": 163,
+        "itemUrl": "https://news.ycombinator.com/item?id=50637686"
       }
     }
   },
@@ -16072,28 +16096,6 @@
         "points": 176,
         "comments": 82,
         "itemUrl": "https://news.ycombinator.com/item?id=18810181"
-      }
-    }
-  },
-  {
-    "id": "lesswrong-com-posts-nfdhg6ohbj8qxc26s-the-zettelkasten-method-1",
-    "title": "The Zettelkasten Method (2019)",
-    "excerpt": "",
-    "author": "tablet",
-    "sourceSlug": "lesswrong-com",
-    "sourceName": "LessWrong",
-    "url": "https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1",
-    "publishedAt": "2021-08-18T06:45:23Z",
-    "category": "Learning",
-    "readingMinutes": 4,
-    "likes": 159,
-    "comments": 90,
-    "engagementScore": 339,
-    "platforms": {
-      "hn": {
-        "points": 159,
-        "comments": 90,
-        "itemUrl": "https://news.ycombinator.com/item?id=28218288"
       }
     }
   },
