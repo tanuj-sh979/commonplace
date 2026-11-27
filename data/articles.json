@@ -5580,6 +5580,30 @@
     }
   },
   {
+    "id": "lesswrong-com-posts-7wzwulp3hhyblmkfo-models-can-communicate-via-inference-servers-despite-being",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed — LessWrong",
+    "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
+    "author": "gmays",
+    "sourceSlug": "lesswrong-com",
+    "sourceName": "LessWrong",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "publishedAt": "2026-11-25T02:34:21Z",
+    "category": "Learning",
+    "readingMinutes": 5,
+    "likes": 467,
+    "comments": 217,
+    "engagementScore": 901,
+    "coverImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "thumbnailUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+    "platforms": {
+      "hn": {
+        "points": 467,
+        "comments": 217,
+        "itemUrl": "https://news.ycombinator.com/item?id=50637686"
+      }
+    }
+  },
+  {
     "id": "noemamag-com-we-need-to-rewild-the-internet",
     "title": "We Need To Rewild The Internet | NOEMA",
     "excerpt": "The internet has become an extractive and fragile monoculture. But we can revitalize it using lessons learned by ecologists.",
@@ -5624,30 +5648,6 @@
         "points": 373,
         "comments": 261,
         "itemUrl": "https://news.ycombinator.com/item?id=18034714"
-      }
-    }
-  },
-  {
-    "id": "lesswrong-com-posts-7wzwulp3hhyblmkfo-models-can-communicate-via-inference-servers-despite-being",
-    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed — LessWrong",
-    "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
-    "author": "gmays",
-    "sourceSlug": "lesswrong-com",
-    "sourceName": "LessWrong",
-    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-    "publishedAt": "2026-11-25T02:34:21Z",
-    "category": "Learning",
-    "readingMinutes": 5,
-    "likes": 461,
-    "comments": 216,
-    "engagementScore": 893,
-    "coverImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
-    "thumbnailUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
-    "platforms": {
-      "hn": {
-        "points": 461,
-        "comments": 216,
-        "itemUrl": "https://news.ycombinator.com/item?id=50637686"
       }
     }
   },
